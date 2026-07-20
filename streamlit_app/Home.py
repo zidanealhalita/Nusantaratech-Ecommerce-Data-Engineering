@@ -150,11 +150,11 @@ st.divider()
 st.subheader("🧭 Jelajahi Dashboard")
 nav = st.columns(5)
 nav_items = [
-    ("📈 Sales Performance", "Revenue, profit, produk terlaris, status order, metode pembayaran."),
-    ("👥 ustomer Analytics", "Segmentasi tier, top pelanggan, retensi & aktivasi."),
-    ("🌐 Web Analytics", "Funnel konversi, device, performa halaman."),
-    ("📦 Inventory & Warehouse", "Posisi stok, mutasi gudang, produk rusak."),
-    ("🧭 Executive Summary", "Ringkasan lintas domain untuk manajemen."),
+    ("Sales Performance", "Revenue, profit, produk terlaris, status order, metode pembayaran."),
+    ("Customer Analytics", "Segmentasi tier, top pelanggan, retensi & aktivasi."),
+    ("Web Analytics", "Funnel konversi, device, performa halaman."),
+    ("Inventory & Warehouse", "Posisi stok, mutasi gudang, produk rusak."),
+    ("Executive Summary", "Ringkasan lintas domain untuk manajemen."),
 ]
 for c, (icon, title, desc) in zip(nav, nav_items):
     with c:
