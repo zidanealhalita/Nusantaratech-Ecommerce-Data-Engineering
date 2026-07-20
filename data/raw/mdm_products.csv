@@ -1,0 +1,2501 @@
+product_id,nama_produk,kategori,harga_modal_idr,harga_jual_idr,is_active
+PROD-0001,Product Premium Type-1,Beauty & Health,6359183,8833943,True
+PROD-0002,Product Premium Type-2,Beauty & Health,6657071,9102011,True
+PROD-0003,Product Premium Type-3,Automotive,5800236,7871626,True
+PROD-0004,Product Premium Type-4,Beauty & Health,6957667,8712136,True
+PROD-0005,Product Premium Type-5,Automotive,1474087,2051176,True
+PROD-0006,Product Premium Type-6,Electronics,2556528,2980189,False
+PROD-0007,Product Premium Type-7,Automotive,2133542,2555743,True
+PROD-0008,Product Premium Type-8,Books,6947496,8689142,True
+PROD-0009,Product Premium Type-9,Apparel,962635,1129211,True
+PROD-0010,Product Premium Type-10,Beauty & Health,3527626,4305461,True
+PROD-0011,Product Premium Type-11,Automotive,1411689,1975016,True
+PROD-0012,Product Premium Type-12,Apparel,3841126,5510000,True
+PROD-0013,Product Premium Type-13,Apparel,3091983,3838328,True
+PROD-0014,Product Premium Type-14,Electronics,2871230,3529760,True
+PROD-0015,Product Premium Type-15,Home & Living,5607088,6918966,True
+PROD-0016,Product Premium Type-16,Apparel,2143433,2643529,True
+PROD-0017,Product Premium Type-17,Automotive,6370645,7394911,True
+PROD-0018,Product Premium Type-18,Home & Living,4481397,6399770,True
+PROD-0019,Product Premium Type-19,Electronics,5578535,6772952,True
+PROD-0020,Product Premium Type-20,Books,3703621,4725824,False
+PROD-0021,Product Premium Type-21,Books,4581766,5282345,True
+PROD-0022,Product Premium Type-22,Books,6711053,9445045,False
+PROD-0023,Product Premium Type-23,Apparel,6252018,8561183,False
+PROD-0024,Product Premium Type-24,Home & Living,5025546,7206767,True
+PROD-0025,Product Premium Type-25,Electronics,1322991,1831660,True
+PROD-0026,Product Premium Type-26,Home & Living,6996138,8703978,True
+PROD-0027,Product Premium Type-27,Beauty & Health,5309749,6501054,True
+PROD-0028,Product Premium Type-28,Apparel,6873699,9343521,True
+PROD-0029,Product Premium Type-29,Automotive,3756404,4730191,False
+PROD-0030,Product Premium Type-30,Electronics,1839188,2427478,True
+PROD-0031,Product Premium Type-31,Home & Living,2132359,2456215,True
+PROD-0032,Product Premium Type-32,Home & Living,243401,284430,True
+PROD-0033,Product Premium Type-33,Books,1010132,1323889,True
+PROD-0034,Product Premium Type-34,Home & Living,184292,243232,True
+PROD-0035,Product Premium Type-35,Home & Living,5745146,7902079,True
+PROD-0036,Product Premium Type-36,Apparel,4716066,5610183,True
+PROD-0037,Product Premium Type-37,Electronics,3192759,4163213,True
+PROD-0038,Product Premium Type-38,Beauty & Health,488937,590799,True
+PROD-0039,Product Premium Type-39,Beauty & Health,2989391,3521379,True
+PROD-0040,Product Premium Type-40,Automotive,6912056,8800075,True
+PROD-0041,Product Premium Type-41,Books,2706206,3244743,True
+PROD-0042,Product Premium Type-42,Apparel,1217097,1480640,True
+PROD-0043,Product Premium Type-43,Home & Living,6668433,8303975,True
+PROD-0044,Product Premium Type-44,Beauty & Health,212771,261243,False
+PROD-0045,Product Premium Type-45,Automotive,262199,308418,True
+PROD-0046,Product Premium Type-46,Electronics,7315213,8609821,True
+PROD-0047,Product Premium Type-47,Books,6028899,7282758,True
+PROD-0048,Product Premium Type-48,Automotive,2882281,3358340,True
+PROD-0049,Product Premium Type-49,Books,2757481,3689336,True
+PROD-0050,Product Premium Type-50,Electronics,4859777,6007646,True
+PROD-0051,Product Premium Type-51,Home & Living,2299316,2837180,True
+PROD-0052,Product Premium Type-52,Electronics,3627615,4533065,True
+PROD-0053,Product Premium Type-53,Automotive,1608214,2169221,True
+PROD-0054,Product Premium Type-54,Books,776518,1095814,True
+PROD-0055,Product Premium Type-55,Home & Living,538313,741647,True
+PROD-0056,Product Premium Type-56,Home & Living,7359182,10069265,False
+PROD-0057,Product Premium Type-57,Home & Living,3956586,5125034,True
+PROD-0058,Product Premium Type-58,Electronics,3239215,4399312,True
+PROD-0059,Product Premium Type-59,Electronics,6465150,8507029,True
+PROD-0060,Product Premium Type-60,Home & Living,6440309,7824171,False
+PROD-0061,Product Premium Type-61,Beauty & Health,3485989,4227028,True
+PROD-0062,Product Premium Type-62,Apparel,2357214,2920393,False
+PROD-0063,Product Premium Type-63,Books,2355229,3352058,True
+PROD-0064,Product Premium Type-64,Home & Living,5106820,6711507,True
+PROD-0065,Product Premium Type-65,Electronics,5291662,7250485,True
+PROD-0066,Product Premium Type-66,Electronics,1888462,2368070,True
+PROD-0067,Product Premium Type-67,Books,6122216,7789385,True
+PROD-0068,Product Premium Type-68,Books,679224,806693,True
+PROD-0069,Product Premium Type-69,Apparel,2275397,2733635,True
+PROD-0070,Product Premium Type-70,Electronics,2024284,2830367,False
+PROD-0071,Product Premium Type-71,Automotive,2026676,2686260,True
+PROD-0072,Product Premium Type-72,Automotive,7487290,9368544,True
+PROD-0073,Product Premium Type-73,Apparel,1709532,2377711,True
+PROD-0074,Product Premium Type-74,Books,479418,586786,True
+PROD-0075,Product Premium Type-75,Electronics,5750496,8296872,True
+PROD-0076,Product Premium Type-76,Books,1497542,1877086,True
+PROD-0077,Product Premium Type-77,Electronics,4498014,5627884,True
+PROD-0078,Product Premium Type-78,Apparel,4881854,6070944,True
+PROD-0079,Product Premium Type-79,Beauty & Health,7322567,8689202,True
+PROD-0080,Product Premium Type-80,Home & Living,587621,695356,True
+PROD-0081,Product Premium Type-81,Apparel,3554801,4779186,True
+PROD-0082,Product Premium Type-82,Books,4833163,6827013,True
+PROD-0083,Product Premium Type-83,Books,7485295,10383273,False
+PROD-0084,Product Premium Type-84,Home & Living,6309851,7523439,True
+PROD-0085,Product Premium Type-85,Home & Living,1623099,2132223,False
+PROD-0086,Product Premium Type-86,Home & Living,4219463,4986044,True
+PROD-0087,Product Premium Type-87,Books,3838233,4466123,True
+PROD-0088,Product Premium Type-88,Apparel,7314869,9852512,True
+PROD-0089,Product Premium Type-89,Automotive,1236569,1620580,True
+PROD-0090,Product Premium Type-90,Home & Living,4586307,5387108,True
+PROD-0091,Product Premium Type-91,Electronics,1220885,1416814,True
+PROD-0092,Product Premium Type-92,Books,1181083,1708940,True
+PROD-0093,Product Premium Type-93,Beauty & Health,1999324,2317229,True
+PROD-0094,Product Premium Type-94,Books,5282623,6779499,True
+PROD-0095,Product Premium Type-95,Apparel,3923190,5105583,False
+PROD-0096,Product Premium Type-96,Apparel,7411133,8783556,True
+PROD-0097,Product Premium Type-97,Home & Living,3413445,4098586,True
+PROD-0098,Product Premium Type-98,Beauty & Health,2767974,3475306,True
+PROD-0099,Product Premium Type-99,Books,3517099,4848330,True
+PROD-0100,Product Premium Type-100,Electronics,1304180,1698205,True
+PROD-0101,Product Premium Type-101,Home & Living,3358178,4504561,False
+PROD-0102,Product Premium Type-102,Beauty & Health,4556211,6586241,True
+PROD-0103,Product Premium Type-103,Apparel,2609182,3601719,True
+PROD-0104,Product Premium Type-104,Electronics,1833286,2347171,True
+PROD-0105,Product Premium Type-105,Apparel,4624757,5937876,False
+PROD-0106,Product Premium Type-106,Home & Living,4890313,6531656,True
+PROD-0107,Product Premium Type-107,Electronics,4388089,5922206,True
+PROD-0108,Product Premium Type-108,Apparel,6520991,8478679,True
+PROD-0109,Product Premium Type-109,Books,2822921,3792476,True
+PROD-0110,Product Premium Type-110,Books,4399142,5090070,True
+PROD-0111,Product Premium Type-111,Beauty & Health,6886898,8807563,True
+PROD-0112,Product Premium Type-112,Home & Living,294160,362899,True
+PROD-0113,Product Premium Type-113,Electronics,2594931,3084730,True
+PROD-0114,Product Premium Type-114,Apparel,466904,550883,True
+PROD-0115,Product Premium Type-115,Beauty & Health,5095414,6781780,True
+PROD-0116,Product Premium Type-116,Apparel,5117792,6689364,True
+PROD-0117,Product Premium Type-117,Books,603526,739968,True
+PROD-0118,Product Premium Type-118,Beauty & Health,6637208,8570527,True
+PROD-0119,Product Premium Type-119,Home & Living,5881249,7631918,True
+PROD-0120,Product Premium Type-120,Electronics,862393,1042204,False
+PROD-0121,Product Premium Type-121,Books,3370503,4535442,True
+PROD-0122,Product Premium Type-122,Books,7278717,10075751,True
+PROD-0123,Product Premium Type-123,Automotive,5159544,7158552,True
+PROD-0124,Product Premium Type-124,Books,839422,1117053,True
+PROD-0125,Product Premium Type-125,Beauty & Health,5330431,6948171,True
+PROD-0126,Product Premium Type-126,Beauty & Health,6243545,7294347,True
+PROD-0127,Product Premium Type-127,Apparel,759983,939604,True
+PROD-0128,Product Premium Type-128,Home & Living,2288429,2695726,True
+PROD-0129,Product Premium Type-129,Books,3160812,4548872,True
+PROD-0130,Product Premium Type-130,Automotive,4300115,5119390,True
+PROD-0131,Product Premium Type-131,Beauty & Health,2901280,3468574,True
+PROD-0132,Product Premium Type-132,Beauty & Health,2963687,4199168,True
+PROD-0133,Product Premium Type-133,Books,5178435,7421621,True
+PROD-0134,Product Premium Type-134,Apparel,1441842,1989379,True
+PROD-0135,Product Premium Type-135,Electronics,2356256,2713515,False
+PROD-0136,Product Premium Type-136,Electronics,3714024,4272627,True
+PROD-0137,Product Premium Type-137,Electronics,4421650,5586446,True
+PROD-0138,Product Premium Type-138,Apparel,3727418,4446879,True
+PROD-0139,Product Premium Type-139,Apparel,2306608,2665322,False
+PROD-0140,Product Premium Type-140,Home & Living,3955010,5098878,True
+PROD-0141,Product Premium Type-141,Automotive,5666889,8120190,True
+PROD-0142,Product Premium Type-142,Electronics,3666771,4572998,False
+PROD-0143,Product Premium Type-143,Beauty & Health,6453099,8700985,True
+PROD-0144,Product Premium Type-144,Apparel,4104441,5523225,True
+PROD-0145,Product Premium Type-145,Electronics,5381430,6593995,True
+PROD-0146,Product Premium Type-146,Beauty & Health,6800602,9147677,True
+PROD-0147,Product Premium Type-147,Home & Living,985652,1196286,True
+PROD-0148,Product Premium Type-148,Books,2213370,2626389,True
+PROD-0149,Product Premium Type-149,Automotive,7498328,10200837,True
+PROD-0150,Product Premium Type-150,Beauty & Health,1573485,1863056,True
+PROD-0151,Product Premium Type-151,Electronics,1592343,2307420,True
+PROD-0152,Product Premium Type-152,Books,3350495,4037466,True
+PROD-0153,Product Premium Type-153,Books,5126515,6809255,True
+PROD-0154,Product Premium Type-154,Home & Living,5659738,7207180,True
+PROD-0155,Product Premium Type-155,Home & Living,6033228,7166967,True
+PROD-0156,Product Premium Type-156,Books,3410744,3950846,False
+PROD-0157,Product Premium Type-157,Electronics,6348897,8487330,True
+PROD-0158,Product Premium Type-158,Books,5505918,7664387,True
+PROD-0159,Product Premium Type-159,Apparel,7010945,9833584,False
+PROD-0160,Product Premium Type-160,Automotive,780612,1010747,True
+PROD-0161,Product Premium Type-161,Apparel,4019528,5559958,True
+PROD-0162,Product Premium Type-162,Beauty & Health,2101475,2840887,False
+PROD-0163,Product Premium Type-163,Automotive,2166912,2962767,True
+PROD-0164,Product Premium Type-164,Apparel,3169311,4113067,True
+PROD-0165,Product Premium Type-165,Apparel,310622,416240,True
+PROD-0166,Product Premium Type-166,Home & Living,1987889,2766461,True
+PROD-0167,Product Premium Type-167,Electronics,1931862,2452238,True
+PROD-0168,Product Premium Type-168,Home & Living,4051390,5638698,False
+PROD-0169,Product Premium Type-169,Beauty & Health,1421436,1887105,True
+PROD-0170,Product Premium Type-170,Apparel,692540,830888,True
+PROD-0171,Product Premium Type-171,Beauty & Health,2220690,2570238,True
+PROD-0172,Product Premium Type-172,Books,1613236,2030783,True
+PROD-0173,Product Premium Type-173,Apparel,5035532,6616733,True
+PROD-0174,Product Premium Type-174,Books,5195080,7283222,True
+PROD-0175,Product Premium Type-175,Beauty & Health,4730815,5621370,True
+PROD-0176,Product Premium Type-176,Electronics,5488915,7629931,True
+PROD-0177,Product Premium Type-177,Beauty & Health,3007410,4237148,True
+PROD-0178,Product Premium Type-178,Beauty & Health,6699192,8006916,True
+PROD-0179,Product Premium Type-179,Automotive,1429355,2008927,True
+PROD-0180,Product Premium Type-180,Automotive,5903190,8544490,True
+PROD-0181,Product Premium Type-181,Apparel,2700480,3694396,True
+PROD-0182,Product Premium Type-182,Apparel,5081093,7039503,True
+PROD-0183,Product Premium Type-183,Automotive,5994608,8682138,True
+PROD-0184,Product Premium Type-184,Beauty & Health,3449083,4592951,True
+PROD-0185,Product Premium Type-185,Beauty & Health,2489722,3093145,False
+PROD-0186,Product Premium Type-186,Apparel,6584442,9226510,True
+PROD-0187,Product Premium Type-187,Apparel,6772787,9037239,True
+PROD-0188,Product Premium Type-188,Electronics,6121164,8106616,True
+PROD-0189,Product Premium Type-189,Apparel,5655761,6934475,True
+PROD-0190,Product Premium Type-190,Books,5575992,7677584,True
+PROD-0191,Product Premium Type-191,Electronics,2926092,3436695,True
+PROD-0192,Product Premium Type-192,Home & Living,2275229,3247402,True
+PROD-0193,Product Premium Type-193,Apparel,7419607,9257792,False
+PROD-0194,Product Premium Type-194,Apparel,1547534,1838984,False
+PROD-0195,Product Premium Type-195,Books,1747907,2242057,True
+PROD-0196,Product Premium Type-196,Electronics,2540967,2954486,True
+PROD-0197,Product Premium Type-197,Automotive,4700112,6370474,True
+PROD-0198,Product Premium Type-198,Apparel,5859082,8324651,True
+PROD-0199,Product Premium Type-199,Electronics,2895574,4057217,True
+PROD-0200,Product Premium Type-200,Electronics,6907799,8207921,True
+PROD-0201,Product Premium Type-201,Books,6946983,8252191,True
+PROD-0202,Product Premium Type-202,Books,6551925,9133582,True
+PROD-0203,Product Premium Type-203,Automotive,5390986,7694426,True
+PROD-0204,Product Premium Type-204,Home & Living,2913939,3753738,True
+PROD-0205,Product Premium Type-205,Beauty & Health,4011280,5213425,True
+PROD-0206,Product Premium Type-206,Beauty & Health,6784291,8449689,True
+PROD-0207,Product Premium Type-207,Apparel,6616942,9384673,True
+PROD-0208,Product Premium Type-208,Apparel,2069940,2780904,True
+PROD-0209,Product Premium Type-209,Home & Living,2124409,2626779,False
+PROD-0210,Product Premium Type-210,Books,5557388,6889131,True
+PROD-0211,Product Premium Type-211,Books,7476747,10597242,True
+PROD-0212,Product Premium Type-212,Electronics,3197382,3690067,True
+PROD-0213,Product Premium Type-213,Automotive,3906857,4871139,True
+PROD-0214,Product Premium Type-214,Books,4562871,6006139,True
+PROD-0215,Product Premium Type-215,Beauty & Health,316464,378005,True
+PROD-0216,Product Premium Type-216,Electronics,4764400,5610698,True
+PROD-0217,Product Premium Type-217,Home & Living,2698829,3763740,True
+PROD-0218,Product Premium Type-218,Electronics,6805362,9652189,True
+PROD-0219,Product Premium Type-219,Home & Living,143581,200594,True
+PROD-0220,Product Premium Type-220,Home & Living,5395807,7660083,True
+PROD-0221,Product Premium Type-221,Home & Living,5302653,6977939,True
+PROD-0222,Product Premium Type-222,Home & Living,3877256,5403644,True
+PROD-0223,Product Premium Type-223,Beauty & Health,5688843,7197596,True
+PROD-0224,Product Premium Type-224,Books,363540,490735,True
+PROD-0225,Product Premium Type-225,Apparel,526590,761791,True
+PROD-0226,Product Premium Type-226,Home & Living,1443412,1757669,True
+PROD-0227,Product Premium Type-227,Electronics,3385492,4289316,False
+PROD-0228,Product Premium Type-228,Apparel,1655369,2142071,True
+PROD-0229,Product Premium Type-229,Electronics,897328,1069080,True
+PROD-0230,Product Premium Type-230,Electronics,4834479,5677184,True
+PROD-0231,Product Premium Type-231,Electronics,5389998,7540159,True
+PROD-0232,Product Premium Type-232,Beauty & Health,3135691,4524922,True
+PROD-0233,Product Premium Type-233,Beauty & Health,1383097,1758493,True
+PROD-0234,Product Premium Type-234,Home & Living,3325354,3911597,True
+PROD-0235,Product Premium Type-235,Apparel,5068227,5928525,True
+PROD-0236,Product Premium Type-236,Home & Living,1319315,1869991,True
+PROD-0237,Product Premium Type-237,Books,6112595,7880016,True
+PROD-0238,Product Premium Type-238,Home & Living,2600508,3240254,True
+PROD-0239,Product Premium Type-239,Automotive,2401219,3104628,True
+PROD-0240,Product Premium Type-240,Electronics,1383311,1722901,True
+PROD-0241,Product Premium Type-241,Books,5854429,7591500,True
+PROD-0242,Product Premium Type-242,Apparel,4535784,6385780,True
+PROD-0243,Product Premium Type-243,Home & Living,6652683,8832703,True
+PROD-0244,Product Premium Type-244,Books,5853116,7950850,True
+PROD-0245,Product Premium Type-245,Home & Living,1314467,1655441,True
+PROD-0246,Product Premium Type-246,Home & Living,189074,259324,True
+PROD-0247,Product Premium Type-247,Home & Living,2595466,3503840,True
+PROD-0248,Product Premium Type-248,Electronics,3680180,4364209,True
+PROD-0249,Product Premium Type-249,Electronics,6258400,8272308,True
+PROD-0250,Product Premium Type-250,Beauty & Health,4508120,5531567,True
+PROD-0251,Product Premium Type-251,Electronics,815645,1134748,True
+PROD-0252,Product Premium Type-252,Beauty & Health,3312093,4232130,True
+PROD-0253,Product Premium Type-253,Automotive,1042481,1509934,True
+PROD-0254,Product Premium Type-254,Apparel,3619804,4263224,True
+PROD-0255,Product Premium Type-255,Home & Living,87507,121118,True
+PROD-0256,Product Premium Type-256,Home & Living,1130710,1528844,True
+PROD-0257,Product Premium Type-257,Beauty & Health,6449628,8902096,True
+PROD-0258,Product Premium Type-258,Home & Living,2363377,2935926,True
+PROD-0259,Product Premium Type-259,Beauty & Health,4412373,5725567,True
+PROD-0260,Product Premium Type-260,Automotive,7131060,9904704,True
+PROD-0261,Product Premium Type-261,Automotive,831564,1014310,True
+PROD-0262,Product Premium Type-262,Automotive,3943949,4802980,True
+PROD-0263,Product Premium Type-263,Home & Living,6072511,7987266,True
+PROD-0264,Product Premium Type-264,Apparel,1634473,2136369,True
+PROD-0265,Product Premium Type-265,Beauty & Health,1736952,2144577,True
+PROD-0266,Product Premium Type-266,Home & Living,5700875,7065793,True
+PROD-0267,Product Premium Type-267,Apparel,6812469,8402182,True
+PROD-0268,Product Premium Type-268,Automotive,6610481,9132072,True
+PROD-0269,Product Premium Type-269,Books,762954,1026608,True
+PROD-0270,Product Premium Type-270,Electronics,2933056,4105472,True
+PROD-0271,Product Premium Type-271,Electronics,732173,1056263,True
+PROD-0272,Product Premium Type-272,Apparel,7072184,9139024,True
+PROD-0273,Product Premium Type-273,Beauty & Health,5959261,6972384,True
+PROD-0274,Product Premium Type-274,Beauty & Health,4535579,5281353,True
+PROD-0275,Product Premium Type-275,Automotive,704447,872598,True
+PROD-0276,Product Premium Type-276,Electronics,1086404,1553300,True
+PROD-0277,Product Premium Type-277,Electronics,5198418,6794144,True
+PROD-0278,Product Premium Type-278,Automotive,3005248,3701070,True
+PROD-0279,Product Premium Type-279,Beauty & Health,2638987,3350853,True
+PROD-0280,Product Premium Type-280,Apparel,2778913,3694783,True
+PROD-0281,Product Premium Type-281,Apparel,6270563,8439456,False
+PROD-0282,Product Premium Type-282,Beauty & Health,5020929,6005914,False
+PROD-0283,Product Premium Type-283,Books,2560232,3694695,True
+PROD-0284,Product Premium Type-284,Electronics,5681403,7462134,True
+PROD-0285,Product Premium Type-285,Electronics,2403907,2862347,True
+PROD-0286,Product Premium Type-286,Automotive,7015607,9948766,True
+PROD-0287,Product Premium Type-287,Automotive,6197334,7265701,True
+PROD-0288,Product Premium Type-288,Home & Living,4557688,6482493,True
+PROD-0289,Product Premium Type-289,Home & Living,2854915,4136685,True
+PROD-0290,Product Premium Type-290,Beauty & Health,6057057,8238382,True
+PROD-0291,Product Premium Type-291,Books,7158131,9886339,True
+PROD-0292,Product Premium Type-292,Apparel,2388162,2988046,True
+PROD-0293,Product Premium Type-293,Automotive,4906909,7029014,True
+PROD-0294,Product Premium Type-294,Beauty & Health,5705820,7468428,True
+PROD-0295,Product Premium Type-295,Apparel,940113,1287688,True
+PROD-0296,Product Premium Type-296,Electronics,2717794,3878923,True
+PROD-0297,Product Premium Type-297,Apparel,7416406,10698566,True
+PROD-0298,Product Premium Type-298,Apparel,2236549,3131082,False
+PROD-0299,Product Premium Type-299,Books,2370704,2941819,True
+PROD-0300,Product Premium Type-300,Automotive,4606025,6632511,True
+PROD-0301,Product Premium Type-301,Beauty & Health,448332,600063,True
+PROD-0302,Product Premium Type-302,Home & Living,317575,453875,True
+PROD-0303,Product Premium Type-303,Automotive,1484700,2008548,True
+PROD-0304,Product Premium Type-304,Home & Living,54336,67494,True
+PROD-0305,Product Premium Type-305,Home & Living,7143880,9008485,True
+PROD-0306,Product Premium Type-306,Books,3226078,4242749,False
+PROD-0307,Product Premium Type-307,Beauty & Health,1667425,2312725,True
+PROD-0308,Product Premium Type-308,Beauty & Health,2632622,3278653,True
+PROD-0309,Product Premium Type-309,Electronics,1911963,2531284,False
+PROD-0310,Product Premium Type-310,Books,5329120,6681051,True
+PROD-0311,Product Premium Type-311,Electronics,2797605,3901905,True
+PROD-0312,Product Premium Type-312,Books,1472947,1900128,True
+PROD-0313,Product Premium Type-313,Books,5838775,6848981,True
+PROD-0314,Product Premium Type-314,Automotive,7267447,8719597,True
+PROD-0315,Product Premium Type-315,Automotive,4201426,4908657,False
+PROD-0316,Product Premium Type-316,Electronics,3881756,5045471,True
+PROD-0317,Product Premium Type-317,Apparel,6497652,7679582,True
+PROD-0318,Product Premium Type-318,Automotive,6631470,7853265,False
+PROD-0319,Product Premium Type-319,Home & Living,1523339,2181900,True
+PROD-0320,Product Premium Type-320,Beauty & Health,5856278,8267872,True
+PROD-0321,Product Premium Type-321,Apparel,701296,901604,True
+PROD-0322,Product Premium Type-322,Home & Living,404039,584135,True
+PROD-0323,Product Premium Type-323,Electronics,553714,636802,True
+PROD-0324,Product Premium Type-324,Automotive,7060655,9420282,False
+PROD-0325,Product Premium Type-325,Electronics,2936190,3919603,True
+PROD-0326,Product Premium Type-326,Beauty & Health,4660352,5998958,True
+PROD-0327,Product Premium Type-327,Apparel,577439,732818,True
+PROD-0328,Product Premium Type-328,Beauty & Health,4167535,5362012,True
+PROD-0329,Product Premium Type-329,Books,298452,380373,True
+PROD-0330,Product Premium Type-330,Books,6557309,8977924,True
+PROD-0331,Product Premium Type-331,Beauty & Health,803883,957108,True
+PROD-0332,Product Premium Type-332,Automotive,4396047,5316103,True
+PROD-0333,Product Premium Type-333,Automotive,5358186,6452088,True
+PROD-0334,Product Premium Type-334,Electronics,4968772,6105334,True
+PROD-0335,Product Premium Type-335,Apparel,7209872,9427466,True
+PROD-0336,Product Premium Type-336,Books,2214921,2621054,True
+PROD-0337,Product Premium Type-337,Automotive,7452297,10511098,True
+PROD-0338,Product Premium Type-338,Books,7134019,8840536,True
+PROD-0339,Product Premium Type-339,Automotive,3223156,3863794,True
+PROD-0340,Product Premium Type-340,Books,5826038,7880802,True
+PROD-0341,Product Premium Type-341,Books,4847139,5629592,True
+PROD-0342,Product Premium Type-342,Automotive,4979582,6652674,True
+PROD-0343,Product Premium Type-343,Home & Living,7414099,10079167,True
+PROD-0344,Product Premium Type-344,Apparel,5195393,6309674,True
+PROD-0345,Product Premium Type-345,Apparel,787371,915389,True
+PROD-0346,Product Premium Type-346,Electronics,3282945,4133535,True
+PROD-0347,Product Premium Type-347,Apparel,5686064,6707157,False
+PROD-0348,Product Premium Type-348,Automotive,3793950,4495615,True
+PROD-0349,Product Premium Type-349,Apparel,167980,205990,True
+PROD-0350,Product Premium Type-350,Automotive,6211807,7694194,True
+PROD-0351,Product Premium Type-351,Beauty & Health,4721671,6180625,True
+PROD-0352,Product Premium Type-352,Electronics,2459003,3328303,True
+PROD-0353,Product Premium Type-353,Automotive,6525785,8665141,True
+PROD-0354,Product Premium Type-354,Books,282354,337274,True
+PROD-0355,Product Premium Type-355,Automotive,3231943,3883586,True
+PROD-0356,Product Premium Type-356,Beauty & Health,5979075,8452204,True
+PROD-0357,Product Premium Type-357,Beauty & Health,6628029,8732465,False
+PROD-0358,Product Premium Type-358,Automotive,1942160,2740351,True
+PROD-0359,Product Premium Type-359,Home & Living,3340258,4213615,True
+PROD-0360,Product Premium Type-360,Home & Living,4396545,5866397,True
+PROD-0361,Product Premium Type-361,Apparel,2260883,2955197,True
+PROD-0362,Product Premium Type-362,Home & Living,2575982,3208996,True
+PROD-0363,Product Premium Type-363,Beauty & Health,789265,1018921,True
+PROD-0364,Product Premium Type-364,Home & Living,6655840,8657565,True
+PROD-0365,Product Premium Type-365,Automotive,5693889,6890922,True
+PROD-0366,Product Premium Type-366,Electronics,6430144,8002334,True
+PROD-0367,Product Premium Type-367,Apparel,333617,462867,False
+PROD-0368,Product Premium Type-368,Apparel,3005346,4281826,True
+PROD-0369,Product Premium Type-369,Electronics,769748,968295,True
+PROD-0370,Product Premium Type-370,Automotive,3661562,4547995,True
+PROD-0371,Product Premium Type-371,Apparel,2079410,2513089,True
+PROD-0372,Product Premium Type-372,Home & Living,5112692,6920270,True
+PROD-0373,Product Premium Type-373,Electronics,2502748,3120751,True
+PROD-0374,Product Premium Type-374,Beauty & Health,5132047,7422607,True
+PROD-0375,Product Premium Type-375,Apparel,759275,947351,True
+PROD-0376,Product Premium Type-376,Home & Living,6239638,7913363,True
+PROD-0377,Product Premium Type-377,Apparel,1322819,1760672,True
+PROD-0378,Product Premium Type-378,Home & Living,1059186,1472803,False
+PROD-0379,Product Premium Type-379,Electronics,623506,804856,True
+PROD-0380,Product Premium Type-380,Beauty & Health,5464296,6976795,True
+PROD-0381,Product Premium Type-381,Apparel,6219224,9009736,True
+PROD-0382,Product Premium Type-382,Apparel,581718,670807,False
+PROD-0383,Product Premium Type-383,Automotive,6339547,8992771,True
+PROD-0384,Product Premium Type-384,Electronics,6049293,7227345,True
+PROD-0385,Product Premium Type-385,Electronics,6218367,8617273,True
+PROD-0386,Product Premium Type-386,Beauty & Health,1621853,2165789,True
+PROD-0387,Product Premium Type-387,Home & Living,5343331,6692811,True
+PROD-0388,Product Premium Type-388,Beauty & Health,7342048,10368164,True
+PROD-0389,Product Premium Type-389,Automotive,6335446,7310294,False
+PROD-0390,Product Premium Type-390,Home & Living,377414,459692,True
+PROD-0391,Product Premium Type-391,Home & Living,2988944,3945608,True
+PROD-0392,Product Premium Type-392,Electronics,2372693,2978827,True
+PROD-0393,Product Premium Type-393,Beauty & Health,7138969,9517054,True
+PROD-0394,Product Premium Type-394,Automotive,2788545,3226996,False
+PROD-0395,Product Premium Type-395,Home & Living,3541144,4196034,True
+PROD-0396,Product Premium Type-396,Beauty & Health,3973401,4720912,True
+PROD-0397,Product Premium Type-397,Apparel,149932,180935,True
+PROD-0398,Product Premium Type-398,Books,5259259,6772870,True
+PROD-0399,Product Premium Type-399,Automotive,293083,403176,True
+PROD-0400,Product Premium Type-400,Home & Living,7478032,10631231,True
+PROD-0401,Product Premium Type-401,Home & Living,1776498,2488183,True
+PROD-0402,Product Premium Type-402,Electronics,6875807,8313306,True
+PROD-0403,Product Premium Type-403,Beauty & Health,6305757,8086157,True
+PROD-0404,Product Premium Type-404,Electronics,6809672,8238501,True
+PROD-0405,Product Premium Type-405,Home & Living,3902809,4797885,True
+PROD-0406,Product Premium Type-406,Apparel,4901709,6377437,True
+PROD-0407,Product Premium Type-407,Beauty & Health,1583426,1853293,True
+PROD-0408,Product Premium Type-408,Home & Living,5705865,6935206,True
+PROD-0409,Product Premium Type-409,Apparel,7150006,10228894,True
+PROD-0410,Product Premium Type-410,Home & Living,3255431,4198968,True
+PROD-0411,Product Premium Type-411,Electronics,2617316,3359628,True
+PROD-0412,Product Premium Type-412,Automotive,5920725,6834708,True
+PROD-0413,Product Premium Type-413,Beauty & Health,314220,384674,True
+PROD-0414,Product Premium Type-414,Automotive,5463757,7703283,True
+PROD-0415,Product Premium Type-415,Electronics,4001765,4799671,True
+PROD-0416,Product Premium Type-416,Beauty & Health,1420285,1810206,True
+PROD-0417,Product Premium Type-417,Beauty & Health,4701029,5426394,True
+PROD-0418,Product Premium Type-418,Beauty & Health,2947705,3812858,False
+PROD-0419,Product Premium Type-419,Books,7134321,8249460,True
+PROD-0420,Product Premium Type-420,Beauty & Health,2689749,3754574,True
+PROD-0421,Product Premium Type-421,Home & Living,5073204,7089580,True
+PROD-0422,Product Premium Type-422,Beauty & Health,6753926,9363120,True
+PROD-0423,Product Premium Type-423,Beauty & Health,4024453,4970236,True
+PROD-0424,Product Premium Type-424,Automotive,1431978,2006446,True
+PROD-0425,Product Premium Type-425,Automotive,7271813,9547159,True
+PROD-0426,Product Premium Type-426,Apparel,2946989,3719519,True
+PROD-0427,Product Premium Type-427,Books,1009156,1349846,True
+PROD-0428,Product Premium Type-428,Apparel,3738543,4313165,True
+PROD-0429,Product Premium Type-429,Home & Living,888659,1060070,True
+PROD-0430,Product Premium Type-430,Home & Living,5137300,7051910,True
+PROD-0431,Product Premium Type-431,Apparel,4968082,6077198,True
+PROD-0432,Product Premium Type-432,Automotive,2262035,3007155,True
+PROD-0433,Product Premium Type-433,Beauty & Health,1228920,1555236,True
+PROD-0434,Product Premium Type-434,Books,3133591,4407213,True
+PROD-0435,Product Premium Type-435,Apparel,3635954,5220228,True
+PROD-0436,Product Premium Type-436,Books,772852,1093639,True
+PROD-0437,Product Premium Type-437,Apparel,1181618,1454791,True
+PROD-0438,Product Premium Type-438,Beauty & Health,5321990,6430288,True
+PROD-0439,Product Premium Type-439,Beauty & Health,3936147,5086802,True
+PROD-0440,Product Premium Type-440,Books,7079917,8157482,True
+PROD-0441,Product Premium Type-441,Home & Living,6344784,7345628,True
+PROD-0442,Product Premium Type-442,Apparel,6953655,9150920,True
+PROD-0443,Product Premium Type-443,Books,1132810,1479602,True
+PROD-0444,Product Premium Type-444,Electronics,837283,1212699,True
+PROD-0445,Product Premium Type-445,Books,2939863,3558858,True
+PROD-0446,Product Premium Type-446,Apparel,1846367,2266288,False
+PROD-0447,Product Premium Type-447,Books,3397863,4023281,True
+PROD-0448,Product Premium Type-448,Apparel,2924033,4167515,True
+PROD-0449,Product Premium Type-449,Apparel,4557669,6304821,True
+PROD-0450,Product Premium Type-450,Apparel,5094816,7115938,True
+PROD-0451,Product Premium Type-451,Automotive,1603315,2278036,True
+PROD-0452,Product Premium Type-452,Books,7452210,9743540,True
+PROD-0453,Product Premium Type-453,Beauty & Health,6248448,8031492,True
+PROD-0454,Product Premium Type-454,Apparel,6118073,7642191,True
+PROD-0455,Product Premium Type-455,Beauty & Health,1374590,1823757,True
+PROD-0456,Product Premium Type-456,Home & Living,3529438,4539857,True
+PROD-0457,Product Premium Type-457,Electronics,4605197,5919841,True
+PROD-0458,Product Premium Type-458,Home & Living,5391645,7715866,True
+PROD-0459,Product Premium Type-459,Apparel,5654905,8172522,True
+PROD-0460,Product Premium Type-460,Apparel,3070529,4264796,True
+PROD-0461,Product Premium Type-461,Books,2250541,3099056,True
+PROD-0462,Product Premium Type-462,Beauty & Health,2836139,3840607,True
+PROD-0463,Product Premium Type-463,Automotive,5465107,6557158,True
+PROD-0464,Product Premium Type-464,Apparel,6808858,7950919,True
+PROD-0465,Product Premium Type-465,Electronics,7128260,9674602,True
+PROD-0466,Product Premium Type-466,Apparel,7106530,9726251,True
+PROD-0467,Product Premium Type-467,Electronics,6576676,7655855,True
+PROD-0468,Product Premium Type-468,Books,1494793,2135185,True
+PROD-0469,Product Premium Type-469,Apparel,4515512,5316302,True
+PROD-0470,Product Premium Type-470,Books,4969490,6141147,False
+PROD-0471,Product Premium Type-471,Beauty & Health,2922706,3950671,True
+PROD-0472,Product Premium Type-472,Books,7433463,8927304,True
+PROD-0473,Product Premium Type-473,Electronics,3226473,3764083,False
+PROD-0474,Product Premium Type-474,Beauty & Health,1123657,1403834,True
+PROD-0475,Product Premium Type-475,Automotive,6256286,8632370,True
+PROD-0476,Product Premium Type-476,Apparel,951215,1211946,True
+PROD-0477,Product Premium Type-477,Beauty & Health,6532660,8792254,True
+PROD-0478,Product Premium Type-478,Electronics,3058449,4049036,True
+PROD-0479,Product Premium Type-479,Automotive,1474991,1706071,True
+PROD-0480,Product Premium Type-480,Electronics,6916997,10005864,True
+PROD-0481,Product Premium Type-481,Books,6614791,7689221,True
+PROD-0482,Product Premium Type-482,Books,6064523,8734980,True
+PROD-0483,Product Premium Type-483,Electronics,5378966,7073121,True
+PROD-0484,Product Premium Type-484,Electronics,6772741,9745620,True
+PROD-0485,Product Premium Type-485,Electronics,5193554,6151380,True
+PROD-0486,Product Premium Type-486,Beauty & Health,2536910,3290683,True
+PROD-0487,Product Premium Type-487,Electronics,449528,539816,True
+PROD-0488,Product Premium Type-488,Apparel,2560610,2983859,True
+PROD-0489,Product Premium Type-489,Apparel,5107707,6820110,True
+PROD-0490,Product Premium Type-490,Electronics,2740223,3322068,True
+PROD-0491,Product Premium Type-491,Home & Living,637181,845098,True
+PROD-0492,Product Premium Type-492,Apparel,7289348,8628469,True
+PROD-0493,Product Premium Type-493,Beauty & Health,3670525,4586673,True
+PROD-0494,Product Premium Type-494,Automotive,6475219,8964874,True
+PROD-0495,Product Premium Type-495,Electronics,1675824,2146924,True
+PROD-0496,Product Premium Type-496,Electronics,6138700,8215567,True
+PROD-0497,Product Premium Type-497,Electronics,5290481,7111662,True
+PROD-0498,Product Premium Type-498,Automotive,5255115,7373591,True
+PROD-0499,Product Premium Type-499,Beauty & Health,6727692,8392639,True
+PROD-0500,Product Premium Type-500,Home & Living,164227,222722,True
+PROD-0501,Product Premium Type-501,Beauty & Health,1798055,2586474,True
+PROD-0502,Product Premium Type-502,Electronics,5217859,7143629,True
+PROD-0503,Product Premium Type-503,Apparel,717137,930098,True
+PROD-0504,Product Premium Type-504,Apparel,306854,410943,True
+PROD-0505,Product Premium Type-505,Books,6687314,9174358,True
+PROD-0506,Product Premium Type-506,Automotive,4899196,6533973,False
+PROD-0507,Product Premium Type-507,Books,5920895,6838649,True
+PROD-0508,Product Premium Type-508,Apparel,6203985,7497094,True
+PROD-0509,Product Premium Type-509,Home & Living,5855395,8157387,False
+PROD-0510,Product Premium Type-510,Home & Living,685327,844182,True
+PROD-0511,Product Premium Type-511,Books,1682153,2303655,True
+PROD-0512,Product Premium Type-512,Apparel,4370398,5513851,False
+PROD-0513,Product Premium Type-513,Apparel,1510255,1973246,True
+PROD-0514,Product Premium Type-514,Electronics,7046487,8247151,True
+PROD-0515,Product Premium Type-515,Automotive,7108610,8561380,False
+PROD-0516,Product Premium Type-516,Beauty & Health,4181004,6008767,True
+PROD-0517,Product Premium Type-517,Home & Living,7183938,10179937,True
+PROD-0518,Product Premium Type-518,Beauty & Health,1831684,2464865,True
+PROD-0519,Product Premium Type-519,Automotive,1834858,2363101,True
+PROD-0520,Product Premium Type-520,Electronics,504083,681887,True
+PROD-0521,Product Premium Type-521,Electronics,1419316,1895614,True
+PROD-0522,Product Premium Type-522,Electronics,1926740,2544386,False
+PROD-0523,Product Premium Type-523,Electronics,5673393,6625122,False
+PROD-0524,Product Premium Type-524,Automotive,4287627,5744737,True
+PROD-0525,Product Premium Type-525,Home & Living,6309725,8711685,True
+PROD-0526,Product Premium Type-526,Electronics,5832863,8447295,True
+PROD-0527,Product Premium Type-527,Automotive,6734914,7767535,False
+PROD-0528,Product Premium Type-528,Books,7420873,10159561,True
+PROD-0529,Product Premium Type-529,Apparel,4609946,6092213,True
+PROD-0530,Product Premium Type-530,Electronics,2320936,2971298,True
+PROD-0531,Product Premium Type-531,Apparel,4326400,5140935,True
+PROD-0532,Product Premium Type-532,Electronics,5360644,6822628,True
+PROD-0533,Product Premium Type-533,Apparel,4666094,5862075,True
+PROD-0534,Product Premium Type-534,Books,2732184,3390227,True
+PROD-0535,Product Premium Type-535,Books,2937066,4021618,True
+PROD-0536,Product Premium Type-536,Apparel,3795771,5163074,True
+PROD-0537,Product Premium Type-537,Home & Living,1565724,2077255,True
+PROD-0538,Product Premium Type-538,Beauty & Health,5900293,8446856,True
+PROD-0539,Product Premium Type-539,Home & Living,1990730,2498279,True
+PROD-0540,Product Premium Type-540,Apparel,4587530,5611194,True
+PROD-0541,Product Premium Type-541,Beauty & Health,7368728,9923989,True
+PROD-0542,Product Premium Type-542,Books,4345614,5256646,True
+PROD-0543,Product Premium Type-543,Beauty & Health,4108290,5112779,True
+PROD-0544,Product Premium Type-544,Beauty & Health,700673,852985,True
+PROD-0545,Product Premium Type-545,Electronics,7122037,8338096,True
+PROD-0546,Product Premium Type-546,Books,4087224,5714959,True
+PROD-0547,Product Premium Type-547,Apparel,1913529,2346679,True
+PROD-0548,Product Premium Type-548,Electronics,1119316,1446053,True
+PROD-0549,Product Premium Type-549,Apparel,4325915,5031015,True
+PROD-0550,Product Premium Type-550,Electronics,6714628,9130563,True
+PROD-0551,Product Premium Type-551,Home & Living,6785403,8476110,True
+PROD-0552,Product Premium Type-552,Home & Living,6792284,9328665,True
+PROD-0553,Product Premium Type-553,Electronics,4992514,6359069,True
+PROD-0554,Product Premium Type-554,Automotive,6645241,8032280,True
+PROD-0555,Product Premium Type-555,Home & Living,1661675,2166745,False
+PROD-0556,Product Premium Type-556,Electronics,6761832,8040841,True
+PROD-0557,Product Premium Type-557,Home & Living,731673,938123,True
+PROD-0558,Product Premium Type-558,Electronics,826849,1029585,True
+PROD-0559,Product Premium Type-559,Electronics,1753665,2496496,True
+PROD-0560,Product Premium Type-560,Automotive,1186068,1385657,True
+PROD-0561,Product Premium Type-561,Apparel,7395131,10044105,True
+PROD-0562,Product Premium Type-562,Apparel,1060891,1278188,True
+PROD-0563,Product Premium Type-563,Books,778494,969780,True
+PROD-0564,Product Premium Type-564,Automotive,448177,571270,True
+PROD-0565,Product Premium Type-565,Home & Living,667762,949827,True
+PROD-0566,Product Premium Type-566,Automotive,792876,969507,True
+PROD-0567,Product Premium Type-567,Apparel,3729697,4391317,True
+PROD-0568,Product Premium Type-568,Beauty & Health,5359208,6675466,True
+PROD-0569,Product Premium Type-569,Books,6010680,7101034,True
+PROD-0570,Product Premium Type-570,Apparel,7298749,8675139,True
+PROD-0571,Product Premium Type-571,Beauty & Health,6621961,8755260,True
+PROD-0572,Product Premium Type-572,Beauty & Health,5302420,6194661,True
+PROD-0573,Product Premium Type-573,Home & Living,1231184,1427286,True
+PROD-0574,Product Premium Type-574,Automotive,5352580,7302654,True
+PROD-0575,Product Premium Type-575,Home & Living,7297003,9183235,True
+PROD-0576,Product Premium Type-576,Home & Living,6657132,7906093,True
+PROD-0577,Product Premium Type-577,Electronics,1785511,2189186,False
+PROD-0578,Product Premium Type-578,Home & Living,4609074,6188262,True
+PROD-0579,Product Premium Type-579,Books,3566815,4396673,False
+PROD-0580,Product Premium Type-580,Beauty & Health,71002,92185,True
+PROD-0581,Product Premium Type-581,Home & Living,7414844,8797776,True
+PROD-0582,Product Premium Type-582,Home & Living,4635146,6148187,True
+PROD-0583,Product Premium Type-583,Beauty & Health,740339,921591,True
+PROD-0584,Product Premium Type-584,Electronics,4164289,5572195,True
+PROD-0585,Product Premium Type-585,Electronics,5376826,7487329,True
+PROD-0586,Product Premium Type-586,Apparel,5334548,7113587,True
+PROD-0587,Product Premium Type-587,Beauty & Health,6415459,7946984,True
+PROD-0588,Product Premium Type-588,Apparel,1809006,2219149,True
+PROD-0589,Product Premium Type-589,Home & Living,6536918,8159552,True
+PROD-0590,Product Premium Type-590,Apparel,6097310,7313029,True
+PROD-0591,Product Premium Type-591,Books,4938478,5947663,True
+PROD-0592,Product Premium Type-592,Books,653889,907079,True
+PROD-0593,Product Premium Type-593,Beauty & Health,2392108,3027020,True
+PROD-0594,Product Premium Type-594,Books,6378300,8169317,True
+PROD-0595,Product Premium Type-595,Electronics,5993333,7960433,True
+PROD-0596,Product Premium Type-596,Electronics,4614699,6123225,False
+PROD-0597,Product Premium Type-597,Automotive,3869886,4528591,False
+PROD-0598,Product Premium Type-598,Books,7439633,10411485,True
+PROD-0599,Product Premium Type-599,Beauty & Health,950779,1143975,True
+PROD-0600,Product Premium Type-600,Home & Living,6235958,8524065,True
+PROD-0601,Product Premium Type-601,Apparel,6626457,9156446,True
+PROD-0602,Product Premium Type-602,Electronics,6704155,9147617,True
+PROD-0603,Product Premium Type-603,Home & Living,5762580,7627888,True
+PROD-0604,Product Premium Type-604,Apparel,5550724,6407659,False
+PROD-0605,Product Premium Type-605,Apparel,6050095,7611701,True
+PROD-0606,Product Premium Type-606,Books,2554832,3401635,True
+PROD-0607,Product Premium Type-607,Home & Living,3344151,4234482,True
+PROD-0608,Product Premium Type-608,Home & Living,6409786,9031670,True
+PROD-0609,Product Premium Type-609,Books,250391,311146,True
+PROD-0610,Product Premium Type-610,Books,6530062,8084611,True
+PROD-0611,Product Premium Type-611,Books,6723541,8268606,True
+PROD-0612,Product Premium Type-612,Beauty & Health,216387,270447,True
+PROD-0613,Product Premium Type-613,Books,5509013,7256590,True
+PROD-0614,Product Premium Type-614,Automotive,3657632,4982077,True
+PROD-0615,Product Premium Type-615,Beauty & Health,4633474,6249492,True
+PROD-0616,Product Premium Type-616,Home & Living,2809067,3911107,False
+PROD-0617,Product Premium Type-617,Apparel,1399073,1980771,True
+PROD-0618,Product Premium Type-618,Beauty & Health,5743286,8010871,True
+PROD-0619,Product Premium Type-619,Apparel,2560394,2959005,True
+PROD-0620,Product Premium Type-620,Books,4582220,6281194,True
+PROD-0621,Product Premium Type-621,Books,4397352,5331876,True
+PROD-0622,Product Premium Type-622,Automotive,5217386,6208054,True
+PROD-0623,Product Premium Type-623,Books,5621526,7541539,True
+PROD-0624,Product Premium Type-624,Automotive,1449663,1806168,True
+PROD-0625,Product Premium Type-625,Automotive,2494146,2911005,True
+PROD-0626,Product Premium Type-626,Books,3316070,3950397,True
+PROD-0627,Product Premium Type-627,Automotive,711268,818156,True
+PROD-0628,Product Premium Type-628,Automotive,826955,1175075,True
+PROD-0629,Product Premium Type-629,Apparel,1136009,1314800,False
+PROD-0630,Product Premium Type-630,Books,2038148,2471940,True
+PROD-0631,Product Premium Type-631,Electronics,6860735,8746605,True
+PROD-0632,Product Premium Type-632,Automotive,4492223,5646595,True
+PROD-0633,Product Premium Type-633,Beauty & Health,1544593,2198755,False
+PROD-0634,Product Premium Type-634,Books,2469291,2869530,True
+PROD-0635,Product Premium Type-635,Automotive,5198058,6776523,True
+PROD-0636,Product Premium Type-636,Automotive,172745,233921,True
+PROD-0637,Product Premium Type-637,Beauty & Health,3817824,5457615,False
+PROD-0638,Product Premium Type-638,Beauty & Health,1755992,2346200,True
+PROD-0639,Product Premium Type-639,Apparel,162686,226316,True
+PROD-0640,Product Premium Type-640,Beauty & Health,2092636,2459093,True
+PROD-0641,Product Premium Type-641,Electronics,5275295,6677372,True
+PROD-0642,Product Premium Type-642,Apparel,4176923,5272045,True
+PROD-0643,Product Premium Type-643,Home & Living,6038206,8549414,True
+PROD-0644,Product Premium Type-644,Electronics,5704980,6819797,True
+PROD-0645,Product Premium Type-645,Apparel,2008044,2400748,True
+PROD-0646,Product Premium Type-646,Electronics,5174534,6460754,True
+PROD-0647,Product Premium Type-647,Home & Living,3949221,4606133,True
+PROD-0648,Product Premium Type-648,Automotive,3339344,4023032,True
+PROD-0649,Product Premium Type-649,Books,74976,107932,True
+PROD-0650,Product Premium Type-650,Apparel,2547620,3257017,False
+PROD-0651,Product Premium Type-651,Electronics,2388128,3199150,True
+PROD-0652,Product Premium Type-652,Electronics,3392611,4640526,True
+PROD-0653,Product Premium Type-653,Home & Living,4430813,5583216,True
+PROD-0654,Product Premium Type-654,Home & Living,3667693,4379842,True
+PROD-0655,Product Premium Type-655,Apparel,2052320,2487359,True
+PROD-0656,Product Premium Type-656,Home & Living,1837105,2285321,True
+PROD-0657,Product Premium Type-657,Books,5786703,7758930,True
+PROD-0658,Product Premium Type-658,Apparel,6535982,8297325,True
+PROD-0659,Product Premium Type-659,Automotive,1972238,2272105,True
+PROD-0660,Product Premium Type-660,Books,6314317,8252952,False
+PROD-0661,Product Premium Type-661,Apparel,1420796,2026700,True
+PROD-0662,Product Premium Type-662,Apparel,5213924,7266245,False
+PROD-0663,Product Premium Type-663,Apparel,6355034,8881562,False
+PROD-0664,Product Premium Type-664,Electronics,4834045,6712155,True
+PROD-0665,Product Premium Type-665,Beauty & Health,3586262,4472496,True
+PROD-0666,Product Premium Type-666,Apparel,7178603,9903300,True
+PROD-0667,Product Premium Type-667,Electronics,233859,278981,True
+PROD-0668,Product Premium Type-668,Beauty & Health,6427891,8660392,True
+PROD-0669,Product Premium Type-669,Beauty & Health,7056845,9473606,False
+PROD-0670,Product Premium Type-670,Apparel,5419418,6273902,True
+PROD-0671,Product Premium Type-671,Books,4052902,5618907,True
+PROD-0672,Product Premium Type-672,Beauty & Health,70475,100143,True
+PROD-0673,Product Premium Type-673,Electronics,7163030,8812135,True
+PROD-0674,Product Premium Type-674,Beauty & Health,3328364,4638798,True
+PROD-0675,Product Premium Type-675,Books,5421364,6368594,True
+PROD-0676,Product Premium Type-676,Home & Living,3264254,4341426,True
+PROD-0677,Product Premium Type-677,Electronics,1124577,1457107,True
+PROD-0678,Product Premium Type-678,Beauty & Health,869081,1141778,True
+PROD-0679,Product Premium Type-679,Electronics,6508485,9293215,True
+PROD-0680,Product Premium Type-680,Beauty & Health,4648037,6560214,True
+PROD-0681,Product Premium Type-681,Automotive,6984972,9677854,True
+PROD-0682,Product Premium Type-682,Electronics,7257024,8941448,True
+PROD-0683,Product Premium Type-683,Books,3720727,5296624,True
+PROD-0684,Product Premium Type-684,Automotive,1627970,1919787,True
+PROD-0685,Product Premium Type-685,Apparel,1556064,2187824,True
+PROD-0686,Product Premium Type-686,Electronics,4436887,5539222,True
+PROD-0687,Product Premium Type-687,Apparel,6680354,7790172,True
+PROD-0688,Product Premium Type-688,Home & Living,6454742,8719111,True
+PROD-0689,Product Premium Type-689,Apparel,252189,307515,True
+PROD-0690,Product Premium Type-690,Electronics,6271115,7670021,True
+PROD-0691,Product Premium Type-691,Apparel,2101198,2609297,False
+PROD-0692,Product Premium Type-692,Electronics,7491511,8758366,True
+PROD-0693,Product Premium Type-693,Electronics,1493919,1797390,True
+PROD-0694,Product Premium Type-694,Automotive,3306941,3808081,True
+PROD-0695,Product Premium Type-695,Books,2675324,3434107,True
+PROD-0696,Product Premium Type-696,Apparel,6275805,7375806,False
+PROD-0697,Product Premium Type-697,Apparel,3435580,4654509,True
+PROD-0698,Product Premium Type-698,Books,5024111,6132866,False
+PROD-0699,Product Premium Type-699,Beauty & Health,3710104,5316847,True
+PROD-0700,Product Premium Type-700,Apparel,1445858,2040648,True
+PROD-0701,Product Premium Type-701,Beauty & Health,1773982,2194118,True
+PROD-0702,Product Premium Type-702,Automotive,6588614,9124997,True
+PROD-0703,Product Premium Type-703,Beauty & Health,1470065,2044821,True
+PROD-0704,Product Premium Type-704,Home & Living,4921799,7116768,True
+PROD-0705,Product Premium Type-705,Books,5632866,7488061,True
+PROD-0706,Product Premium Type-706,Books,6216265,7301560,True
+PROD-0707,Product Premium Type-707,Beauty & Health,5758118,7739205,False
+PROD-0708,Product Premium Type-708,Home & Living,103077,137864,True
+PROD-0709,Product Premium Type-709,Books,5473656,7342937,True
+PROD-0710,Product Premium Type-710,Beauty & Health,4534322,5632279,True
+PROD-0711,Product Premium Type-711,Beauty & Health,6385543,8990230,True
+PROD-0712,Product Premium Type-712,Electronics,6066609,8722823,True
+PROD-0713,Product Premium Type-713,Home & Living,6032509,7331391,True
+PROD-0714,Product Premium Type-714,Electronics,7130016,8388076,True
+PROD-0715,Product Premium Type-715,Apparel,1666232,2013408,True
+PROD-0716,Product Premium Type-716,Electronics,7060315,9857369,True
+PROD-0717,Product Premium Type-717,Beauty & Health,5608982,7588915,True
+PROD-0718,Product Premium Type-718,Electronics,6611520,8864819,True
+PROD-0719,Product Premium Type-719,Automotive,4470818,5680343,True
+PROD-0720,Product Premium Type-720,Apparel,5147964,6812549,True
+PROD-0721,Product Premium Type-721,Automotive,6458636,8023965,True
+PROD-0722,Product Premium Type-722,Apparel,4120077,5327918,True
+PROD-0723,Product Premium Type-723,Electronics,6188184,8588697,True
+PROD-0724,Product Premium Type-724,Books,809192,1168774,True
+PROD-0725,Product Premium Type-725,Books,6288998,8991673,True
+PROD-0726,Product Premium Type-726,Beauty & Health,4655232,6657725,True
+PROD-0727,Product Premium Type-727,Books,945114,1200925,True
+PROD-0728,Product Premium Type-728,Automotive,626891,809088,True
+PROD-0729,Product Premium Type-729,Beauty & Health,7398904,10075018,True
+PROD-0730,Product Premium Type-730,Home & Living,5540752,7904755,False
+PROD-0731,Product Premium Type-731,Automotive,6673702,7959045,True
+PROD-0732,Product Premium Type-732,Automotive,5756415,7145279,True
+PROD-0733,Product Premium Type-733,Home & Living,3554921,4236662,True
+PROD-0734,Product Premium Type-734,Beauty & Health,2207926,2944495,True
+PROD-0735,Product Premium Type-735,Apparel,6192647,7690588,True
+PROD-0736,Product Premium Type-736,Books,2510670,3132895,False
+PROD-0737,Product Premium Type-737,Apparel,3369250,3946317,True
+PROD-0738,Product Premium Type-738,Home & Living,3391085,4255604,True
+PROD-0739,Product Premium Type-739,Electronics,4631976,6525291,True
+PROD-0740,Product Premium Type-740,Automotive,4048278,4938582,True
+PROD-0741,Product Premium Type-741,Books,5333822,7246297,False
+PROD-0742,Product Premium Type-742,Apparel,562977,753763,True
+PROD-0743,Product Premium Type-743,Beauty & Health,2024014,2851927,True
+PROD-0744,Product Premium Type-744,Apparel,3728292,4435498,True
+PROD-0745,Product Premium Type-745,Books,1583141,2284910,True
+PROD-0746,Product Premium Type-746,Automotive,3693280,4892815,True
+PROD-0747,Product Premium Type-747,Electronics,2748408,3981459,True
+PROD-0748,Product Premium Type-748,Apparel,6729545,9579200,True
+PROD-0749,Product Premium Type-749,Books,1873058,2278491,True
+PROD-0750,Product Premium Type-750,Apparel,4809808,5612317,False
+PROD-0751,Product Premium Type-751,Beauty & Health,6662640,8173005,True
+PROD-0752,Product Premium Type-752,Automotive,6862388,8977850,True
+PROD-0753,Product Premium Type-753,Automotive,2184173,2624237,True
+PROD-0754,Product Premium Type-754,Electronics,7008941,8412396,True
+PROD-0755,Product Premium Type-755,Beauty & Health,4679419,6030732,False
+PROD-0756,Product Premium Type-756,Books,67291,78056,True
+PROD-0757,Product Premium Type-757,Books,4647580,5514662,True
+PROD-0758,Product Premium Type-758,Home & Living,4614058,5881809,True
+PROD-0759,Product Premium Type-759,Beauty & Health,7270136,8498345,True
+PROD-0760,Product Premium Type-760,Beauty & Health,4522968,5739766,True
+PROD-0761,Product Premium Type-761,Books,2147827,2775426,True
+PROD-0762,Product Premium Type-762,Books,4892951,6289301,True
+PROD-0763,Product Premium Type-763,Apparel,6578774,9281021,True
+PROD-0764,Product Premium Type-764,Electronics,7457300,9761745,False
+PROD-0765,Product Premium Type-765,Home & Living,2093671,2701660,True
+PROD-0766,Product Premium Type-766,Beauty & Health,733672,934120,True
+PROD-0767,Product Premium Type-767,Books,6197496,8647285,True
+PROD-0768,Product Premium Type-768,Apparel,6946154,9853237,True
+PROD-0769,Product Premium Type-769,Home & Living,362369,509480,True
+PROD-0770,Product Premium Type-770,Electronics,4001974,5410924,False
+PROD-0771,Product Premium Type-771,Electronics,3517963,4190627,False
+PROD-0772,Product Premium Type-772,Electronics,4532167,5588438,True
+PROD-0773,Product Premium Type-773,Home & Living,2252039,2620965,True
+PROD-0774,Product Premium Type-774,Automotive,321063,458878,True
+PROD-0775,Product Premium Type-775,Home & Living,1408875,1899501,True
+PROD-0776,Product Premium Type-776,Electronics,6650169,9136726,True
+PROD-0777,Product Premium Type-777,Apparel,1901336,2364257,True
+PROD-0778,Product Premium Type-778,Home & Living,3981778,5589206,True
+PROD-0779,Product Premium Type-779,Apparel,4778267,5867143,True
+PROD-0780,Product Premium Type-780,Automotive,5762890,6630165,True
+PROD-0781,Product Premium Type-781,Electronics,7121807,8994304,False
+PROD-0782,Product Premium Type-782,Electronics,2912757,3848417,True
+PROD-0783,Product Premium Type-783,Apparel,2493665,3225833,True
+PROD-0784,Product Premium Type-784,Automotive,2934984,4134285,False
+PROD-0785,Product Premium Type-785,Electronics,6497973,7678145,True
+PROD-0786,Product Premium Type-786,Home & Living,6386761,8405916,True
+PROD-0787,Product Premium Type-787,Apparel,717924,936096,True
+PROD-0788,Product Premium Type-788,Automotive,2595115,3203456,True
+PROD-0789,Product Premium Type-789,Apparel,1686655,2355697,True
+PROD-0790,Product Premium Type-790,Beauty & Health,4697412,6462955,True
+PROD-0791,Product Premium Type-791,Electronics,3125498,4281487,True
+PROD-0792,Product Premium Type-792,Apparel,4814125,6801673,True
+PROD-0793,Product Premium Type-793,Home & Living,6503712,8889503,True
+PROD-0794,Product Premium Type-794,Electronics,4695432,5726325,False
+PROD-0795,Product Premium Type-795,Automotive,1048920,1428281,True
+PROD-0796,Product Premium Type-796,Automotive,7206479,8952687,True
+PROD-0797,Product Premium Type-797,Electronics,3836666,4690908,True
+PROD-0798,Product Premium Type-798,Automotive,3844712,4505622,True
+PROD-0799,Product Premium Type-799,Books,1058668,1453771,True
+PROD-0800,Product Premium Type-800,Electronics,7142082,9736802,False
+PROD-0801,Product Premium Type-801,Electronics,5661485,6908992,True
+PROD-0802,Product Premium Type-802,Home & Living,5629327,7739275,True
+PROD-0803,Product Premium Type-803,Electronics,6558644,9348378,True
+PROD-0804,Product Premium Type-804,Home & Living,2498199,2953892,True
+PROD-0805,Product Premium Type-805,Electronics,5073127,6188154,True
+PROD-0806,Product Premium Type-806,Home & Living,6553957,9012203,True
+PROD-0807,Product Premium Type-807,Home & Living,5588026,6886415,True
+PROD-0808,Product Premium Type-808,Books,322675,431545,True
+PROD-0809,Product Premium Type-809,Automotive,733175,861003,True
+PROD-0810,Product Premium Type-810,Apparel,3700002,4756947,True
+PROD-0811,Product Premium Type-811,Home & Living,1892306,2595728,True
+PROD-0812,Product Premium Type-812,Books,288625,391362,True
+PROD-0813,Product Premium Type-813,Beauty & Health,867840,1210221,False
+PROD-0814,Product Premium Type-814,Home & Living,4419643,6245996,True
+PROD-0815,Product Premium Type-815,Apparel,5914118,8173045,True
+PROD-0816,Product Premium Type-816,Beauty & Health,5153643,6965026,True
+PROD-0817,Product Premium Type-817,Beauty & Health,150355,174339,False
+PROD-0818,Product Premium Type-818,Electronics,4247102,5565784,False
+PROD-0819,Product Premium Type-819,Home & Living,640937,744326,False
+PROD-0820,Product Premium Type-820,Books,1400607,1950233,True
+PROD-0821,Product Premium Type-821,Beauty & Health,44477,55428,True
+PROD-0822,Product Premium Type-822,Automotive,3581210,4722644,True
+PROD-0823,Product Premium Type-823,Electronics,6533856,8061691,True
+PROD-0824,Product Premium Type-824,Automotive,2512111,3478645,True
+PROD-0825,Product Premium Type-825,Apparel,2034606,2880901,True
+PROD-0826,Product Premium Type-826,Electronics,1584757,2011995,True
+PROD-0827,Product Premium Type-827,Automotive,7340830,10342324,True
+PROD-0828,Product Premium Type-828,Books,6181738,7604295,True
+PROD-0829,Product Premium Type-829,Books,4624409,6059817,True
+PROD-0830,Product Premium Type-830,Automotive,3457207,4866462,False
+PROD-0831,Product Premium Type-831,Electronics,6196638,7731944,True
+PROD-0832,Product Premium Type-832,Home & Living,4492890,6452745,True
+PROD-0833,Product Premium Type-833,Apparel,1906297,2261943,True
+PROD-0834,Product Premium Type-834,Apparel,6108059,7057755,True
+PROD-0835,Product Premium Type-835,Beauty & Health,848759,1206290,True
+PROD-0836,Product Premium Type-836,Books,3055855,3577167,True
+PROD-0837,Product Premium Type-837,Electronics,4554275,6592617,True
+PROD-0838,Product Premium Type-838,Beauty & Health,5898632,8467008,True
+PROD-0839,Product Premium Type-839,Electronics,156184,186031,False
+PROD-0840,Product Premium Type-840,Beauty & Health,1160627,1521901,True
+PROD-0841,Product Premium Type-841,Apparel,2272805,2739812,True
+PROD-0842,Product Premium Type-842,Apparel,270300,345564,True
+PROD-0843,Product Premium Type-843,Beauty & Health,609010,711584,False
+PROD-0844,Product Premium Type-844,Beauty & Health,117036,142453,True
+PROD-0845,Product Premium Type-845,Apparel,6020802,7580080,True
+PROD-0846,Product Premium Type-846,Beauty & Health,6464051,8284290,True
+PROD-0847,Product Premium Type-847,Apparel,878392,1267738,False
+PROD-0848,Product Premium Type-848,Automotive,6040877,8411073,False
+PROD-0849,Product Premium Type-849,Automotive,306696,420548,True
+PROD-0850,Product Premium Type-850,Beauty & Health,3687340,4834517,True
+PROD-0851,Product Premium Type-851,Automotive,1215456,1704068,False
+PROD-0852,Product Premium Type-852,Beauty & Health,4454723,5576408,True
+PROD-0853,Product Premium Type-853,Automotive,1015029,1383149,True
+PROD-0854,Product Premium Type-854,Home & Living,179692,260218,True
+PROD-0855,Product Premium Type-855,Books,4482335,5577766,True
+PROD-0856,Product Premium Type-856,Apparel,2416098,3267060,False
+PROD-0857,Product Premium Type-857,Home & Living,1682888,2361587,True
+PROD-0858,Product Premium Type-858,Home & Living,2610917,3719883,True
+PROD-0859,Product Premium Type-859,Home & Living,4862231,6638792,False
+PROD-0860,Product Premium Type-860,Automotive,6172560,7623620,True
+PROD-0861,Product Premium Type-861,Books,1849964,2308541,True
+PROD-0862,Product Premium Type-862,Electronics,1413509,1634337,True
+PROD-0863,Product Premium Type-863,Beauty & Health,3779542,5209213,True
+PROD-0864,Product Premium Type-864,Beauty & Health,2523214,2934048,True
+PROD-0865,Product Premium Type-865,Books,4703083,6628504,True
+PROD-0866,Product Premium Type-866,Apparel,6814408,8079149,True
+PROD-0867,Product Premium Type-867,Apparel,4789812,5755260,True
+PROD-0868,Product Premium Type-868,Automotive,7149051,9243422,True
+PROD-0869,Product Premium Type-869,Automotive,6713437,9206566,True
+PROD-0870,Product Premium Type-870,Electronics,4598574,5480123,True
+PROD-0871,Product Premium Type-871,Apparel,6135798,7866223,True
+PROD-0872,Product Premium Type-872,Automotive,4133502,5352287,True
+PROD-0873,Product Premium Type-873,Beauty & Health,7440309,9030196,True
+PROD-0874,Product Premium Type-874,Books,7322238,8674417,True
+PROD-0875,Product Premium Type-875,Electronics,1593146,2231880,True
+PROD-0876,Product Premium Type-876,Electronics,508455,661367,False
+PROD-0877,Product Premium Type-877,Apparel,4061405,4688138,True
+PROD-0878,Product Premium Type-878,Home & Living,6438788,8955674,True
+PROD-0879,Product Premium Type-879,Automotive,572219,826420,True
+PROD-0880,Product Premium Type-880,Electronics,2211268,2944917,True
+PROD-0881,Product Premium Type-881,Books,4470975,5817241,True
+PROD-0882,Product Premium Type-882,Electronics,4012793,5672182,True
+PROD-0883,Product Premium Type-883,Books,1649777,2368675,True
+PROD-0884,Product Premium Type-884,Home & Living,2896656,3986844,True
+PROD-0885,Product Premium Type-885,Apparel,7391023,9487382,True
+PROD-0886,Product Premium Type-886,Home & Living,4733569,6284600,True
+PROD-0887,Product Premium Type-887,Apparel,3880933,5279157,True
+PROD-0888,Product Premium Type-888,Electronics,4847684,5857369,True
+PROD-0889,Product Premium Type-889,Home & Living,2351729,3019997,True
+PROD-0890,Product Premium Type-890,Automotive,7027128,9830575,True
+PROD-0891,Product Premium Type-891,Home & Living,6720233,9048240,True
+PROD-0892,Product Premium Type-892,Home & Living,3932129,5007020,True
+PROD-0893,Product Premium Type-893,Electronics,120556,162631,True
+PROD-0894,Product Premium Type-894,Electronics,1922883,2279513,True
+PROD-0895,Product Premium Type-895,Apparel,5424869,6892020,False
+PROD-0896,Product Premium Type-896,Beauty & Health,3494992,4850834,True
+PROD-0897,Product Premium Type-897,Books,6711660,8162403,False
+PROD-0898,Product Premium Type-898,Home & Living,1580537,1905793,True
+PROD-0899,Product Premium Type-899,Books,6164353,8847360,False
+PROD-0900,Product Premium Type-900,Home & Living,677755,822096,True
+PROD-0901,Product Premium Type-901,Books,3691344,4533987,True
+PROD-0902,Product Premium Type-902,Beauty & Health,5675352,8177528,True
+PROD-0903,Product Premium Type-903,Apparel,3551362,4866831,True
+PROD-0904,Product Premium Type-904,Electronics,768088,1044506,True
+PROD-0905,Product Premium Type-905,Automotive,4869747,6846269,True
+PROD-0906,Product Premium Type-906,Books,2620834,3105025,True
+PROD-0907,Product Premium Type-907,Electronics,84778,115449,True
+PROD-0908,Product Premium Type-908,Home & Living,1119409,1456470,True
+PROD-0909,Product Premium Type-909,Home & Living,5028361,7033395,True
+PROD-0910,Product Premium Type-910,Books,2678528,3488628,True
+PROD-0911,Product Premium Type-911,Books,4129399,5517176,True
+PROD-0912,Product Premium Type-912,Automotive,1538083,1989237,True
+PROD-0913,Product Premium Type-913,Beauty & Health,3367103,4355171,True
+PROD-0914,Product Premium Type-914,Apparel,2198513,3034807,False
+PROD-0915,Product Premium Type-915,Books,1423949,1906055,True
+PROD-0916,Product Premium Type-916,Home & Living,5882433,7882336,True
+PROD-0917,Product Premium Type-917,Automotive,547154,703139,True
+PROD-0918,Product Premium Type-918,Automotive,6938462,9084756,True
+PROD-0919,Product Premium Type-919,Home & Living,3493582,4799187,True
+PROD-0920,Product Premium Type-920,Home & Living,1036930,1449402,True
+PROD-0921,Product Premium Type-921,Electronics,5887044,8000306,True
+PROD-0922,Product Premium Type-922,Beauty & Health,7301014,10420167,True
+PROD-0923,Product Premium Type-923,Books,1104525,1542024,True
+PROD-0924,Product Premium Type-924,Automotive,1810818,2387670,True
+PROD-0925,Product Premium Type-925,Books,2976720,4022804,True
+PROD-0926,Product Premium Type-926,Home & Living,1185117,1692219,True
+PROD-0927,Product Premium Type-927,Beauty & Health,2107963,2815712,True
+PROD-0928,Product Premium Type-928,Electronics,5987859,8367686,True
+PROD-0929,Product Premium Type-929,Automotive,4281146,5807987,True
+PROD-0930,Product Premium Type-930,Beauty & Health,2610171,3433891,True
+PROD-0931,Product Premium Type-931,Electronics,1306506,1597270,True
+PROD-0932,Product Premium Type-932,Beauty & Health,314134,401400,True
+PROD-0933,Product Premium Type-933,Apparel,2793705,4023837,True
+PROD-0934,Product Premium Type-934,Beauty & Health,4349660,5860425,True
+PROD-0935,Product Premium Type-935,Automotive,6204617,8185866,True
+PROD-0936,Product Premium Type-936,Electronics,2891069,4133901,True
+PROD-0937,Product Premium Type-937,Apparel,762090,1010495,True
+PROD-0938,Product Premium Type-938,Electronics,939565,1228786,True
+PROD-0939,Product Premium Type-939,Home & Living,3860598,5319105,True
+PROD-0940,Product Premium Type-940,Books,5007042,6828602,True
+PROD-0941,Product Premium Type-941,Apparel,1077425,1301473,True
+PROD-0942,Product Premium Type-942,Automotive,6328816,8172985,True
+PROD-0943,Product Premium Type-943,Books,6689672,8641414,True
+PROD-0944,Product Premium Type-944,Electronics,802567,1014017,True
+PROD-0945,Product Premium Type-945,Apparel,2741207,3577790,True
+PROD-0946,Product Premium Type-946,Books,6577901,8379800,True
+PROD-0947,Product Premium Type-947,Books,1774736,2147082,False
+PROD-0948,Product Premium Type-948,Beauty & Health,1595234,2031865,True
+PROD-0949,Product Premium Type-949,Electronics,6746635,7904918,True
+PROD-0950,Product Premium Type-950,Home & Living,6370786,8426866,True
+PROD-0951,Product Premium Type-951,Books,76707,107857,True
+PROD-0952,Product Premium Type-952,Books,305833,418252,True
+PROD-0953,Product Premium Type-953,Beauty & Health,3724100,4685358,True
+PROD-0954,Product Premium Type-954,Automotive,1113963,1310155,True
+PROD-0955,Product Premium Type-955,Books,6129128,7420197,True
+PROD-0956,Product Premium Type-956,Electronics,1902145,2498747,True
+PROD-0957,Product Premium Type-957,Electronics,2308785,2798517,True
+PROD-0958,Product Premium Type-958,Apparel,4019420,5278269,True
+PROD-0959,Product Premium Type-959,Beauty & Health,5938678,7242097,True
+PROD-0960,Product Premium Type-960,Electronics,859874,1207845,True
+PROD-0961,Product Premium Type-961,Books,914493,1160657,True
+PROD-0962,Product Premium Type-962,Books,6712666,8214055,True
+PROD-0963,Product Premium Type-963,Apparel,803799,1120252,True
+PROD-0964,Product Premium Type-964,Books,3558716,4458543,True
+PROD-0965,Product Premium Type-965,Home & Living,6298914,7454426,True
+PROD-0966,Product Premium Type-966,Electronics,3532447,4666796,True
+PROD-0967,Product Premium Type-967,Home & Living,7104701,9409958,True
+PROD-0968,Product Premium Type-968,Home & Living,904459,1234051,True
+PROD-0969,Product Premium Type-969,Automotive,2206533,2696528,True
+PROD-0970,Product Premium Type-970,Books,1847744,2370898,True
+PROD-0971,Product Premium Type-971,Apparel,7158164,8838259,True
+PROD-0972,Product Premium Type-972,Beauty & Health,2316136,2719806,True
+PROD-0973,Product Premium Type-973,Beauty & Health,7425304,10491836,True
+PROD-0974,Product Premium Type-974,Books,3666644,5018392,True
+PROD-0975,Product Premium Type-975,Electronics,3868139,4798190,True
+PROD-0976,Product Premium Type-976,Home & Living,3118510,4147031,True
+PROD-0977,Product Premium Type-977,Books,4957400,6000333,True
+PROD-0978,Product Premium Type-978,Electronics,4210224,5966186,True
+PROD-0979,Product Premium Type-979,Automotive,4472395,5297426,True
+PROD-0980,Product Premium Type-980,Apparel,877050,1009617,True
+PROD-0981,Product Premium Type-981,Books,2386216,3103518,True
+PROD-0982,Product Premium Type-982,Apparel,7471153,9898817,True
+PROD-0983,Product Premium Type-983,Beauty & Health,2592587,3431780,True
+PROD-0984,Product Premium Type-984,Apparel,4820464,5622365,True
+PROD-0985,Product Premium Type-985,Home & Living,289237,359872,True
+PROD-0986,Product Premium Type-986,Automotive,4494353,5841578,True
+PROD-0987,Product Premium Type-987,Electronics,4865351,5911273,True
+PROD-0988,Product Premium Type-988,Automotive,2539719,3585544,True
+PROD-0989,Product Premium Type-989,Books,1933911,2274536,False
+PROD-0990,Product Premium Type-990,Electronics,4027981,5221130,True
+PROD-0991,Product Premium Type-991,Home & Living,1444920,1961370,True
+PROD-0992,Product Premium Type-992,Books,2204441,2708211,True
+PROD-0993,Product Premium Type-993,Books,2762946,3694810,True
+PROD-0994,Product Premium Type-994,Apparel,3773529,5278471,True
+PROD-0995,Product Premium Type-995,Electronics,3583818,4326030,True
+PROD-0996,Product Premium Type-996,Apparel,5974171,8514186,True
+PROD-0997,Product Premium Type-997,Electronics,1474466,1940496,True
+PROD-0998,Product Premium Type-998,Beauty & Health,1386236,1718613,True
+PROD-0999,Product Premium Type-999,Books,2113062,2703150,True
+PROD-1000,Product Premium Type-1000,Home & Living,2381632,2961934,False
+PROD-1001,Product Premium Type-1001,Home & Living,1859907,2543484,True
+PROD-1002,Product Premium Type-1002,Beauty & Health,3886774,5398302,True
+PROD-1003,Product Premium Type-1003,Apparel,3658795,5121878,True
+PROD-1004,Product Premium Type-1004,Electronics,3502084,5063069,False
+PROD-1005,Product Premium Type-1005,Apparel,4352802,6039013,True
+PROD-1006,Product Premium Type-1006,Electronics,3424752,4556342,True
+PROD-1007,Product Premium Type-1007,Home & Living,3825986,4789239,True
+PROD-1008,Product Premium Type-1008,Books,5357889,7036936,True
+PROD-1009,Product Premium Type-1009,Electronics,748858,870412,True
+PROD-1010,Product Premium Type-1010,Home & Living,6739615,9256507,True
+PROD-1011,Product Premium Type-1011,Beauty & Health,2843907,3650969,False
+PROD-1012,Product Premium Type-1012,Books,69816,80707,True
+PROD-1013,Product Premium Type-1013,Books,29138,34055,True
+PROD-1014,Product Premium Type-1014,Automotive,4188960,5304228,True
+PROD-1015,Product Premium Type-1015,Apparel,3261904,4322109,True
+PROD-1016,Product Premium Type-1016,Beauty & Health,7106905,9162656,True
+PROD-1017,Product Premium Type-1017,Home & Living,5016187,6700428,False
+PROD-1018,Product Premium Type-1018,Apparel,3889044,5032766,False
+PROD-1019,Product Premium Type-1019,Electronics,6672463,8997890,True
+PROD-1020,Product Premium Type-1020,Electronics,7113166,8647744,False
+PROD-1021,Product Premium Type-1021,Books,246552,291881,True
+PROD-1022,Product Premium Type-1022,Home & Living,68764,91382,True
+PROD-1023,Product Premium Type-1023,Home & Living,2245182,2908424,True
+PROD-1024,Product Premium Type-1024,Apparel,5137942,5950046,False
+PROD-1025,Product Premium Type-1025,Apparel,1922951,2430888,True
+PROD-1026,Product Premium Type-1026,Home & Living,5887835,6958465,True
+PROD-1027,Product Premium Type-1027,Books,341462,447112,True
+PROD-1028,Product Premium Type-1028,Books,914855,1160707,True
+PROD-1029,Product Premium Type-1029,Books,1439718,1920505,True
+PROD-1030,Product Premium Type-1030,Automotive,2182280,3037036,True
+PROD-1031,Product Premium Type-1031,Beauty & Health,6535584,8103474,True
+PROD-1032,Product Premium Type-1032,Apparel,833301,1198812,True
+PROD-1033,Product Premium Type-1033,Beauty & Health,5501420,7210658,True
+PROD-1034,Product Premium Type-1034,Books,4205266,5616079,True
+PROD-1035,Product Premium Type-1035,Home & Living,6321495,8560579,True
+PROD-1036,Product Premium Type-1036,Beauty & Health,4371657,5901822,True
+PROD-1037,Product Premium Type-1037,Automotive,137935,179769,True
+PROD-1038,Product Premium Type-1038,Books,5802610,7419387,True
+PROD-1039,Product Premium Type-1039,Electronics,4076889,4754201,True
+PROD-1040,Product Premium Type-1040,Automotive,1363306,1576834,True
+PROD-1041,Product Premium Type-1041,Automotive,2175205,2735077,True
+PROD-1042,Product Premium Type-1042,Apparel,5449441,6812336,True
+PROD-1043,Product Premium Type-1043,Electronics,6006344,7605884,True
+PROD-1044,Product Premium Type-1044,Beauty & Health,4305650,5130227,True
+PROD-1045,Product Premium Type-1045,Beauty & Health,4548535,6238090,True
+PROD-1046,Product Premium Type-1046,Automotive,4625145,6507992,True
+PROD-1047,Product Premium Type-1047,Automotive,4777989,6840237,True
+PROD-1048,Product Premium Type-1048,Apparel,1394391,1809513,False
+PROD-1049,Product Premium Type-1049,Home & Living,4335518,5897430,False
+PROD-1050,Product Premium Type-1050,Beauty & Health,2607153,3667391,False
+PROD-1051,Product Premium Type-1051,Beauty & Health,878329,1120297,True
+PROD-1052,Product Premium Type-1052,Beauty & Health,1755085,2181261,True
+PROD-1053,Product Premium Type-1053,Beauty & Health,2051110,2935174,True
+PROD-1054,Product Premium Type-1054,Beauty & Health,3109562,4057054,True
+PROD-1055,Product Premium Type-1055,Home & Living,5666379,7361624,True
+PROD-1056,Product Premium Type-1056,Electronics,4620130,5560441,True
+PROD-1057,Product Premium Type-1057,Apparel,461542,545748,True
+PROD-1058,Product Premium Type-1058,Books,5544948,7777521,True
+PROD-1059,Product Premium Type-1059,Apparel,6953887,9278153,False
+PROD-1060,Product Premium Type-1060,Books,4591701,5729282,True
+PROD-1061,Product Premium Type-1061,Home & Living,4164394,5028592,True
+PROD-1062,Product Premium Type-1062,Electronics,6678897,8793764,False
+PROD-1063,Product Premium Type-1063,Beauty & Health,3005672,3983043,True
+PROD-1064,Product Premium Type-1064,Books,6055326,7339649,True
+PROD-1065,Product Premium Type-1065,Home & Living,6850847,9628329,True
+PROD-1066,Product Premium Type-1066,Automotive,5743618,6750355,True
+PROD-1067,Product Premium Type-1067,Beauty & Health,2087087,2623109,True
+PROD-1068,Product Premium Type-1068,Electronics,451674,611618,False
+PROD-1069,Product Premium Type-1069,Books,5227413,6441407,True
+PROD-1070,Product Premium Type-1070,Apparel,107409,150190,True
+PROD-1071,Product Premium Type-1071,Beauty & Health,7388280,10136427,True
+PROD-1072,Product Premium Type-1072,Books,3653104,5065784,True
+PROD-1073,Product Premium Type-1073,Beauty & Health,4918180,5831643,False
+PROD-1074,Product Premium Type-1074,Automotive,2020141,2408339,True
+PROD-1075,Product Premium Type-1075,Electronics,3850258,4758696,True
+PROD-1076,Product Premium Type-1076,Electronics,5275904,6887287,True
+PROD-1077,Product Premium Type-1077,Apparel,6791886,9334800,True
+PROD-1078,Product Premium Type-1078,Beauty & Health,5502744,7709120,True
+PROD-1079,Product Premium Type-1079,Apparel,5442755,7409225,True
+PROD-1080,Product Premium Type-1080,Books,5156104,7365902,True
+PROD-1081,Product Premium Type-1081,Beauty & Health,3524701,4834561,True
+PROD-1082,Product Premium Type-1082,Automotive,1952716,2425039,True
+PROD-1083,Product Premium Type-1083,Apparel,1946672,2393480,False
+PROD-1084,Product Premium Type-1084,Automotive,1217503,1654413,False
+PROD-1085,Product Premium Type-1085,Books,1158754,1399613,True
+PROD-1086,Product Premium Type-1086,Apparel,5266684,6203176,True
+PROD-1087,Product Premium Type-1087,Home & Living,5106857,6688281,True
+PROD-1088,Product Premium Type-1088,Apparel,5784420,8077898,True
+PROD-1089,Product Premium Type-1089,Apparel,2928609,3456970,True
+PROD-1090,Product Premium Type-1090,Beauty & Health,1471250,2041458,True
+PROD-1091,Product Premium Type-1091,Automotive,5331490,7429279,True
+PROD-1092,Product Premium Type-1092,Electronics,1668707,2160445,True
+PROD-1093,Product Premium Type-1093,Home & Living,6947981,8109635,True
+PROD-1094,Product Premium Type-1094,Home & Living,5973071,7181882,True
+PROD-1095,Product Premium Type-1095,Electronics,4918091,6699560,True
+PROD-1096,Product Premium Type-1096,Home & Living,3825315,5215944,True
+PROD-1097,Product Premium Type-1097,Home & Living,3176396,4508915,True
+PROD-1098,Product Premium Type-1098,Automotive,3393270,4495423,True
+PROD-1099,Product Premium Type-1099,Electronics,6494723,7710744,True
+PROD-1100,Product Premium Type-1100,Beauty & Health,6127545,7269869,True
+PROD-1101,Product Premium Type-1101,Books,2277641,3112031,True
+PROD-1102,Product Premium Type-1102,Beauty & Health,369126,444846,True
+PROD-1103,Product Premium Type-1103,Books,5898301,7364121,True
+PROD-1104,Product Premium Type-1104,Books,2430514,3150343,True
+PROD-1105,Product Premium Type-1105,Books,5132385,5940373,False
+PROD-1106,Product Premium Type-1106,Home & Living,1867360,2286854,True
+PROD-1107,Product Premium Type-1107,Home & Living,1162411,1479013,True
+PROD-1108,Product Premium Type-1108,Automotive,1695357,2091885,False
+PROD-1109,Product Premium Type-1109,Books,2937511,3498314,True
+PROD-1110,Product Premium Type-1110,Automotive,5964334,8161616,True
+PROD-1111,Product Premium Type-1111,Home & Living,6418404,8946897,True
+PROD-1112,Product Premium Type-1112,Electronics,3355922,4118534,True
+PROD-1113,Product Premium Type-1113,Apparel,3724509,5148485,True
+PROD-1114,Product Premium Type-1114,Books,4180479,5291090,True
+PROD-1115,Product Premium Type-1115,Books,5734635,7466527,True
+PROD-1116,Product Premium Type-1116,Home & Living,4513155,6349107,True
+PROD-1117,Product Premium Type-1117,Apparel,3327198,4574851,True
+PROD-1118,Product Premium Type-1118,Automotive,322986,449446,True
+PROD-1119,Product Premium Type-1119,Automotive,6329717,7539031,True
+PROD-1120,Product Premium Type-1120,Apparel,7441741,8713652,True
+PROD-1121,Product Premium Type-1121,Automotive,3791001,5375720,True
+PROD-1122,Product Premium Type-1122,Books,2490912,3154367,True
+PROD-1123,Product Premium Type-1123,Books,2047784,2531806,True
+PROD-1124,Product Premium Type-1124,Home & Living,878605,1201412,True
+PROD-1125,Product Premium Type-1125,Beauty & Health,5561805,7791669,True
+PROD-1126,Product Premium Type-1126,Beauty & Health,2397948,3378101,True
+PROD-1127,Product Premium Type-1127,Beauty & Health,1340823,1669055,True
+PROD-1128,Product Premium Type-1128,Books,3458372,4861308,True
+PROD-1129,Product Premium Type-1129,Beauty & Health,795692,924817,True
+PROD-1130,Product Premium Type-1130,Home & Living,5892504,6864168,True
+PROD-1131,Product Premium Type-1131,Beauty & Health,453745,606682,False
+PROD-1132,Product Premium Type-1132,Automotive,4857091,5677608,True
+PROD-1133,Product Premium Type-1133,Electronics,698812,871686,True
+PROD-1134,Product Premium Type-1134,Electronics,2957977,3998672,True
+PROD-1135,Product Premium Type-1135,Electronics,3595118,4498139,True
+PROD-1136,Product Premium Type-1136,Electronics,7007252,8435890,True
+PROD-1137,Product Premium Type-1137,Beauty & Health,1383126,1707337,False
+PROD-1138,Product Premium Type-1138,Electronics,6641659,8549625,True
+PROD-1139,Product Premium Type-1139,Automotive,3842042,4966284,True
+PROD-1140,Product Premium Type-1140,Books,4564170,6320919,True
+PROD-1141,Product Premium Type-1141,Electronics,4994411,6867544,True
+PROD-1142,Product Premium Type-1142,Books,561644,722861,True
+PROD-1143,Product Premium Type-1143,Beauty & Health,677416,950888,True
+PROD-1144,Product Premium Type-1144,Automotive,5235307,6200022,True
+PROD-1145,Product Premium Type-1145,Automotive,3172915,3891916,True
+PROD-1146,Product Premium Type-1146,Electronics,5753567,8045747,True
+PROD-1147,Product Premium Type-1147,Beauty & Health,2798737,3535919,True
+PROD-1148,Product Premium Type-1148,Books,1732542,2502404,True
+PROD-1149,Product Premium Type-1149,Automotive,4216896,5439272,True
+PROD-1150,Product Premium Type-1150,Automotive,6111932,8480798,True
+PROD-1151,Product Premium Type-1151,Electronics,1499620,1905555,False
+PROD-1152,Product Premium Type-1152,Beauty & Health,1199846,1532786,True
+PROD-1153,Product Premium Type-1153,Home & Living,2017569,2551952,True
+PROD-1154,Product Premium Type-1154,Books,1874395,2559903,False
+PROD-1155,Product Premium Type-1155,Apparel,6648063,8737252,False
+PROD-1156,Product Premium Type-1156,Apparel,1014336,1453678,True
+PROD-1157,Product Premium Type-1157,Books,4986590,6109904,True
+PROD-1158,Product Premium Type-1158,Automotive,5249237,6194985,True
+PROD-1159,Product Premium Type-1159,Books,7236551,9175790,True
+PROD-1160,Product Premium Type-1160,Electronics,3163102,4222784,True
+PROD-1161,Product Premium Type-1161,Apparel,7082247,9973501,True
+PROD-1162,Product Premium Type-1162,Books,5185324,6501665,True
+PROD-1163,Product Premium Type-1163,Electronics,2475979,3333004,True
+PROD-1164,Product Premium Type-1164,Home & Living,5854229,7347406,False
+PROD-1165,Product Premium Type-1165,Books,3930513,5247886,True
+PROD-1166,Product Premium Type-1166,Books,2057816,2912719,True
+PROD-1167,Product Premium Type-1167,Beauty & Health,7446289,9080059,True
+PROD-1168,Product Premium Type-1168,Beauty & Health,86753,110286,False
+PROD-1169,Product Premium Type-1169,Beauty & Health,7187662,10407587,True
+PROD-1170,Product Premium Type-1170,Books,5672183,8000994,True
+PROD-1171,Product Premium Type-1171,Electronics,5691912,7509862,True
+PROD-1172,Product Premium Type-1172,Home & Living,1096984,1431551,False
+PROD-1173,Product Premium Type-1173,Apparel,4343420,5365774,True
+PROD-1174,Product Premium Type-1174,Automotive,5242084,6841773,True
+PROD-1175,Product Premium Type-1175,Home & Living,680496,955725,True
+PROD-1176,Product Premium Type-1176,Home & Living,6333869,8585891,True
+PROD-1177,Product Premium Type-1177,Beauty & Health,2760090,3414267,True
+PROD-1178,Product Premium Type-1178,Home & Living,3230228,3909994,False
+PROD-1179,Product Premium Type-1179,Home & Living,5090250,6258780,False
+PROD-1180,Product Premium Type-1180,Books,5324238,6394025,True
+PROD-1181,Product Premium Type-1181,Beauty & Health,2188349,2579389,True
+PROD-1182,Product Premium Type-1182,Apparel,518992,662099,True
+PROD-1183,Product Premium Type-1183,Electronics,6016029,7122917,True
+PROD-1184,Product Premium Type-1184,Books,6539948,7858229,True
+PROD-1185,Product Premium Type-1185,Electronics,5005137,6577738,True
+PROD-1186,Product Premium Type-1186,Electronics,6742526,8086849,True
+PROD-1187,Product Premium Type-1187,Electronics,101240,118366,True
+PROD-1188,Product Premium Type-1188,Apparel,4454899,5547314,True
+PROD-1189,Product Premium Type-1189,Home & Living,5790590,7041911,True
+PROD-1190,Product Premium Type-1190,Automotive,3916151,5108977,True
+PROD-1191,Product Premium Type-1191,Beauty & Health,1352042,1596369,True
+PROD-1192,Product Premium Type-1192,Automotive,1973061,2714007,True
+PROD-1193,Product Premium Type-1193,Home & Living,7372000,10482026,False
+PROD-1194,Product Premium Type-1194,Home & Living,6606118,9070401,True
+PROD-1195,Product Premium Type-1195,Apparel,5057661,6624767,False
+PROD-1196,Product Premium Type-1196,Automotive,4410224,6210478,False
+PROD-1197,Product Premium Type-1197,Books,923332,1254323,True
+PROD-1198,Product Premium Type-1198,Apparel,904854,1043446,True
+PROD-1199,Product Premium Type-1199,Automotive,4050942,5137514,True
+PROD-1200,Product Premium Type-1200,Books,6548532,9202557,False
+PROD-1201,Product Premium Type-1201,Apparel,5291079,6633730,False
+PROD-1202,Product Premium Type-1202,Automotive,2559957,2970995,True
+PROD-1203,Product Premium Type-1203,Beauty & Health,188187,258541,True
+PROD-1204,Product Premium Type-1204,Books,4674454,6500349,True
+PROD-1205,Product Premium Type-1205,Electronics,4728855,5666010,True
+PROD-1206,Product Premium Type-1206,Automotive,1587518,2081557,True
+PROD-1207,Product Premium Type-1207,Books,5273400,6368087,True
+PROD-1208,Product Premium Type-1208,Apparel,1707678,2332295,True
+PROD-1209,Product Premium Type-1209,Beauty & Health,192527,237090,True
+PROD-1210,Product Premium Type-1210,Books,7087100,8822479,True
+PROD-1211,Product Premium Type-1211,Beauty & Health,2769804,3887395,True
+PROD-1212,Product Premium Type-1212,Apparel,1612819,2085208,False
+PROD-1213,Product Premium Type-1213,Books,5443001,7353093,True
+PROD-1214,Product Premium Type-1214,Home & Living,5207101,6616725,True
+PROD-1215,Product Premium Type-1215,Automotive,1545373,1915338,True
+PROD-1216,Product Premium Type-1216,Apparel,6566600,8783769,True
+PROD-1217,Product Premium Type-1217,Books,6381381,7635049,True
+PROD-1218,Product Premium Type-1218,Apparel,6685816,8436830,True
+PROD-1219,Product Premium Type-1219,Electronics,619557,751343,True
+PROD-1220,Product Premium Type-1220,Beauty & Health,7264914,9871118,True
+PROD-1221,Product Premium Type-1221,Apparel,1015121,1454935,True
+PROD-1222,Product Premium Type-1222,Automotive,3474330,5033099,True
+PROD-1223,Product Premium Type-1223,Electronics,5619061,7220960,True
+PROD-1224,Product Premium Type-1224,Beauty & Health,1750049,2145138,True
+PROD-1225,Product Premium Type-1225,Automotive,3270705,4195820,True
+PROD-1226,Product Premium Type-1226,Books,508442,713944,True
+PROD-1227,Product Premium Type-1227,Beauty & Health,7146827,8660537,True
+PROD-1228,Product Premium Type-1228,Home & Living,5297225,7604848,True
+PROD-1229,Product Premium Type-1229,Automotive,7096432,8888704,True
+PROD-1230,Product Premium Type-1230,Apparel,4134545,5977481,True
+PROD-1231,Product Premium Type-1231,Home & Living,1445827,2026446,True
+PROD-1232,Product Premium Type-1232,Apparel,1981874,2759900,True
+PROD-1233,Product Premium Type-1233,Electronics,5229173,6512262,False
+PROD-1234,Product Premium Type-1234,Electronics,3956814,4560755,False
+PROD-1235,Product Premium Type-1235,Electronics,4713118,5960396,True
+PROD-1236,Product Premium Type-1236,Books,6647766,8246838,False
+PROD-1237,Product Premium Type-1237,Electronics,1776797,2063250,True
+PROD-1238,Product Premium Type-1238,Beauty & Health,122406,159324,True
+PROD-1239,Product Premium Type-1239,Automotive,7281181,9253721,True
+PROD-1240,Product Premium Type-1240,Apparel,3477814,4661546,False
+PROD-1241,Product Premium Type-1241,Electronics,5795621,7745012,True
+PROD-1242,Product Premium Type-1242,Automotive,3797827,4505073,True
+PROD-1243,Product Premium Type-1243,Beauty & Health,6895679,9951083,True
+PROD-1244,Product Premium Type-1244,Automotive,4603887,5552653,True
+PROD-1245,Product Premium Type-1245,Electronics,1046436,1343186,True
+PROD-1246,Product Premium Type-1246,Automotive,2916912,3781587,True
+PROD-1247,Product Premium Type-1247,Books,7380566,10287909,True
+PROD-1248,Product Premium Type-1248,Electronics,5221733,6160438,True
+PROD-1249,Product Premium Type-1249,Beauty & Health,1634184,2089456,True
+PROD-1250,Product Premium Type-1250,Beauty & Health,5368426,7185910,True
+PROD-1251,Product Premium Type-1251,Apparel,4823793,5858721,True
+PROD-1252,Product Premium Type-1252,Books,7362895,9853323,True
+PROD-1253,Product Premium Type-1253,Beauty & Health,4209238,6007001,False
+PROD-1254,Product Premium Type-1254,Beauty & Health,7075217,10253796,True
+PROD-1255,Product Premium Type-1255,Home & Living,2353476,2729409,True
+PROD-1256,Product Premium Type-1256,Apparel,509273,621657,True
+PROD-1257,Product Premium Type-1257,Apparel,5953289,7400486,True
+PROD-1258,Product Premium Type-1258,Beauty & Health,5979293,7592134,False
+PROD-1259,Product Premium Type-1259,Apparel,5138728,6283005,True
+PROD-1260,Product Premium Type-1260,Home & Living,2428233,2940702,True
+PROD-1261,Product Premium Type-1261,Apparel,2847236,4089673,True
+PROD-1262,Product Premium Type-1262,Automotive,5411159,7713912,True
+PROD-1263,Product Premium Type-1263,Apparel,713332,830388,True
+PROD-1264,Product Premium Type-1264,Beauty & Health,5671895,7099192,True
+PROD-1265,Product Premium Type-1265,Books,751448,955499,True
+PROD-1266,Product Premium Type-1266,Home & Living,6738588,8232562,True
+PROD-1267,Product Premium Type-1267,Beauty & Health,95463,127792,True
+PROD-1268,Product Premium Type-1268,Electronics,6409956,8602893,True
+PROD-1269,Product Premium Type-1269,Home & Living,5475652,7694119,True
+PROD-1270,Product Premium Type-1270,Electronics,6877902,9438275,True
+PROD-1271,Product Premium Type-1271,Apparel,1158183,1520430,True
+PROD-1272,Product Premium Type-1272,Beauty & Health,2891457,3892120,True
+PROD-1273,Product Premium Type-1273,Electronics,2455992,3026265,True
+PROD-1274,Product Premium Type-1274,Beauty & Health,5067246,6728881,True
+PROD-1275,Product Premium Type-1275,Automotive,4339380,5627169,True
+PROD-1276,Product Premium Type-1276,Electronics,5326572,6338638,True
+PROD-1277,Product Premium Type-1277,Electronics,4874433,5960277,True
+PROD-1278,Product Premium Type-1278,Books,4936408,6108844,True
+PROD-1279,Product Premium Type-1279,Automotive,5021546,7167216,True
+PROD-1280,Product Premium Type-1280,Electronics,5141934,6268613,True
+PROD-1281,Product Premium Type-1281,Electronics,6477537,8011243,True
+PROD-1282,Product Premium Type-1282,Apparel,1185294,1494426,True
+PROD-1283,Product Premium Type-1283,Home & Living,5620956,7583360,True
+PROD-1284,Product Premium Type-1284,Home & Living,4743784,5623620,True
+PROD-1285,Product Premium Type-1285,Apparel,2369688,3403306,False
+PROD-1286,Product Premium Type-1286,Electronics,61413,86572,True
+PROD-1287,Product Premium Type-1287,Electronics,2973632,3934605,True
+PROD-1288,Product Premium Type-1288,Books,5915298,7998733,True
+PROD-1289,Product Premium Type-1289,Home & Living,6891684,7959882,True
+PROD-1290,Product Premium Type-1290,Apparel,589430,737779,True
+PROD-1291,Product Premium Type-1291,Books,3693508,5129167,True
+PROD-1292,Product Premium Type-1292,Electronics,6352924,7453535,False
+PROD-1293,Product Premium Type-1293,Books,5167506,6380289,True
+PROD-1294,Product Premium Type-1294,Electronics,4885319,6475925,True
+PROD-1295,Product Premium Type-1295,Books,5691171,6982633,True
+PROD-1296,Product Premium Type-1296,Electronics,3049015,4360681,True
+PROD-1297,Product Premium Type-1297,Books,940480,1118529,True
+PROD-1298,Product Premium Type-1298,Beauty & Health,3666141,5093070,True
+PROD-1299,Product Premium Type-1299,Electronics,3406915,4437113,True
+PROD-1300,Product Premium Type-1300,Apparel,67056,92208,True
+PROD-1301,Product Premium Type-1301,Beauty & Health,2173983,2702727,True
+PROD-1302,Product Premium Type-1302,Books,2967775,3871008,True
+PROD-1303,Product Premium Type-1303,Books,798952,1124165,True
+PROD-1304,Product Premium Type-1304,Home & Living,933380,1204119,False
+PROD-1305,Product Premium Type-1305,Beauty & Health,4645792,5844015,True
+PROD-1306,Product Premium Type-1306,Books,4851709,6359846,True
+PROD-1307,Product Premium Type-1307,Apparel,6593271,9001191,True
+PROD-1308,Product Premium Type-1308,Apparel,1362768,1748525,True
+PROD-1309,Product Premium Type-1309,Home & Living,3115930,4460961,False
+PROD-1310,Product Premium Type-1310,Electronics,1885971,2335744,True
+PROD-1311,Product Premium Type-1311,Apparel,6884698,8899429,True
+PROD-1312,Product Premium Type-1312,Beauty & Health,1539101,2119462,True
+PROD-1313,Product Premium Type-1313,Automotive,2355344,3195580,False
+PROD-1314,Product Premium Type-1314,Beauty & Health,1431150,2016622,True
+PROD-1315,Product Premium Type-1315,Automotive,550005,796980,True
+PROD-1316,Product Premium Type-1316,Electronics,3444548,4402330,True
+PROD-1317,Product Premium Type-1317,Electronics,1254458,1484456,False
+PROD-1318,Product Premium Type-1318,Home & Living,6288745,7289440,True
+PROD-1319,Product Premium Type-1319,Home & Living,1192272,1631103,True
+PROD-1320,Product Premium Type-1320,Books,7328596,10349473,True
+PROD-1321,Product Premium Type-1321,Automotive,6321450,7688234,True
+PROD-1322,Product Premium Type-1322,Automotive,7107122,8511023,True
+PROD-1323,Product Premium Type-1323,Automotive,6385756,7462787,False
+PROD-1324,Product Premium Type-1324,Electronics,6622549,9250448,True
+PROD-1325,Product Premium Type-1325,Apparel,4780997,5944761,False
+PROD-1326,Product Premium Type-1326,Automotive,5564896,7070250,True
+PROD-1327,Product Premium Type-1327,Beauty & Health,3475087,4520480,True
+PROD-1328,Product Premium Type-1328,Home & Living,5966682,8364309,True
+PROD-1329,Product Premium Type-1329,Electronics,6832935,9192005,True
+PROD-1330,Product Premium Type-1330,Apparel,1518551,2026535,True
+PROD-1331,Product Premium Type-1331,Automotive,3998313,4808777,True
+PROD-1332,Product Premium Type-1332,Electronics,2461831,3210121,True
+PROD-1333,Product Premium Type-1333,Automotive,4190255,5718081,True
+PROD-1334,Product Premium Type-1334,Electronics,1731517,2496809,False
+PROD-1335,Product Premium Type-1335,Automotive,3222445,3900517,True
+PROD-1336,Product Premium Type-1336,Automotive,3173491,3658600,True
+PROD-1337,Product Premium Type-1337,Apparel,380054,445647,True
+PROD-1338,Product Premium Type-1338,Apparel,3226208,4073912,True
+PROD-1339,Product Premium Type-1339,Home & Living,3864847,5395957,True
+PROD-1340,Product Premium Type-1340,Electronics,5475019,6308002,False
+PROD-1341,Product Premium Type-1341,Apparel,1191670,1533702,True
+PROD-1342,Product Premium Type-1342,Electronics,705667,881215,True
+PROD-1343,Product Premium Type-1343,Home & Living,2873883,3350213,True
+PROD-1344,Product Premium Type-1344,Apparel,5344728,6868354,True
+PROD-1345,Product Premium Type-1345,Apparel,5435897,6666717,True
+PROD-1346,Product Premium Type-1346,Electronics,2039017,2560119,True
+PROD-1347,Product Premium Type-1347,Beauty & Health,7109364,9680711,True
+PROD-1348,Product Premium Type-1348,Beauty & Health,4664276,6093714,True
+PROD-1349,Product Premium Type-1349,Apparel,4047261,4805694,True
+PROD-1350,Product Premium Type-1350,Home & Living,4662203,6706226,True
+PROD-1351,Product Premium Type-1351,Home & Living,4700519,6302330,True
+PROD-1352,Product Premium Type-1352,Books,4919940,6788339,False
+PROD-1353,Product Premium Type-1353,Apparel,2024482,2376263,True
+PROD-1354,Product Premium Type-1354,Electronics,3674244,4277251,False
+PROD-1355,Product Premium Type-1355,Home & Living,4639466,5362454,True
+PROD-1356,Product Premium Type-1356,Beauty & Health,5871866,7085217,True
+PROD-1357,Product Premium Type-1357,Automotive,7086506,9030494,True
+PROD-1358,Product Premium Type-1358,Beauty & Health,3938397,5634853,True
+PROD-1359,Product Premium Type-1359,Home & Living,3113589,4007556,True
+PROD-1360,Product Premium Type-1360,Books,6207719,7679423,True
+PROD-1361,Product Premium Type-1361,Beauty & Health,4264399,5622953,True
+PROD-1362,Product Premium Type-1362,Books,1546722,1830669,True
+PROD-1363,Product Premium Type-1363,Books,6708574,8941534,True
+PROD-1364,Product Premium Type-1364,Automotive,1887205,2492110,True
+PROD-1365,Product Premium Type-1365,Books,6181931,8578034,True
+PROD-1366,Product Premium Type-1366,Apparel,5814178,8407337,False
+PROD-1367,Product Premium Type-1367,Home & Living,1490915,1826761,True
+PROD-1368,Product Premium Type-1368,Apparel,375067,488673,True
+PROD-1369,Product Premium Type-1369,Apparel,1731826,2463798,True
+PROD-1370,Product Premium Type-1370,Beauty & Health,2084385,2888034,True
+PROD-1371,Product Premium Type-1371,Beauty & Health,1466246,1900580,True
+PROD-1372,Product Premium Type-1372,Home & Living,7474194,10715090,True
+PROD-1373,Product Premium Type-1373,Books,6699527,7819493,True
+PROD-1374,Product Premium Type-1374,Electronics,2392322,3419344,True
+PROD-1375,Product Premium Type-1375,Automotive,1400645,1631964,True
+PROD-1376,Product Premium Type-1376,Automotive,3763858,4946429,True
+PROD-1377,Product Premium Type-1377,Home & Living,5563689,7884483,True
+PROD-1378,Product Premium Type-1378,Apparel,6587877,8095290,True
+PROD-1379,Product Premium Type-1379,Apparel,2295463,2964991,True
+PROD-1380,Product Premium Type-1380,Beauty & Health,6757336,8428416,True
+PROD-1381,Product Premium Type-1381,Books,859440,1233849,False
+PROD-1382,Product Premium Type-1382,Books,6068995,8478954,True
+PROD-1383,Product Premium Type-1383,Books,4875334,6643619,True
+PROD-1384,Product Premium Type-1384,Books,6989705,9270362,True
+PROD-1385,Product Premium Type-1385,Automotive,5716708,7981539,True
+PROD-1386,Product Premium Type-1386,Beauty & Health,724895,918934,False
+PROD-1387,Product Premium Type-1387,Home & Living,6657142,8549538,True
+PROD-1388,Product Premium Type-1388,Home & Living,270144,369827,True
+PROD-1389,Product Premium Type-1389,Automotive,4049227,5091200,True
+PROD-1390,Product Premium Type-1390,Electronics,3847727,4498648,True
+PROD-1391,Product Premium Type-1391,Automotive,1269360,1488071,True
+PROD-1392,Product Premium Type-1392,Books,7250593,8589116,True
+PROD-1393,Product Premium Type-1393,Books,4995809,7048608,True
+PROD-1394,Product Premium Type-1394,Apparel,3074316,3970995,True
+PROD-1395,Product Premium Type-1395,Automotive,6647575,9066392,True
+PROD-1396,Product Premium Type-1396,Home & Living,2574565,3264220,True
+PROD-1397,Product Premium Type-1397,Home & Living,1174734,1442119,False
+PROD-1398,Product Premium Type-1398,Beauty & Health,7292807,9146329,True
+PROD-1399,Product Premium Type-1399,Electronics,1871585,2598236,True
+PROD-1400,Product Premium Type-1400,Books,2985883,3993812,True
+PROD-1401,Product Premium Type-1401,Apparel,7123064,10195184,True
+PROD-1402,Product Premium Type-1402,Electronics,4132618,5595198,True
+PROD-1403,Product Premium Type-1403,Automotive,5331852,7043667,True
+PROD-1404,Product Premium Type-1404,Home & Living,931450,1241677,True
+PROD-1405,Product Premium Type-1405,Automotive,5750887,8239361,True
+PROD-1406,Product Premium Type-1406,Books,1507795,2090497,True
+PROD-1407,Product Premium Type-1407,Home & Living,307140,355426,True
+PROD-1408,Product Premium Type-1408,Automotive,1633795,2140666,True
+PROD-1409,Product Premium Type-1409,Beauty & Health,6964912,9447913,False
+PROD-1410,Product Premium Type-1410,Automotive,5434662,7470538,True
+PROD-1411,Product Premium Type-1411,Home & Living,7488131,9090161,True
+PROD-1412,Product Premium Type-1412,Books,583981,823502,True
+PROD-1413,Product Premium Type-1413,Electronics,2068321,2971666,True
+PROD-1414,Product Premium Type-1414,Electronics,133944,163547,True
+PROD-1415,Product Premium Type-1415,Apparel,1822519,2578471,True
+PROD-1416,Product Premium Type-1416,Home & Living,3902590,4601519,True
+PROD-1417,Product Premium Type-1417,Books,6262058,7306018,True
+PROD-1418,Product Premium Type-1418,Apparel,6564028,7803100,True
+PROD-1419,Product Premium Type-1419,Home & Living,3740929,4366869,False
+PROD-1420,Product Premium Type-1420,Apparel,1983691,2784117,True
+PROD-1421,Product Premium Type-1421,Electronics,4416401,5157097,True
+PROD-1422,Product Premium Type-1422,Apparel,2953100,3636740,True
+PROD-1423,Product Premium Type-1423,Beauty & Health,2734236,3229479,True
+PROD-1424,Product Premium Type-1424,Home & Living,6604669,8180718,True
+PROD-1425,Product Premium Type-1425,Home & Living,1978341,2328839,True
+PROD-1426,Product Premium Type-1426,Apparel,998737,1348695,True
+PROD-1427,Product Premium Type-1427,Home & Living,1158387,1378478,True
+PROD-1428,Product Premium Type-1428,Electronics,5458001,7671513,False
+PROD-1429,Product Premium Type-1429,Electronics,3927908,5480049,True
+PROD-1430,Product Premium Type-1430,Home & Living,6696628,7728568,True
+PROD-1431,Product Premium Type-1431,Beauty & Health,6087133,8635924,True
+PROD-1432,Product Premium Type-1432,Electronics,6237111,7226836,True
+PROD-1433,Product Premium Type-1433,Beauty & Health,4673455,5710465,True
+PROD-1434,Product Premium Type-1434,Home & Living,2663439,3088834,True
+PROD-1435,Product Premium Type-1435,Apparel,5723618,7158832,True
+PROD-1436,Product Premium Type-1436,Books,5463503,7125281,True
+PROD-1437,Product Premium Type-1437,Automotive,720532,1000814,True
+PROD-1438,Product Premium Type-1438,Home & Living,320866,401529,True
+PROD-1439,Product Premium Type-1439,Apparel,822057,1119351,True
+PROD-1440,Product Premium Type-1440,Automotive,4417541,5328664,True
+PROD-1441,Product Premium Type-1441,Electronics,6261893,8611227,True
+PROD-1442,Product Premium Type-1442,Books,6847603,8359546,True
+PROD-1443,Product Premium Type-1443,Home & Living,7275569,8680215,True
+PROD-1444,Product Premium Type-1444,Automotive,5180115,6245264,True
+PROD-1445,Product Premium Type-1445,Apparel,6951730,8374185,True
+PROD-1446,Product Premium Type-1446,Automotive,1830518,2386737,True
+PROD-1447,Product Premium Type-1447,Apparel,5551863,7791702,True
+PROD-1448,Product Premium Type-1448,Electronics,3460088,4061733,False
+PROD-1449,Product Premium Type-1449,Automotive,2961537,4033870,True
+PROD-1450,Product Premium Type-1450,Home & Living,3648425,4911888,True
+PROD-1451,Product Premium Type-1451,Beauty & Health,3624537,5116961,True
+PROD-1452,Product Premium Type-1452,Automotive,2171674,2656487,True
+PROD-1453,Product Premium Type-1453,Beauty & Health,6546689,8412711,True
+PROD-1454,Product Premium Type-1454,Electronics,6714558,9586698,True
+PROD-1455,Product Premium Type-1455,Automotive,5641273,7604424,True
+PROD-1456,Product Premium Type-1456,Beauty & Health,6323941,8010096,False
+PROD-1457,Product Premium Type-1457,Books,5692551,6770855,False
+PROD-1458,Product Premium Type-1458,Beauty & Health,6035224,7415754,True
+PROD-1459,Product Premium Type-1459,Books,2007847,2659121,True
+PROD-1460,Product Premium Type-1460,Home & Living,2234853,3051580,True
+PROD-1461,Product Premium Type-1461,Home & Living,4116685,4887849,True
+PROD-1462,Product Premium Type-1462,Apparel,232352,309000,True
+PROD-1463,Product Premium Type-1463,Apparel,1700502,2236339,True
+PROD-1464,Product Premium Type-1464,Electronics,209514,273245,True
+PROD-1465,Product Premium Type-1465,Books,6761549,9175671,True
+PROD-1466,Product Premium Type-1466,Books,823658,1154138,True
+PROD-1467,Product Premium Type-1467,Electronics,6934149,8646168,True
+PROD-1468,Product Premium Type-1468,Home & Living,1882596,2667080,True
+PROD-1469,Product Premium Type-1469,Books,1283624,1538025,True
+PROD-1470,Product Premium Type-1470,Electronics,5954949,7157295,True
+PROD-1471,Product Premium Type-1471,Electronics,7321991,9006280,True
+PROD-1472,Product Premium Type-1472,Books,6353475,7534327,True
+PROD-1473,Product Premium Type-1473,Apparel,987452,1203798,True
+PROD-1474,Product Premium Type-1474,Automotive,5529377,6535300,True
+PROD-1475,Product Premium Type-1475,Home & Living,4808725,6715508,True
+PROD-1476,Product Premium Type-1476,Automotive,1795394,2139554,True
+PROD-1477,Product Premium Type-1477,Books,6696203,9201850,True
+PROD-1478,Product Premium Type-1478,Apparel,6475054,7539385,True
+PROD-1479,Product Premium Type-1479,Automotive,4161725,5970227,True
+PROD-1480,Product Premium Type-1480,Electronics,2775025,3783324,True
+PROD-1481,Product Premium Type-1481,Home & Living,6037340,6955250,True
+PROD-1482,Product Premium Type-1482,Electronics,2114934,2916825,False
+PROD-1483,Product Premium Type-1483,Beauty & Health,5760630,7513155,True
+PROD-1484,Product Premium Type-1484,Automotive,2951979,4084976,True
+PROD-1485,Product Premium Type-1485,Electronics,2539399,3318357,True
+PROD-1486,Product Premium Type-1486,Books,4688062,6292820,True
+PROD-1487,Product Premium Type-1487,Home & Living,3820830,5295286,True
+PROD-1488,Product Premium Type-1488,Apparel,980205,1246362,True
+PROD-1489,Product Premium Type-1489,Books,6691199,7700315,True
+PROD-1490,Product Premium Type-1490,Electronics,2148091,3018033,True
+PROD-1491,Product Premium Type-1491,Automotive,991649,1253709,True
+PROD-1492,Product Premium Type-1492,Automotive,7254284,9421957,True
+PROD-1493,Product Premium Type-1493,Electronics,5005939,5768493,False
+PROD-1494,Product Premium Type-1494,Home & Living,959048,1244487,True
+PROD-1495,Product Premium Type-1495,Beauty & Health,3055555,4418168,True
+PROD-1496,Product Premium Type-1496,Electronics,1889071,2330131,True
+PROD-1497,Product Premium Type-1497,Electronics,4747340,6022596,True
+PROD-1498,Product Premium Type-1498,Books,1452989,1970481,False
+PROD-1499,Product Premium Type-1499,Electronics,2057709,2869347,False
+PROD-1500,Product Premium Type-1500,Books,5086500,6486393,True
+PROD-1501,Product Premium Type-1501,Beauty & Health,1225532,1523214,True
+PROD-1502,Product Premium Type-1502,Home & Living,5218378,7469313,True
+PROD-1503,Product Premium Type-1503,Home & Living,489462,662312,True
+PROD-1504,Product Premium Type-1504,Home & Living,3016620,3576825,True
+PROD-1505,Product Premium Type-1505,Home & Living,4893923,5729209,False
+PROD-1506,Product Premium Type-1506,Books,3025109,3917712,False
+PROD-1507,Product Premium Type-1507,Electronics,3597401,4374536,False
+PROD-1508,Product Premium Type-1508,Automotive,2469975,3028672,True
+PROD-1509,Product Premium Type-1509,Home & Living,3296557,4659049,True
+PROD-1510,Product Premium Type-1510,Books,5396096,6350502,True
+PROD-1511,Product Premium Type-1511,Automotive,6187487,8443501,True
+PROD-1512,Product Premium Type-1512,Electronics,6035554,7431835,True
+PROD-1513,Product Premium Type-1513,Books,2297759,3166538,True
+PROD-1514,Product Premium Type-1514,Home & Living,4628623,6326047,True
+PROD-1515,Product Premium Type-1515,Beauty & Health,2474308,2850941,True
+PROD-1516,Product Premium Type-1516,Books,3773294,4915623,False
+PROD-1517,Product Premium Type-1517,Books,299535,356984,True
+PROD-1518,Product Premium Type-1518,Beauty & Health,3273204,4614785,False
+PROD-1519,Product Premium Type-1519,Electronics,5165709,7291273,True
+PROD-1520,Product Premium Type-1520,Home & Living,2505017,3195158,True
+PROD-1521,Product Premium Type-1521,Automotive,4841129,6212711,True
+PROD-1522,Product Premium Type-1522,Electronics,4156146,5157714,True
+PROD-1523,Product Premium Type-1523,Electronics,942472,1286457,False
+PROD-1524,Product Premium Type-1524,Apparel,2303581,2896979,False
+PROD-1525,Product Premium Type-1525,Electronics,3674279,4520604,True
+PROD-1526,Product Premium Type-1526,Electronics,2029517,2597110,True
+PROD-1527,Product Premium Type-1527,Apparel,5041239,5935787,True
+PROD-1528,Product Premium Type-1528,Electronics,2087362,2867995,True
+PROD-1529,Product Premium Type-1529,Home & Living,3657403,4219834,False
+PROD-1530,Product Premium Type-1530,Beauty & Health,3246131,4360675,True
+PROD-1531,Product Premium Type-1531,Beauty & Health,2032338,2448681,True
+PROD-1532,Product Premium Type-1532,Books,613574,748389,True
+PROD-1533,Product Premium Type-1533,Apparel,2459138,3296940,True
+PROD-1534,Product Premium Type-1534,Apparel,129927,188119,True
+PROD-1535,Product Premium Type-1535,Electronics,1874916,2593599,False
+PROD-1536,Product Premium Type-1536,Apparel,2607985,3175878,True
+PROD-1537,Product Premium Type-1537,Beauty & Health,6615828,7957567,True
+PROD-1538,Product Premium Type-1538,Home & Living,4242690,5981640,True
+PROD-1539,Product Premium Type-1539,Automotive,5445706,6988230,True
+PROD-1540,Product Premium Type-1540,Electronics,3674886,4377214,True
+PROD-1541,Product Premium Type-1541,Beauty & Health,5558326,7829810,True
+PROD-1542,Product Premium Type-1542,Electronics,5590839,7798257,True
+PROD-1543,Product Premium Type-1543,Home & Living,4471460,6462028,True
+PROD-1544,Product Premium Type-1544,Electronics,7318708,10413958,True
+PROD-1545,Product Premium Type-1545,Electronics,5069080,7124780,True
+PROD-1546,Product Premium Type-1546,Electronics,978122,1140267,True
+PROD-1547,Product Premium Type-1547,Home & Living,4068763,4806529,True
+PROD-1548,Product Premium Type-1548,Electronics,4688754,6192413,True
+PROD-1549,Product Premium Type-1549,Home & Living,4542562,5948229,True
+PROD-1550,Product Premium Type-1550,Home & Living,6565180,8451940,True
+PROD-1551,Product Premium Type-1551,Beauty & Health,2323354,2948421,True
+PROD-1552,Product Premium Type-1552,Automotive,7390557,9455206,False
+PROD-1553,Product Premium Type-1553,Books,7444850,9833078,True
+PROD-1554,Product Premium Type-1554,Home & Living,139589,160614,True
+PROD-1555,Product Premium Type-1555,Beauty & Health,1218982,1497169,False
+PROD-1556,Product Premium Type-1556,Apparel,644003,840735,True
+PROD-1557,Product Premium Type-1557,Apparel,218839,299079,True
+PROD-1558,Product Premium Type-1558,Automotive,7109532,8547413,True
+PROD-1559,Product Premium Type-1559,Books,6679754,8777626,True
+PROD-1560,Product Premium Type-1560,Electronics,531453,725081,True
+PROD-1561,Product Premium Type-1561,Apparel,3072589,3943324,True
+PROD-1562,Product Premium Type-1562,Home & Living,6573894,7613386,True
+PROD-1563,Product Premium Type-1563,Apparel,2952053,3792739,False
+PROD-1564,Product Premium Type-1564,Automotive,2549055,3158109,True
+PROD-1565,Product Premium Type-1565,Books,3015193,4308393,True
+PROD-1566,Product Premium Type-1566,Beauty & Health,4665176,5539355,True
+PROD-1567,Product Premium Type-1567,Books,2532743,3408420,True
+PROD-1568,Product Premium Type-1568,Beauty & Health,1580811,1842934,True
+PROD-1569,Product Premium Type-1569,Electronics,5102198,6550462,True
+PROD-1570,Product Premium Type-1570,Automotive,1681042,2212577,True
+PROD-1571,Product Premium Type-1571,Automotive,6209377,7695817,True
+PROD-1572,Product Premium Type-1572,Apparel,3870474,4979452,True
+PROD-1573,Product Premium Type-1573,Automotive,3949482,4735690,True
+PROD-1574,Product Premium Type-1574,Books,6755959,8385747,True
+PROD-1575,Product Premium Type-1575,Beauty & Health,3257452,4353037,True
+PROD-1576,Product Premium Type-1576,Books,4972796,6168952,True
+PROD-1577,Product Premium Type-1577,Home & Living,4315697,6127957,True
+PROD-1578,Product Premium Type-1578,Home & Living,3771328,5048005,True
+PROD-1579,Product Premium Type-1579,Beauty & Health,4186603,5365528,True
+PROD-1580,Product Premium Type-1580,Books,1935332,2248134,True
+PROD-1581,Product Premium Type-1581,Apparel,6911940,8984585,True
+PROD-1582,Product Premium Type-1582,Electronics,3765030,5193606,True
+PROD-1583,Product Premium Type-1583,Home & Living,2523578,3103161,True
+PROD-1584,Product Premium Type-1584,Home & Living,3837010,5341240,True
+PROD-1585,Product Premium Type-1585,Beauty & Health,1503081,1842088,True
+PROD-1586,Product Premium Type-1586,Electronics,1595889,2229654,True
+PROD-1587,Product Premium Type-1587,Home & Living,7398372,8697381,True
+PROD-1588,Product Premium Type-1588,Automotive,2424146,3417694,True
+PROD-1589,Product Premium Type-1589,Apparel,3096640,4024876,True
+PROD-1590,Product Premium Type-1590,Beauty & Health,1570491,1945777,True
+PROD-1591,Product Premium Type-1591,Beauty & Health,4857303,5972219,True
+PROD-1592,Product Premium Type-1592,Beauty & Health,4958842,6345349,True
+PROD-1593,Product Premium Type-1593,Apparel,5278974,7653006,True
+PROD-1594,Product Premium Type-1594,Beauty & Health,1947967,2368919,True
+PROD-1595,Product Premium Type-1595,Electronics,975922,1152529,True
+PROD-1596,Product Premium Type-1596,Electronics,6060053,8032664,True
+PROD-1597,Product Premium Type-1597,Books,1709449,2216407,True
+PROD-1598,Product Premium Type-1598,Electronics,490590,641328,True
+PROD-1599,Product Premium Type-1599,Apparel,5778371,7801266,True
+PROD-1600,Product Premium Type-1600,Electronics,1458284,1793898,True
+PROD-1601,Product Premium Type-1601,Beauty & Health,1142374,1625826,True
+PROD-1602,Product Premium Type-1602,Apparel,3024610,3873622,False
+PROD-1603,Product Premium Type-1603,Books,2323756,2762308,False
+PROD-1604,Product Premium Type-1604,Books,6426586,8821707,True
+PROD-1605,Product Premium Type-1605,Apparel,7125052,9568455,True
+PROD-1606,Product Premium Type-1606,Books,2813107,3501539,True
+PROD-1607,Product Premium Type-1607,Electronics,55257,73848,True
+PROD-1608,Product Premium Type-1608,Home & Living,4626731,5625913,True
+PROD-1609,Product Premium Type-1609,Apparel,7198877,9239411,True
+PROD-1610,Product Premium Type-1610,Automotive,7239192,10278376,True
+PROD-1611,Product Premium Type-1611,Automotive,1010257,1202266,True
+PROD-1612,Product Premium Type-1612,Automotive,1126267,1425864,True
+PROD-1613,Product Premium Type-1613,Home & Living,2080845,2905572,False
+PROD-1614,Product Premium Type-1614,Home & Living,5871936,8460562,True
+PROD-1615,Product Premium Type-1615,Beauty & Health,443829,570843,True
+PROD-1616,Product Premium Type-1616,Books,2660466,3464192,True
+PROD-1617,Product Premium Type-1617,Beauty & Health,7065906,9338665,True
+PROD-1618,Product Premium Type-1618,Apparel,3463780,4952181,True
+PROD-1619,Product Premium Type-1619,Automotive,4140345,5827378,True
+PROD-1620,Product Premium Type-1620,Electronics,4763202,5721464,True
+PROD-1621,Product Premium Type-1621,Apparel,1571933,2013689,True
+PROD-1622,Product Premium Type-1622,Apparel,350329,451644,True
+PROD-1623,Product Premium Type-1623,Home & Living,2981151,4134048,True
+PROD-1624,Product Premium Type-1624,Books,1252222,1666542,False
+PROD-1625,Product Premium Type-1625,Books,5260786,7082418,True
+PROD-1626,Product Premium Type-1626,Automotive,5786300,8387010,True
+PROD-1627,Product Premium Type-1627,Automotive,3392851,3978077,True
+PROD-1628,Product Premium Type-1628,Apparel,1568812,1909091,True
+PROD-1629,Product Premium Type-1629,Books,7139070,9083529,True
+PROD-1630,Product Premium Type-1630,Apparel,6170448,7739807,True
+PROD-1631,Product Premium Type-1631,Electronics,7234530,8366688,True
+PROD-1632,Product Premium Type-1632,Home & Living,6860032,8077915,True
+PROD-1633,Product Premium Type-1633,Books,890256,1205661,True
+PROD-1634,Product Premium Type-1634,Apparel,6215261,8787119,True
+PROD-1635,Product Premium Type-1635,Beauty & Health,25917,33802,True
+PROD-1636,Product Premium Type-1636,Home & Living,7329000,9613869,True
+PROD-1637,Product Premium Type-1637,Automotive,5070311,6218878,True
+PROD-1638,Product Premium Type-1638,Beauty & Health,7175406,9904664,True
+PROD-1639,Product Premium Type-1639,Electronics,7093931,9757974,False
+PROD-1640,Product Premium Type-1640,Apparel,7404136,9821658,False
+PROD-1641,Product Premium Type-1641,Books,6989878,8484308,True
+PROD-1642,Product Premium Type-1642,Electronics,4498447,5304143,True
+PROD-1643,Product Premium Type-1643,Beauty & Health,287091,335687,True
+PROD-1644,Product Premium Type-1644,Electronics,5722941,7598971,False
+PROD-1645,Product Premium Type-1645,Apparel,428157,598353,True
+PROD-1646,Product Premium Type-1646,Electronics,6901913,9714436,True
+PROD-1647,Product Premium Type-1647,Books,7494776,9661415,True
+PROD-1648,Product Premium Type-1648,Apparel,6164996,8540254,True
+PROD-1649,Product Premium Type-1649,Home & Living,6376277,9143989,True
+PROD-1650,Product Premium Type-1650,Electronics,274265,338045,True
+PROD-1651,Product Premium Type-1651,Books,6754107,8573583,True
+PROD-1652,Product Premium Type-1652,Beauty & Health,6590792,9421166,True
+PROD-1653,Product Premium Type-1653,Automotive,1409822,1764348,True
+PROD-1654,Product Premium Type-1654,Books,6520290,9285955,True
+PROD-1655,Product Premium Type-1655,Home & Living,1832402,2646562,True
+PROD-1656,Product Premium Type-1656,Home & Living,1974902,2663240,False
+PROD-1657,Product Premium Type-1657,Electronics,1160371,1618795,True
+PROD-1658,Product Premium Type-1658,Automotive,353821,486455,True
+PROD-1659,Product Premium Type-1659,Electronics,684987,931486,True
+PROD-1660,Product Premium Type-1660,Home & Living,268877,333966,True
+PROD-1661,Product Premium Type-1661,Books,3370026,3933252,True
+PROD-1662,Product Premium Type-1662,Apparel,1572419,1970108,True
+PROD-1663,Product Premium Type-1663,Apparel,945759,1276851,True
+PROD-1664,Product Premium Type-1664,Books,1786369,2109270,False
+PROD-1665,Product Premium Type-1665,Automotive,6452741,7443723,False
+PROD-1666,Product Premium Type-1666,Books,3273140,3901280,False
+PROD-1667,Product Premium Type-1667,Automotive,5811572,7931173,True
+PROD-1668,Product Premium Type-1668,Home & Living,2238697,3227838,True
+PROD-1669,Product Premium Type-1669,Electronics,1492172,2156068,True
+PROD-1670,Product Premium Type-1670,Books,6990989,9075658,True
+PROD-1671,Product Premium Type-1671,Home & Living,5976267,8431351,True
+PROD-1672,Product Premium Type-1672,Home & Living,1883997,2583050,True
+PROD-1673,Product Premium Type-1673,Electronics,5005249,6508385,True
+PROD-1674,Product Premium Type-1674,Electronics,1443826,1908489,True
+PROD-1675,Product Premium Type-1675,Beauty & Health,4505967,5367364,True
+PROD-1676,Product Premium Type-1676,Books,5000467,7157160,True
+PROD-1677,Product Premium Type-1677,Beauty & Health,6076751,7629840,True
+PROD-1678,Product Premium Type-1678,Books,1454290,1867082,True
+PROD-1679,Product Premium Type-1679,Apparel,5213757,7046382,True
+PROD-1680,Product Premium Type-1680,Home & Living,6331451,7915394,True
+PROD-1681,Product Premium Type-1681,Apparel,2145711,2631237,False
+PROD-1682,Product Premium Type-1682,Books,546244,731592,True
+PROD-1683,Product Premium Type-1683,Apparel,6296271,7287903,False
+PROD-1684,Product Premium Type-1684,Automotive,1424769,1946544,True
+PROD-1685,Product Premium Type-1685,Home & Living,2520389,3287109,True
+PROD-1686,Product Premium Type-1686,Automotive,6938744,9240506,True
+PROD-1687,Product Premium Type-1687,Automotive,5944359,7962849,True
+PROD-1688,Product Premium Type-1688,Books,4664059,6101125,True
+PROD-1689,Product Premium Type-1689,Automotive,513051,679669,True
+PROD-1690,Product Premium Type-1690,Books,850782,1152925,True
+PROD-1691,Product Premium Type-1691,Electronics,464439,639038,True
+PROD-1692,Product Premium Type-1692,Beauty & Health,5293397,7242614,True
+PROD-1693,Product Premium Type-1693,Electronics,3642597,5139285,True
+PROD-1694,Product Premium Type-1694,Beauty & Health,4634770,5593393,True
+PROD-1695,Product Premium Type-1695,Apparel,1289134,1637644,True
+PROD-1696,Product Premium Type-1696,Electronics,6792567,9742842,True
+PROD-1697,Product Premium Type-1697,Apparel,7192020,9126509,True
+PROD-1698,Product Premium Type-1698,Electronics,6800738,8075611,True
+PROD-1699,Product Premium Type-1699,Electronics,5727894,7489986,True
+PROD-1700,Product Premium Type-1700,Electronics,5784919,6842675,True
+PROD-1701,Product Premium Type-1701,Automotive,1919554,2324303,True
+PROD-1702,Product Premium Type-1702,Home & Living,4740700,6871623,True
+PROD-1703,Product Premium Type-1703,Apparel,5373566,7052315,True
+PROD-1704,Product Premium Type-1704,Electronics,5880319,7263473,True
+PROD-1705,Product Premium Type-1705,Automotive,972272,1408270,True
+PROD-1706,Product Premium Type-1706,Electronics,4939082,7112118,True
+PROD-1707,Product Premium Type-1707,Home & Living,5755482,7379803,True
+PROD-1708,Product Premium Type-1708,Apparel,3156603,3876690,True
+PROD-1709,Product Premium Type-1709,Automotive,5966028,8361506,True
+PROD-1710,Product Premium Type-1710,Beauty & Health,3810961,5200765,True
+PROD-1711,Product Premium Type-1711,Beauty & Health,6625430,8984629,True
+PROD-1712,Product Premium Type-1712,Books,6368902,9030683,True
+PROD-1713,Product Premium Type-1713,Books,3144734,4266854,False
+PROD-1714,Product Premium Type-1714,Books,736943,910227,True
+PROD-1715,Product Premium Type-1715,Electronics,5695094,7734842,True
+PROD-1716,Product Premium Type-1716,Apparel,7261190,9016539,True
+PROD-1717,Product Premium Type-1717,Beauty & Health,2262300,3116932,True
+PROD-1718,Product Premium Type-1718,Beauty & Health,4250389,5678198,True
+PROD-1719,Product Premium Type-1719,Home & Living,5585595,6553151,True
+PROD-1720,Product Premium Type-1720,Books,2646158,3450194,True
+PROD-1721,Product Premium Type-1721,Apparel,3176478,3980096,True
+PROD-1722,Product Premium Type-1722,Apparel,6168243,7701490,True
+PROD-1723,Product Premium Type-1723,Apparel,2463064,3277542,True
+PROD-1724,Product Premium Type-1724,Home & Living,5779640,7205462,False
+PROD-1725,Product Premium Type-1725,Beauty & Health,4255207,5885241,True
+PROD-1726,Product Premium Type-1726,Home & Living,5471441,6408356,True
+PROD-1727,Product Premium Type-1727,Beauty & Health,2023173,2727472,True
+PROD-1728,Product Premium Type-1728,Automotive,5883204,8193882,True
+PROD-1729,Product Premium Type-1729,Home & Living,4831546,6531523,False
+PROD-1730,Product Premium Type-1730,Beauty & Health,4731797,6147402,True
+PROD-1731,Product Premium Type-1731,Electronics,3598258,5163831,True
+PROD-1732,Product Premium Type-1732,Electronics,1515017,1878593,True
+PROD-1733,Product Premium Type-1733,Apparel,3127641,3614772,True
+PROD-1734,Product Premium Type-1734,Automotive,894446,1144530,True
+PROD-1735,Product Premium Type-1735,Beauty & Health,666593,773183,False
+PROD-1736,Product Premium Type-1736,Automotive,3676361,5279919,False
+PROD-1737,Product Premium Type-1737,Books,1492130,1809917,True
+PROD-1738,Product Premium Type-1738,Beauty & Health,1559227,2162145,True
+PROD-1739,Product Premium Type-1739,Home & Living,2322905,3211117,True
+PROD-1740,Product Premium Type-1740,Beauty & Health,4251405,5166811,True
+PROD-1741,Product Premium Type-1741,Apparel,4222079,5642251,True
+PROD-1742,Product Premium Type-1742,Apparel,5903665,6874367,True
+PROD-1743,Product Premium Type-1743,Home & Living,2612551,3383442,True
+PROD-1744,Product Premium Type-1744,Beauty & Health,6362075,7344342,True
+PROD-1745,Product Premium Type-1745,Electronics,4134070,5896602,False
+PROD-1746,Product Premium Type-1746,Apparel,3423116,4938960,True
+PROD-1747,Product Premium Type-1747,Apparel,2534907,3084182,True
+PROD-1748,Product Premium Type-1748,Home & Living,1831210,2220217,True
+PROD-1749,Product Premium Type-1749,Books,4014284,5524120,True
+PROD-1750,Product Premium Type-1750,Apparel,6381605,7823935,True
+PROD-1751,Product Premium Type-1751,Electronics,51616,73218,True
+PROD-1752,Product Premium Type-1752,Beauty & Health,4167887,5510691,True
+PROD-1753,Product Premium Type-1753,Books,4965359,6232683,True
+PROD-1754,Product Premium Type-1754,Books,1259215,1762659,True
+PROD-1755,Product Premium Type-1755,Home & Living,3863187,5014501,True
+PROD-1756,Product Premium Type-1756,Electronics,4426207,6300660,True
+PROD-1757,Product Premium Type-1757,Apparel,5499198,7855077,True
+PROD-1758,Product Premium Type-1758,Home & Living,6116111,7337046,True
+PROD-1759,Product Premium Type-1759,Electronics,1063218,1223441,True
+PROD-1760,Product Premium Type-1760,Apparel,377365,545360,True
+PROD-1761,Product Premium Type-1761,Beauty & Health,7217767,10262518,True
+PROD-1762,Product Premium Type-1762,Electronics,2409775,2811324,False
+PROD-1763,Product Premium Type-1763,Automotive,4134404,5787794,True
+PROD-1764,Product Premium Type-1764,Home & Living,386309,497311,True
+PROD-1765,Product Premium Type-1765,Books,4275167,5248573,True
+PROD-1766,Product Premium Type-1766,Automotive,3343843,4726936,True
+PROD-1767,Product Premium Type-1767,Electronics,1942577,2348575,False
+PROD-1768,Product Premium Type-1768,Books,2617806,3754431,True
+PROD-1769,Product Premium Type-1769,Apparel,1576899,1910707,True
+PROD-1770,Product Premium Type-1770,Books,802635,1070799,True
+PROD-1771,Product Premium Type-1771,Electronics,738340,898505,False
+PROD-1772,Product Premium Type-1772,Electronics,7316916,9612236,False
+PROD-1773,Product Premium Type-1773,Electronics,303495,411294,False
+PROD-1774,Product Premium Type-1774,Automotive,3305931,3990484,True
+PROD-1775,Product Premium Type-1775,Beauty & Health,6564364,8574803,True
+PROD-1776,Product Premium Type-1776,Home & Living,856257,1105186,True
+PROD-1777,Product Premium Type-1777,Apparel,1871357,2191941,True
+PROD-1778,Product Premium Type-1778,Automotive,1904262,2657383,False
+PROD-1779,Product Premium Type-1779,Automotive,6092537,7619964,True
+PROD-1780,Product Premium Type-1780,Apparel,3668327,4850902,False
+PROD-1781,Product Premium Type-1781,Apparel,1348173,1758604,True
+PROD-1782,Product Premium Type-1782,Electronics,5942054,7748308,True
+PROD-1783,Product Premium Type-1783,Electronics,1747199,2065480,True
+PROD-1784,Product Premium Type-1784,Home & Living,2724134,3478840,True
+PROD-1785,Product Premium Type-1785,Beauty & Health,3055486,3928468,True
+PROD-1786,Product Premium Type-1786,Home & Living,4005053,5487294,True
+PROD-1787,Product Premium Type-1787,Books,725033,1016500,False
+PROD-1788,Product Premium Type-1788,Books,5132742,6741829,True
+PROD-1789,Product Premium Type-1789,Beauty & Health,7061278,8304309,True
+PROD-1790,Product Premium Type-1790,Home & Living,6885810,8407951,True
+PROD-1791,Product Premium Type-1791,Automotive,3926403,4709642,True
+PROD-1792,Product Premium Type-1792,Home & Living,159445,189322,True
+PROD-1793,Product Premium Type-1793,Beauty & Health,4622855,5823733,True
+PROD-1794,Product Premium Type-1794,Books,7257701,8845816,True
+PROD-1795,Product Premium Type-1795,Home & Living,1870700,2273818,True
+PROD-1796,Product Premium Type-1796,Home & Living,2691981,3139948,True
+PROD-1797,Product Premium Type-1797,Books,5433009,6276760,False
+PROD-1798,Product Premium Type-1798,Electronics,6907727,8156854,True
+PROD-1799,Product Premium Type-1799,Home & Living,3845671,4621186,True
+PROD-1800,Product Premium Type-1800,Home & Living,6470293,8277414,True
+PROD-1801,Product Premium Type-1801,Beauty & Health,4933951,6429708,True
+PROD-1802,Product Premium Type-1802,Home & Living,4112138,4902398,True
+PROD-1803,Product Premium Type-1803,Automotive,5126483,6548748,True
+PROD-1804,Product Premium Type-1804,Beauty & Health,896535,1122932,True
+PROD-1805,Product Premium Type-1805,Automotive,1808611,2179425,True
+PROD-1806,Product Premium Type-1806,Books,6494053,7481488,True
+PROD-1807,Product Premium Type-1807,Electronics,1767166,2279830,True
+PROD-1808,Product Premium Type-1808,Home & Living,1060408,1437590,True
+PROD-1809,Product Premium Type-1809,Beauty & Health,1486312,1810154,True
+PROD-1810,Product Premium Type-1810,Automotive,2600606,3093530,True
+PROD-1811,Product Premium Type-1811,Beauty & Health,5078929,7192336,True
+PROD-1812,Product Premium Type-1812,Beauty & Health,521440,642678,True
+PROD-1813,Product Premium Type-1813,Electronics,1496926,1821884,True
+PROD-1814,Product Premium Type-1814,Apparel,1477137,2078522,True
+PROD-1815,Product Premium Type-1815,Books,2898524,4043823,False
+PROD-1816,Product Premium Type-1816,Apparel,2767455,3554806,True
+PROD-1817,Product Premium Type-1817,Beauty & Health,2294409,2975324,True
+PROD-1818,Product Premium Type-1818,Apparel,6038704,7338985,True
+PROD-1819,Product Premium Type-1819,Home & Living,5491901,6444693,True
+PROD-1820,Product Premium Type-1820,Books,1728820,2285551,True
+PROD-1821,Product Premium Type-1821,Electronics,5862912,6915325,True
+PROD-1822,Product Premium Type-1822,Apparel,320599,411899,True
+PROD-1823,Product Premium Type-1823,Automotive,1582009,2265672,False
+PROD-1824,Product Premium Type-1824,Beauty & Health,5164826,7415917,True
+PROD-1825,Product Premium Type-1825,Beauty & Health,6632819,8103976,True
+PROD-1826,Product Premium Type-1826,Books,7148879,9559724,True
+PROD-1827,Product Premium Type-1827,Home & Living,622904,804930,True
+PROD-1828,Product Premium Type-1828,Apparel,3782454,5343493,True
+PROD-1829,Product Premium Type-1829,Beauty & Health,141841,174667,True
+PROD-1830,Product Premium Type-1830,Electronics,5932726,6829224,True
+PROD-1831,Product Premium Type-1831,Apparel,194934,233680,True
+PROD-1832,Product Premium Type-1832,Books,3947750,4953861,True
+PROD-1833,Product Premium Type-1833,Beauty & Health,5851038,7282882,True
+PROD-1834,Product Premium Type-1834,Electronics,1160270,1609768,False
+PROD-1835,Product Premium Type-1835,Home & Living,262068,354884,True
+PROD-1836,Product Premium Type-1836,Beauty & Health,5049592,6260821,True
+PROD-1837,Product Premium Type-1837,Beauty & Health,6417863,8261863,True
+PROD-1838,Product Premium Type-1838,Automotive,3664688,4319449,True
+PROD-1839,Product Premium Type-1839,Books,4174287,5925166,True
+PROD-1840,Product Premium Type-1840,Automotive,1629243,2330839,True
+PROD-1841,Product Premium Type-1841,Apparel,876161,1265124,True
+PROD-1842,Product Premium Type-1842,Home & Living,5504380,7764290,True
+PROD-1843,Product Premium Type-1843,Beauty & Health,4797945,5768033,True
+PROD-1844,Product Premium Type-1844,Home & Living,730356,850031,True
+PROD-1845,Product Premium Type-1845,Home & Living,6068343,8033751,True
+PROD-1846,Product Premium Type-1846,Books,1663846,2368953,True
+PROD-1847,Product Premium Type-1847,Automotive,4255987,5120826,False
+PROD-1848,Product Premium Type-1848,Books,3284819,3784482,True
+PROD-1849,Product Premium Type-1849,Home & Living,6434253,8954220,False
+PROD-1850,Product Premium Type-1850,Home & Living,1484410,1741270,True
+PROD-1851,Product Premium Type-1851,Apparel,349934,445855,True
+PROD-1852,Product Premium Type-1852,Electronics,1827466,2473778,True
+PROD-1853,Product Premium Type-1853,Automotive,3846615,4696867,True
+PROD-1854,Product Premium Type-1854,Automotive,2407865,2829695,True
+PROD-1855,Product Premium Type-1855,Beauty & Health,822583,1135992,True
+PROD-1856,Product Premium Type-1856,Home & Living,489310,655211,True
+PROD-1857,Product Premium Type-1857,Automotive,5458126,7895436,False
+PROD-1858,Product Premium Type-1858,Electronics,3739755,4687006,True
+PROD-1859,Product Premium Type-1859,Books,582242,680366,True
+PROD-1860,Product Premium Type-1860,Books,3152640,4320078,True
+PROD-1861,Product Premium Type-1861,Automotive,793223,1036361,True
+PROD-1862,Product Premium Type-1862,Home & Living,4328677,5254845,True
+PROD-1863,Product Premium Type-1863,Home & Living,4123535,5709111,True
+PROD-1864,Product Premium Type-1864,Electronics,4778292,5787116,True
+PROD-1865,Product Premium Type-1865,Electronics,5229844,6423286,True
+PROD-1866,Product Premium Type-1866,Books,1197304,1410135,True
+PROD-1867,Product Premium Type-1867,Beauty & Health,6252952,7940184,False
+PROD-1868,Product Premium Type-1868,Apparel,7169676,9146203,True
+PROD-1869,Product Premium Type-1869,Books,1668909,2176872,True
+PROD-1870,Product Premium Type-1870,Beauty & Health,5698938,7765881,True
+PROD-1871,Product Premium Type-1871,Apparel,5133728,7299289,False
+PROD-1872,Product Premium Type-1872,Automotive,5085795,6058810,True
+PROD-1873,Product Premium Type-1873,Home & Living,5794049,6757625,True
+PROD-1874,Product Premium Type-1874,Automotive,2024117,2338987,False
+PROD-1875,Product Premium Type-1875,Automotive,944134,1126433,False
+PROD-1876,Product Premium Type-1876,Beauty & Health,1880797,2534157,True
+PROD-1877,Product Premium Type-1877,Apparel,5656107,7738929,True
+PROD-1878,Product Premium Type-1878,Home & Living,6404515,8876348,True
+PROD-1879,Product Premium Type-1879,Books,2954735,3613973,True
+PROD-1880,Product Premium Type-1880,Home & Living,4661440,5788429,True
+PROD-1881,Product Premium Type-1881,Electronics,5901556,7642163,True
+PROD-1882,Product Premium Type-1882,Home & Living,6514759,7615459,True
+PROD-1883,Product Premium Type-1883,Electronics,536162,714887,True
+PROD-1884,Product Premium Type-1884,Books,2595725,3751135,True
+PROD-1885,Product Premium Type-1885,Electronics,3436134,4323487,True
+PROD-1886,Product Premium Type-1886,Apparel,2451277,3372599,True
+PROD-1887,Product Premium Type-1887,Home & Living,5126687,6664745,True
+PROD-1888,Product Premium Type-1888,Automotive,7225987,8586955,True
+PROD-1889,Product Premium Type-1889,Electronics,5349852,7086795,False
+PROD-1890,Product Premium Type-1890,Electronics,5605509,6950619,True
+PROD-1891,Product Premium Type-1891,Books,3225450,3742557,True
+PROD-1892,Product Premium Type-1892,Home & Living,2304042,3088519,True
+PROD-1893,Product Premium Type-1893,Electronics,5166740,7273115,True
+PROD-1894,Product Premium Type-1894,Books,1342621,1682882,True
+PROD-1895,Product Premium Type-1895,Home & Living,6433929,8152358,True
+PROD-1896,Product Premium Type-1896,Beauty & Health,3662967,5191546,True
+PROD-1897,Product Premium Type-1897,Electronics,2392893,3335890,True
+PROD-1898,Product Premium Type-1898,Electronics,1465351,1999450,True
+PROD-1899,Product Premium Type-1899,Home & Living,5791140,7092056,True
+PROD-1900,Product Premium Type-1900,Apparel,1923917,2737858,True
+PROD-1901,Product Premium Type-1901,Home & Living,5078127,6075088,True
+PROD-1902,Product Premium Type-1902,Home & Living,764574,1023023,True
+PROD-1903,Product Premium Type-1903,Automotive,4096495,4746364,True
+PROD-1904,Product Premium Type-1904,Beauty & Health,350437,470677,True
+PROD-1905,Product Premium Type-1905,Automotive,1841760,2271154,True
+PROD-1906,Product Premium Type-1906,Apparel,2116013,2718871,True
+PROD-1907,Product Premium Type-1907,Electronics,6473333,8114836,True
+PROD-1908,Product Premium Type-1908,Beauty & Health,3655623,4393426,True
+PROD-1909,Product Premium Type-1909,Home & Living,3706890,4954607,True
+PROD-1910,Product Premium Type-1910,Apparel,6016305,8510620,True
+PROD-1911,Product Premium Type-1911,Beauty & Health,897834,1290838,False
+PROD-1912,Product Premium Type-1912,Apparel,6068391,7328819,True
+PROD-1913,Product Premium Type-1913,Books,4662370,6365122,True
+PROD-1914,Product Premium Type-1914,Automotive,6651379,8974717,True
+PROD-1915,Product Premium Type-1915,Electronics,644696,807812,True
+PROD-1916,Product Premium Type-1916,Home & Living,4097250,4735313,True
+PROD-1917,Product Premium Type-1917,Apparel,5912774,8023264,False
+PROD-1918,Product Premium Type-1918,Electronics,4137732,5932053,True
+PROD-1919,Product Premium Type-1919,Books,4339366,5813171,True
+PROD-1920,Product Premium Type-1920,Home & Living,7377132,9447065,False
+PROD-1921,Product Premium Type-1921,Apparel,5587045,7305319,True
+PROD-1922,Product Premium Type-1922,Beauty & Health,1057499,1279456,True
+PROD-1923,Product Premium Type-1923,Beauty & Health,3845888,5288723,True
+PROD-1924,Product Premium Type-1924,Books,3001030,4123192,True
+PROD-1925,Product Premium Type-1925,Books,6083749,7261898,True
+PROD-1926,Product Premium Type-1926,Books,2356348,3330446,True
+PROD-1927,Product Premium Type-1927,Electronics,4426913,5448453,False
+PROD-1928,Product Premium Type-1928,Home & Living,2037755,2943897,True
+PROD-1929,Product Premium Type-1929,Home & Living,6991758,8843671,True
+PROD-1930,Product Premium Type-1930,Automotive,4502310,5417923,True
+PROD-1931,Product Premium Type-1931,Home & Living,6590269,8274188,True
+PROD-1932,Product Premium Type-1932,Apparel,7224107,9261695,True
+PROD-1933,Product Premium Type-1933,Automotive,2831284,3314845,True
+PROD-1934,Product Premium Type-1934,Books,1875924,2482720,True
+PROD-1935,Product Premium Type-1935,Beauty & Health,6589478,8759325,True
+PROD-1936,Product Premium Type-1936,Home & Living,2911569,3993738,True
+PROD-1937,Product Premium Type-1937,Automotive,6807577,7888286,True
+PROD-1938,Product Premium Type-1938,Apparel,3375448,4429841,True
+PROD-1939,Product Premium Type-1939,Beauty & Health,1639099,1910980,True
+PROD-1940,Product Premium Type-1940,Apparel,6597531,8974906,True
+PROD-1941,Product Premium Type-1941,Home & Living,1166452,1360921,True
+PROD-1942,Product Premium Type-1942,Apparel,6841080,9738402,True
+PROD-1943,Product Premium Type-1943,Books,7145821,9722781,True
+PROD-1944,Product Premium Type-1944,Automotive,7318859,9530742,True
+PROD-1945,Product Premium Type-1945,Apparel,5575560,7150383,True
+PROD-1946,Product Premium Type-1946,Home & Living,6910248,8217679,True
+PROD-1947,Product Premium Type-1947,Home & Living,6939958,8586808,True
+PROD-1948,Product Premium Type-1948,Electronics,1255796,1771536,True
+PROD-1949,Product Premium Type-1949,Home & Living,138936,197474,True
+PROD-1950,Product Premium Type-1950,Automotive,4235583,4871870,False
+PROD-1951,Product Premium Type-1951,Beauty & Health,3274479,4349296,True
+PROD-1952,Product Premium Type-1952,Books,3537305,4831216,False
+PROD-1953,Product Premium Type-1953,Automotive,5339266,7131252,True
+PROD-1954,Product Premium Type-1954,Apparel,4305428,5056742,True
+PROD-1955,Product Premium Type-1955,Books,5635774,6849254,True
+PROD-1956,Product Premium Type-1956,Books,1937493,2373626,True
+PROD-1957,Product Premium Type-1957,Electronics,2458351,3440504,True
+PROD-1958,Product Premium Type-1958,Apparel,2214063,2853838,True
+PROD-1959,Product Premium Type-1959,Automotive,3007202,3897479,True
+PROD-1960,Product Premium Type-1960,Books,2844182,4068511,True
+PROD-1961,Product Premium Type-1961,Beauty & Health,1018978,1366577,True
+PROD-1962,Product Premium Type-1962,Home & Living,472244,670397,True
+PROD-1963,Product Premium Type-1963,Automotive,5488974,7064049,True
+PROD-1964,Product Premium Type-1964,Beauty & Health,2498188,2984912,True
+PROD-1965,Product Premium Type-1965,Beauty & Health,6277016,8969734,True
+PROD-1966,Product Premium Type-1966,Home & Living,4457027,5738919,True
+PROD-1967,Product Premium Type-1967,Books,3504000,4220530,True
+PROD-1968,Product Premium Type-1968,Home & Living,5679204,7046294,True
+PROD-1969,Product Premium Type-1969,Books,863927,1006682,True
+PROD-1970,Product Premium Type-1970,Books,107806,139122,True
+PROD-1971,Product Premium Type-1971,Books,4050345,5694535,True
+PROD-1972,Product Premium Type-1972,Books,2854045,4081495,False
+PROD-1973,Product Premium Type-1973,Books,1303673,1863966,True
+PROD-1974,Product Premium Type-1974,Electronics,5193638,6167803,True
+PROD-1975,Product Premium Type-1975,Automotive,5211448,6590481,False
+PROD-1976,Product Premium Type-1976,Electronics,4140741,4796918,False
+PROD-1977,Product Premium Type-1977,Books,6513934,9162171,True
+PROD-1978,Product Premium Type-1978,Electronics,6803892,8556756,True
+PROD-1979,Product Premium Type-1979,Apparel,3482521,4664262,True
+PROD-1980,Product Premium Type-1980,Automotive,5957764,8129187,True
+PROD-1981,Product Premium Type-1981,Home & Living,4709013,6022608,True
+PROD-1982,Product Premium Type-1982,Apparel,5957125,7398348,True
+PROD-1983,Product Premium Type-1983,Automotive,4656889,6699697,False
+PROD-1984,Product Premium Type-1984,Automotive,3402932,4897998,True
+PROD-1985,Product Premium Type-1985,Home & Living,2479698,3066967,True
+PROD-1986,Product Premium Type-1986,Apparel,5036412,6516550,True
+PROD-1987,Product Premium Type-1987,Automotive,5069829,7309949,True
+PROD-1988,Product Premium Type-1988,Automotive,5708860,6573526,True
+PROD-1989,Product Premium Type-1989,Automotive,2304023,2934872,True
+PROD-1990,Product Premium Type-1990,Home & Living,2463710,2907515,True
+PROD-1991,Product Premium Type-1991,Electronics,523512,682003,True
+PROD-1992,Product Premium Type-1992,Books,3525967,4080957,True
+PROD-1993,Product Premium Type-1993,Apparel,792442,1008041,True
+PROD-1994,Product Premium Type-1994,Books,500278,608442,True
+PROD-1995,Product Premium Type-1995,Beauty & Health,1955440,2561611,True
+PROD-1996,Product Premium Type-1996,Electronics,6610523,9577313,True
+PROD-1997,Product Premium Type-1997,Books,404593,562449,True
+PROD-1998,Product Premium Type-1998,Automotive,519955,729857,True
+PROD-1999,Product Premium Type-1999,Books,5503878,7378385,True
+PROD-2000,Product Premium Type-2000,Electronics,1545180,1796222,True
+PROD-2001,Product Premium Type-2001,Electronics,6101886,7395725,True
+PROD-2002,Product Premium Type-2002,Electronics,5704487,8143265,True
+PROD-2003,Product Premium Type-2003,Home & Living,7362651,9275717,True
+PROD-2004,Product Premium Type-2004,Beauty & Health,4865349,5746420,True
+PROD-2005,Product Premium Type-2005,Electronics,1651528,2247269,True
+PROD-2006,Product Premium Type-2006,Home & Living,6121696,7589907,True
+PROD-2007,Product Premium Type-2007,Automotive,2939611,3617653,False
+PROD-2008,Product Premium Type-2008,Electronics,2812976,4077108,True
+PROD-2009,Product Premium Type-2009,Home & Living,5564509,7831721,True
+PROD-2010,Product Premium Type-2010,Automotive,1333014,1696102,True
+PROD-2011,Product Premium Type-2011,Books,2272680,3281928,False
+PROD-2012,Product Premium Type-2012,Beauty & Health,4687315,6304597,True
+PROD-2013,Product Premium Type-2013,Home & Living,6614154,9078632,True
+PROD-2014,Product Premium Type-2014,Electronics,2846839,3300778,False
+PROD-2015,Product Premium Type-2015,Electronics,4966064,5892143,False
+PROD-2016,Product Premium Type-2016,Beauty & Health,323783,433845,True
+PROD-2017,Product Premium Type-2017,Automotive,3401910,4829716,True
+PROD-2018,Product Premium Type-2018,Beauty & Health,3627571,4850509,True
+PROD-2019,Product Premium Type-2019,Automotive,1162613,1383750,True
+PROD-2020,Product Premium Type-2020,Beauty & Health,3904928,4626277,True
+PROD-2021,Product Premium Type-2021,Beauty & Health,3880288,5445036,True
+PROD-2022,Product Premium Type-2022,Electronics,7064879,8419857,True
+PROD-2023,Product Premium Type-2023,Beauty & Health,2140226,2795284,True
+PROD-2024,Product Premium Type-2024,Apparel,6987365,8113267,True
+PROD-2025,Product Premium Type-2025,Automotive,1365683,1603586,False
+PROD-2026,Product Premium Type-2026,Apparel,3655400,4941020,True
+PROD-2027,Product Premium Type-2027,Automotive,6019602,8167121,True
+PROD-2028,Product Premium Type-2028,Beauty & Health,2879119,3605926,True
+PROD-2029,Product Premium Type-2029,Books,2698705,3278070,False
+PROD-2030,Product Premium Type-2030,Apparel,6332517,8828244,True
+PROD-2031,Product Premium Type-2031,Apparel,3622170,4401410,True
+PROD-2032,Product Premium Type-2032,Beauty & Health,3330610,4371785,True
+PROD-2033,Product Premium Type-2033,Beauty & Health,478222,688860,True
+PROD-2034,Product Premium Type-2034,Apparel,2113618,2524411,False
+PROD-2035,Product Premium Type-2035,Home & Living,4857094,6956635,True
+PROD-2036,Product Premium Type-2036,Beauty & Health,5552824,6690419,True
+PROD-2037,Product Premium Type-2037,Home & Living,2624327,3464723,True
+PROD-2038,Product Premium Type-2038,Beauty & Health,6947972,8775999,True
+PROD-2039,Product Premium Type-2039,Electronics,4425852,6370919,True
+PROD-2040,Product Premium Type-2040,Books,5730556,7060403,True
+PROD-2041,Product Premium Type-2041,Automotive,4670287,5930785,True
+PROD-2042,Product Premium Type-2042,Beauty & Health,6082366,8788155,True
+PROD-2043,Product Premium Type-2043,Apparel,6784991,8894723,True
+PROD-2044,Product Premium Type-2044,Electronics,2618157,3405669,True
+PROD-2045,Product Premium Type-2045,Electronics,2822909,3464650,True
+PROD-2046,Product Premium Type-2046,Electronics,7378265,10037458,True
+PROD-2047,Product Premium Type-2047,Apparel,7083021,8176015,True
+PROD-2048,Product Premium Type-2048,Automotive,6799692,7920646,True
+PROD-2049,Product Premium Type-2049,Electronics,5948308,7910105,False
+PROD-2050,Product Premium Type-2050,Automotive,2974311,3725331,True
+PROD-2051,Product Premium Type-2051,Electronics,6144922,8824076,True
+PROD-2052,Product Premium Type-2052,Apparel,5600477,7958038,False
+PROD-2053,Product Premium Type-2053,Apparel,6944879,9473591,False
+PROD-2054,Product Premium Type-2054,Electronics,6687064,9331421,True
+PROD-2055,Product Premium Type-2055,Books,242314,327172,True
+PROD-2056,Product Premium Type-2056,Electronics,2660122,3159359,True
+PROD-2057,Product Premium Type-2057,Automotive,5753394,7937744,True
+PROD-2058,Product Premium Type-2058,Books,6470911,7849587,True
+PROD-2059,Product Premium Type-2059,Books,3491032,4353431,True
+PROD-2060,Product Premium Type-2060,Electronics,773692,1079896,True
+PROD-2061,Product Premium Type-2061,Electronics,2407962,3156736,True
+PROD-2062,Product Premium Type-2062,Home & Living,3491689,4916236,True
+PROD-2063,Product Premium Type-2063,Books,2101775,2551366,False
+PROD-2064,Product Premium Type-2064,Books,6744314,8985675,True
+PROD-2065,Product Premium Type-2065,Apparel,1639694,1926865,True
+PROD-2066,Product Premium Type-2066,Apparel,6850978,9200303,True
+PROD-2067,Product Premium Type-2067,Automotive,606904,836775,True
+PROD-2068,Product Premium Type-2068,Home & Living,4490669,5952288,True
+PROD-2069,Product Premium Type-2069,Automotive,3313210,4074815,False
+PROD-2070,Product Premium Type-2070,Beauty & Health,3906143,4528793,False
+PROD-2071,Product Premium Type-2071,Books,4936077,5853371,False
+PROD-2072,Product Premium Type-2072,Beauty & Health,3171779,4239688,True
+PROD-2073,Product Premium Type-2073,Automotive,1970537,2818510,True
+PROD-2074,Product Premium Type-2074,Electronics,2066381,2504371,True
+PROD-2075,Product Premium Type-2075,Books,103116,141321,True
+PROD-2076,Product Premium Type-2076,Apparel,409370,577185,True
+PROD-2077,Product Premium Type-2077,Beauty & Health,2047643,2674763,True
+PROD-2078,Product Premium Type-2078,Electronics,3399659,4592190,True
+PROD-2079,Product Premium Type-2079,Apparel,3477629,4849569,True
+PROD-2080,Product Premium Type-2080,Apparel,544385,668615,True
+PROD-2081,Product Premium Type-2081,Beauty & Health,3553880,4403501,True
+PROD-2082,Product Premium Type-2082,Beauty & Health,1597138,1837009,True
+PROD-2083,Product Premium Type-2083,Apparel,2042337,2938776,True
+PROD-2084,Product Premium Type-2084,Apparel,2348724,3347550,True
+PROD-2085,Product Premium Type-2085,Automotive,2253531,3108454,True
+PROD-2086,Product Premium Type-2086,Beauty & Health,1654753,1942221,True
+PROD-2087,Product Premium Type-2087,Beauty & Health,5205703,6685428,True
+PROD-2088,Product Premium Type-2088,Automotive,251256,296624,True
+PROD-2089,Product Premium Type-2089,Apparel,5041680,5822011,True
+PROD-2090,Product Premium Type-2090,Books,5105291,6814822,False
+PROD-2091,Product Premium Type-2091,Books,6878878,9893538,True
+PROD-2092,Product Premium Type-2092,Home & Living,445539,633048,True
+PROD-2093,Product Premium Type-2093,Home & Living,6519290,8859887,True
+PROD-2094,Product Premium Type-2094,Beauty & Health,5748321,6777225,True
+PROD-2095,Product Premium Type-2095,Electronics,3398307,4187561,True
+PROD-2096,Product Premium Type-2096,Automotive,575242,716761,True
+PROD-2097,Product Premium Type-2097,Books,7026837,9689621,True
+PROD-2098,Product Premium Type-2098,Home & Living,3522831,4899112,False
+PROD-2099,Product Premium Type-2099,Beauty & Health,2873439,3636428,True
+PROD-2100,Product Premium Type-2100,Home & Living,6003106,7656152,True
+PROD-2101,Product Premium Type-2101,Books,5535016,6439175,True
+PROD-2102,Product Premium Type-2102,Books,4745553,5869020,True
+PROD-2103,Product Premium Type-2103,Beauty & Health,6853241,8809056,True
+PROD-2104,Product Premium Type-2104,Electronics,6302935,7469576,True
+PROD-2105,Product Premium Type-2105,Books,2547919,3276573,True
+PROD-2106,Product Premium Type-2106,Books,2046835,2877753,True
+PROD-2107,Product Premium Type-2107,Books,824687,1092212,True
+PROD-2108,Product Premium Type-2108,Apparel,6452095,7572688,True
+PROD-2109,Product Premium Type-2109,Electronics,6103159,7369573,True
+PROD-2110,Product Premium Type-2110,Home & Living,7076633,9145580,False
+PROD-2111,Product Premium Type-2111,Books,3874091,4875334,False
+PROD-2112,Product Premium Type-2112,Electronics,5288269,6650622,True
+PROD-2113,Product Premium Type-2113,Automotive,5443475,7124312,True
+PROD-2114,Product Premium Type-2114,Books,3556674,4713726,True
+PROD-2115,Product Premium Type-2115,Electronics,2445872,3397459,False
+PROD-2116,Product Premium Type-2116,Automotive,7361302,9218484,True
+PROD-2117,Product Premium Type-2117,Home & Living,2952503,4108820,True
+PROD-2118,Product Premium Type-2118,Electronics,4956767,6203807,True
+PROD-2119,Product Premium Type-2119,Beauty & Health,6307827,7358899,True
+PROD-2120,Product Premium Type-2120,Beauty & Health,6319814,8318494,True
+PROD-2121,Product Premium Type-2121,Beauty & Health,375679,498289,True
+PROD-2122,Product Premium Type-2122,Automotive,6817566,9751587,False
+PROD-2123,Product Premium Type-2123,Books,5520437,7550955,True
+PROD-2124,Product Premium Type-2124,Electronics,6524052,9298938,True
+PROD-2125,Product Premium Type-2125,Home & Living,6046656,8601393,True
+PROD-2126,Product Premium Type-2126,Apparel,4849574,6456588,True
+PROD-2127,Product Premium Type-2127,Books,6544585,8562467,True
+PROD-2128,Product Premium Type-2128,Beauty & Health,2451105,3228674,True
+PROD-2129,Product Premium Type-2129,Books,4836671,6981730,True
+PROD-2130,Product Premium Type-2130,Home & Living,1129381,1560748,False
+PROD-2131,Product Premium Type-2131,Electronics,6478877,7657253,True
+PROD-2132,Product Premium Type-2132,Apparel,2041328,2824235,True
+PROD-2133,Product Premium Type-2133,Home & Living,5080769,6102823,True
+PROD-2134,Product Premium Type-2134,Automotive,4457787,5724713,True
+PROD-2135,Product Premium Type-2135,Automotive,6709007,8138950,False
+PROD-2136,Product Premium Type-2136,Apparel,7409073,10053185,True
+PROD-2137,Product Premium Type-2137,Home & Living,6086266,8601068,True
+PROD-2138,Product Premium Type-2138,Beauty & Health,295146,365127,True
+PROD-2139,Product Premium Type-2139,Automotive,5599807,6577551,True
+PROD-2140,Product Premium Type-2140,Books,4326828,5363310,True
+PROD-2141,Product Premium Type-2141,Automotive,6534762,8833093,True
+PROD-2142,Product Premium Type-2142,Electronics,5130593,6406202,True
+PROD-2143,Product Premium Type-2143,Apparel,569026,701855,True
+PROD-2144,Product Premium Type-2144,Beauty & Health,3967863,4782586,True
+PROD-2145,Product Premium Type-2145,Apparel,4333080,5629775,True
+PROD-2146,Product Premium Type-2146,Home & Living,4399798,5424003,True
+PROD-2147,Product Premium Type-2147,Beauty & Health,6268490,8583462,True
+PROD-2148,Product Premium Type-2148,Beauty & Health,6509427,7635471,True
+PROD-2149,Product Premium Type-2149,Automotive,7246352,9776849,True
+PROD-2150,Product Premium Type-2150,Home & Living,6099036,7448557,True
+PROD-2151,Product Premium Type-2151,Books,6086611,7893018,True
+PROD-2152,Product Premium Type-2152,Beauty & Health,4497089,5557623,True
+PROD-2153,Product Premium Type-2153,Apparel,1415254,1934412,True
+PROD-2154,Product Premium Type-2154,Home & Living,293449,420686,True
+PROD-2155,Product Premium Type-2155,Beauty & Health,2875774,4098331,True
+PROD-2156,Product Premium Type-2156,Home & Living,5608281,7431128,False
+PROD-2157,Product Premium Type-2157,Books,4455675,5742398,True
+PROD-2158,Product Premium Type-2158,Electronics,6918707,9654987,True
+PROD-2159,Product Premium Type-2159,Beauty & Health,4200318,5691422,True
+PROD-2160,Product Premium Type-2160,Books,671275,808932,True
+PROD-2161,Product Premium Type-2161,Books,5943806,8299192,True
+PROD-2162,Product Premium Type-2162,Books,149591,191276,True
+PROD-2163,Product Premium Type-2163,Automotive,6908510,8336469,True
+PROD-2164,Product Premium Type-2164,Beauty & Health,6847255,8453204,True
+PROD-2165,Product Premium Type-2165,Apparel,664104,817019,True
+PROD-2166,Product Premium Type-2166,Automotive,2623133,3425187,True
+PROD-2167,Product Premium Type-2167,Beauty & Health,4993024,6093042,True
+PROD-2168,Product Premium Type-2168,Automotive,5162985,6128824,True
+PROD-2169,Product Premium Type-2169,Beauty & Health,4486213,5325616,True
+PROD-2170,Product Premium Type-2170,Automotive,3322154,4401797,True
+PROD-2171,Product Premium Type-2171,Home & Living,1359649,1863300,True
+PROD-2172,Product Premium Type-2172,Apparel,1233468,1537468,True
+PROD-2173,Product Premium Type-2173,Beauty & Health,1185152,1375244,True
+PROD-2174,Product Premium Type-2174,Home & Living,3766104,4474762,False
+PROD-2175,Product Premium Type-2175,Automotive,1008667,1436753,True
+PROD-2176,Product Premium Type-2176,Automotive,3248253,4216437,False
+PROD-2177,Product Premium Type-2177,Home & Living,6330236,8141138,True
+PROD-2178,Product Premium Type-2178,Automotive,2390885,2776809,True
+PROD-2179,Product Premium Type-2179,Automotive,6220196,8512904,True
+PROD-2180,Product Premium Type-2180,Books,905096,1184246,True
+PROD-2181,Product Premium Type-2181,Electronics,7279899,8813222,True
+PROD-2182,Product Premium Type-2182,Electronics,3615437,4277141,True
+PROD-2183,Product Premium Type-2183,Electronics,2226340,2816356,False
+PROD-2184,Product Premium Type-2184,Beauty & Health,2739766,3838819,True
+PROD-2185,Product Premium Type-2185,Apparel,2949537,4157633,True
+PROD-2186,Product Premium Type-2186,Apparel,4809377,6400578,True
+PROD-2187,Product Premium Type-2187,Electronics,1617173,2212714,True
+PROD-2188,Product Premium Type-2188,Beauty & Health,1652059,1956941,True
+PROD-2189,Product Premium Type-2189,Electronics,6301046,8357945,True
+PROD-2190,Product Premium Type-2190,Books,1099477,1484392,True
+PROD-2191,Product Premium Type-2191,Beauty & Health,5946816,7196919,True
+PROD-2192,Product Premium Type-2192,Books,1498300,2118665,False
+PROD-2193,Product Premium Type-2193,Home & Living,6784383,8198920,True
+PROD-2194,Product Premium Type-2194,Apparel,5817632,7237385,False
+PROD-2195,Product Premium Type-2195,Beauty & Health,6245665,8345251,True
+PROD-2196,Product Premium Type-2196,Apparel,6965741,9344576,True
+PROD-2197,Product Premium Type-2197,Electronics,322584,438654,False
+PROD-2198,Product Premium Type-2198,Apparel,1430802,1693502,True
+PROD-2199,Product Premium Type-2199,Beauty & Health,917015,1288258,False
+PROD-2200,Product Premium Type-2200,Books,4800275,6287660,True
+PROD-2201,Product Premium Type-2201,Books,2508502,3239470,True
+PROD-2202,Product Premium Type-2202,Electronics,6488958,9372192,True
+PROD-2203,Product Premium Type-2203,Electronics,1993067,2734714,True
+PROD-2204,Product Premium Type-2204,Automotive,5775874,6846731,True
+PROD-2205,Product Premium Type-2205,Home & Living,1676348,2308267,True
+PROD-2206,Product Premium Type-2206,Electronics,2896259,3413457,True
+PROD-2207,Product Premium Type-2207,Electronics,879741,1018952,False
+PROD-2208,Product Premium Type-2208,Beauty & Health,7148815,9086771,True
+PROD-2209,Product Premium Type-2209,Electronics,3377214,4890453,True
+PROD-2210,Product Premium Type-2210,Books,2048615,2463388,True
+PROD-2211,Product Premium Type-2211,Home & Living,3035087,4102810,True
+PROD-2212,Product Premium Type-2212,Automotive,4669081,5612323,False
+PROD-2213,Product Premium Type-2213,Beauty & Health,166449,227608,True
+PROD-2214,Product Premium Type-2214,Electronics,2700032,3514378,True
+PROD-2215,Product Premium Type-2215,Apparel,5406299,7320082,True
+PROD-2216,Product Premium Type-2216,Home & Living,4515224,5467312,True
+PROD-2217,Product Premium Type-2217,Electronics,3043439,4180737,False
+PROD-2218,Product Premium Type-2218,Beauty & Health,1653662,2395636,True
+PROD-2219,Product Premium Type-2219,Books,160370,216450,False
+PROD-2220,Product Premium Type-2220,Books,881636,1144402,True
+PROD-2221,Product Premium Type-2221,Apparel,2994791,4273423,False
+PROD-2222,Product Premium Type-2222,Beauty & Health,4057516,4685439,True
+PROD-2223,Product Premium Type-2223,Automotive,4667681,6389948,False
+PROD-2224,Product Premium Type-2224,Automotive,2969236,4206290,False
+PROD-2225,Product Premium Type-2225,Apparel,6219868,7267930,False
+PROD-2226,Product Premium Type-2226,Apparel,4711134,6053897,True
+PROD-2227,Product Premium Type-2227,Home & Living,941004,1139947,True
+PROD-2228,Product Premium Type-2228,Books,6560223,8659202,True
+PROD-2229,Product Premium Type-2229,Books,1618786,2177045,True
+PROD-2230,Product Premium Type-2230,Beauty & Health,452244,561138,True
+PROD-2231,Product Premium Type-2231,Home & Living,4723981,6084461,True
+PROD-2232,Product Premium Type-2232,Apparel,7179884,8858554,True
+PROD-2233,Product Premium Type-2233,Apparel,3580912,4514875,True
+PROD-2234,Product Premium Type-2234,Beauty & Health,5036002,6032435,True
+PROD-2235,Product Premium Type-2235,Apparel,4738199,6707715,True
+PROD-2236,Product Premium Type-2236,Books,1300393,1499357,True
+PROD-2237,Product Premium Type-2237,Automotive,2539368,3592501,True
+PROD-2238,Product Premium Type-2238,Apparel,2114319,2794080,True
+PROD-2239,Product Premium Type-2239,Electronics,5150819,6435934,True
+PROD-2240,Product Premium Type-2240,Automotive,7367898,10071306,False
+PROD-2241,Product Premium Type-2241,Electronics,2234821,2910464,False
+PROD-2242,Product Premium Type-2242,Beauty & Health,817330,1062310,False
+PROD-2243,Product Premium Type-2243,Beauty & Health,4499843,5323506,False
+PROD-2244,Product Premium Type-2244,Electronics,1767955,2239742,True
+PROD-2245,Product Premium Type-2245,Apparel,7337203,8968404,True
+PROD-2246,Product Premium Type-2246,Electronics,291150,336193,True
+PROD-2247,Product Premium Type-2247,Apparel,2811905,3537460,True
+PROD-2248,Product Premium Type-2248,Electronics,1870964,2202024,True
+PROD-2249,Product Premium Type-2249,Home & Living,6759714,8294500,True
+PROD-2250,Product Premium Type-2250,Books,514415,605854,True
+PROD-2251,Product Premium Type-2251,Automotive,6191462,7307674,True
+PROD-2252,Product Premium Type-2252,Automotive,3069287,3712926,True
+PROD-2253,Product Premium Type-2253,Electronics,3528548,5116235,True
+PROD-2254,Product Premium Type-2254,Home & Living,671012,772103,True
+PROD-2255,Product Premium Type-2255,Apparel,1660765,2228085,True
+PROD-2256,Product Premium Type-2256,Beauty & Health,7210115,8597147,True
+PROD-2257,Product Premium Type-2257,Beauty & Health,4944161,7051305,True
+PROD-2258,Product Premium Type-2258,Beauty & Health,2610181,3075027,False
+PROD-2259,Product Premium Type-2259,Beauty & Health,2294798,3296520,True
+PROD-2260,Product Premium Type-2260,Automotive,4206726,5608734,True
+PROD-2261,Product Premium Type-2261,Books,3464289,3985250,True
+PROD-2262,Product Premium Type-2262,Apparel,6666620,9454614,True
+PROD-2263,Product Premium Type-2263,Apparel,7459913,9746477,True
+PROD-2264,Product Premium Type-2264,Automotive,6559390,8060184,True
+PROD-2265,Product Premium Type-2265,Books,2030534,2802510,True
+PROD-2266,Product Premium Type-2266,Automotive,157659,225136,False
+PROD-2267,Product Premium Type-2267,Home & Living,2623475,3397681,True
+PROD-2268,Product Premium Type-2268,Home & Living,664872,827543,True
+PROD-2269,Product Premium Type-2269,Automotive,3880798,5381438,True
+PROD-2270,Product Premium Type-2270,Automotive,6308541,8545143,True
+PROD-2271,Product Premium Type-2271,Apparel,4966412,7035547,True
+PROD-2272,Product Premium Type-2272,Electronics,2984470,4052176,True
+PROD-2273,Product Premium Type-2273,Books,961320,1175750,True
+PROD-2274,Product Premium Type-2274,Books,3911912,5592069,True
+PROD-2275,Product Premium Type-2275,Beauty & Health,5035168,5948802,True
+PROD-2276,Product Premium Type-2276,Books,6295142,7745434,True
+PROD-2277,Product Premium Type-2277,Electronics,5447569,7114843,True
+PROD-2278,Product Premium Type-2278,Automotive,5433169,7170275,True
+PROD-2279,Product Premium Type-2279,Electronics,5550908,6409040,False
+PROD-2280,Product Premium Type-2280,Apparel,4486902,6210643,True
+PROD-2281,Product Premium Type-2281,Automotive,1672824,2105219,True
+PROD-2282,Product Premium Type-2282,Home & Living,1175997,1495780,True
+PROD-2283,Product Premium Type-2283,Electronics,3408973,4748054,True
+PROD-2284,Product Premium Type-2284,Electronics,5835786,7375178,False
+PROD-2285,Product Premium Type-2285,Books,5220756,6077834,True
+PROD-2286,Product Premium Type-2286,Apparel,4150903,4993253,True
+PROD-2287,Product Premium Type-2287,Electronics,5314991,7636424,True
+PROD-2288,Product Premium Type-2288,Automotive,457829,536173,True
+PROD-2289,Product Premium Type-2289,Automotive,4436054,5573810,True
+PROD-2290,Product Premium Type-2290,Home & Living,4339896,5646003,True
+PROD-2291,Product Premium Type-2291,Electronics,259000,336177,True
+PROD-2292,Product Premium Type-2292,Apparel,2902429,3341241,True
+PROD-2293,Product Premium Type-2293,Home & Living,347137,451399,True
+PROD-2294,Product Premium Type-2294,Home & Living,7493684,9480497,False
+PROD-2295,Product Premium Type-2295,Books,3048504,4394795,True
+PROD-2296,Product Premium Type-2296,Beauty & Health,2630221,3150341,True
+PROD-2297,Product Premium Type-2297,Home & Living,3945367,4956352,True
+PROD-2298,Product Premium Type-2298,Electronics,7169013,9146545,True
+PROD-2299,Product Premium Type-2299,Apparel,3388244,4293610,True
+PROD-2300,Product Premium Type-2300,Home & Living,4598957,6207438,True
+PROD-2301,Product Premium Type-2301,Electronics,5329482,6473475,True
+PROD-2302,Product Premium Type-2302,Automotive,2325269,2828274,True
+PROD-2303,Product Premium Type-2303,Automotive,4456373,6099719,True
+PROD-2304,Product Premium Type-2304,Apparel,591510,769014,True
+PROD-2305,Product Premium Type-2305,Automotive,4006383,5106322,True
+PROD-2306,Product Premium Type-2306,Automotive,1315894,1580074,True
+PROD-2307,Product Premium Type-2307,Automotive,5857501,7065658,True
+PROD-2308,Product Premium Type-2308,Home & Living,733092,845376,True
+PROD-2309,Product Premium Type-2309,Books,1122996,1322246,False
+PROD-2310,Product Premium Type-2310,Automotive,624792,822883,True
+PROD-2311,Product Premium Type-2311,Electronics,1600326,2268561,True
+PROD-2312,Product Premium Type-2312,Automotive,2393756,2959040,True
+PROD-2313,Product Premium Type-2313,Beauty & Health,4842911,6045522,True
+PROD-2314,Product Premium Type-2314,Electronics,3951690,4681494,True
+PROD-2315,Product Premium Type-2315,Automotive,4883939,6185944,True
+PROD-2316,Product Premium Type-2316,Books,6279597,7291657,True
+PROD-2317,Product Premium Type-2317,Home & Living,6316140,9002269,True
+PROD-2318,Product Premium Type-2318,Beauty & Health,693629,937740,True
+PROD-2319,Product Premium Type-2319,Electronics,1727457,2500018,True
+PROD-2320,Product Premium Type-2320,Electronics,1196248,1692507,True
+PROD-2321,Product Premium Type-2321,Home & Living,3629886,4689439,True
+PROD-2322,Product Premium Type-2322,Books,1408640,1839550,True
+PROD-2323,Product Premium Type-2323,Home & Living,538953,650609,True
+PROD-2324,Product Premium Type-2324,Apparel,6076865,7830719,True
+PROD-2325,Product Premium Type-2325,Home & Living,6734038,9568450,True
+PROD-2326,Product Premium Type-2326,Electronics,4263340,4967882,True
+PROD-2327,Product Premium Type-2327,Apparel,5416321,7631959,True
+PROD-2328,Product Premium Type-2328,Apparel,6459323,8088909,True
+PROD-2329,Product Premium Type-2329,Automotive,7435053,10556688,True
+PROD-2330,Product Premium Type-2330,Beauty & Health,4588653,6572162,False
+PROD-2331,Product Premium Type-2331,Home & Living,710503,960073,True
+PROD-2332,Product Premium Type-2332,Beauty & Health,447641,604014,True
+PROD-2333,Product Premium Type-2333,Electronics,1948217,2505068,True
+PROD-2334,Product Premium Type-2334,Apparel,362283,507436,True
+PROD-2335,Product Premium Type-2335,Books,7077048,10180219,True
+PROD-2336,Product Premium Type-2336,Electronics,1603232,2216507,True
+PROD-2337,Product Premium Type-2337,Automotive,4802421,6418824,True
+PROD-2338,Product Premium Type-2338,Automotive,416180,554367,True
+PROD-2339,Product Premium Type-2339,Beauty & Health,5721390,8037643,True
+PROD-2340,Product Premium Type-2340,Electronics,7117607,9340870,True
+PROD-2341,Product Premium Type-2341,Home & Living,3724243,5181010,True
+PROD-2342,Product Premium Type-2342,Electronics,4853022,6321864,True
+PROD-2343,Product Premium Type-2343,Books,2522934,2948636,True
+PROD-2344,Product Premium Type-2344,Automotive,6328762,8007049,True
+PROD-2345,Product Premium Type-2345,Beauty & Health,603110,773990,True
+PROD-2346,Product Premium Type-2346,Automotive,4243346,5060127,True
+PROD-2347,Product Premium Type-2347,Electronics,4627606,5464040,True
+PROD-2348,Product Premium Type-2348,Automotive,6989203,9160325,True
+PROD-2349,Product Premium Type-2349,Books,2735864,3216126,True
+PROD-2350,Product Premium Type-2350,Apparel,4966714,6163113,True
+PROD-2351,Product Premium Type-2351,Home & Living,4368699,5999879,False
+PROD-2352,Product Premium Type-2352,Beauty & Health,7178314,10331960,True
+PROD-2353,Product Premium Type-2353,Electronics,3735879,5100824,True
+PROD-2354,Product Premium Type-2354,Electronics,3160609,4575890,True
+PROD-2355,Product Premium Type-2355,Electronics,6951767,9450936,True
+PROD-2356,Product Premium Type-2356,Books,960783,1189582,True
+PROD-2357,Product Premium Type-2357,Automotive,5577023,7537992,True
+PROD-2358,Product Premium Type-2358,Apparel,2184932,2972921,True
+PROD-2359,Product Premium Type-2359,Beauty & Health,2931492,3698130,True
+PROD-2360,Product Premium Type-2360,Home & Living,1790520,2068613,True
+PROD-2361,Product Premium Type-2361,Books,3559150,4843860,True
+PROD-2362,Product Premium Type-2362,Books,6167314,7132560,True
+PROD-2363,Product Premium Type-2363,Home & Living,5711321,7649494,True
+PROD-2364,Product Premium Type-2364,Apparel,1766888,2118648,True
+PROD-2365,Product Premium Type-2365,Electronics,3271434,4317249,True
+PROD-2366,Product Premium Type-2366,Electronics,5960903,7756171,True
+PROD-2367,Product Premium Type-2367,Electronics,147019,169667,True
+PROD-2368,Product Premium Type-2368,Apparel,4591156,5779621,True
+PROD-2369,Product Premium Type-2369,Automotive,1790317,2381707,True
+PROD-2370,Product Premium Type-2370,Automotive,204001,286536,True
+PROD-2371,Product Premium Type-2371,Books,2917927,4133513,True
+PROD-2372,Product Premium Type-2372,Beauty & Health,3270988,4236436,True
+PROD-2373,Product Premium Type-2373,Beauty & Health,709494,970961,True
+PROD-2374,Product Premium Type-2374,Beauty & Health,3152022,3924066,True
+PROD-2375,Product Premium Type-2375,Electronics,3873189,4851773,True
+PROD-2376,Product Premium Type-2376,Automotive,618731,747636,True
+PROD-2377,Product Premium Type-2377,Books,7070927,9323614,True
+PROD-2378,Product Premium Type-2378,Electronics,2441826,3038533,True
+PROD-2379,Product Premium Type-2379,Books,4879491,5734920,True
+PROD-2380,Product Premium Type-2380,Books,4315447,5849596,True
+PROD-2381,Product Premium Type-2381,Beauty & Health,3888741,5297732,True
+PROD-2382,Product Premium Type-2382,Apparel,169771,213571,True
+PROD-2383,Product Premium Type-2383,Books,5239636,6146182,False
+PROD-2384,Product Premium Type-2384,Beauty & Health,5774593,7379290,True
+PROD-2385,Product Premium Type-2385,Books,1033923,1326213,True
+PROD-2386,Product Premium Type-2386,Automotive,3023111,4083017,True
+PROD-2387,Product Premium Type-2387,Apparel,1845908,2297463,True
+PROD-2388,Product Premium Type-2388,Electronics,4879977,6611294,True
+PROD-2389,Product Premium Type-2389,Books,1742534,2459493,True
+PROD-2390,Product Premium Type-2390,Electronics,136362,166531,True
+PROD-2391,Product Premium Type-2391,Automotive,3941533,5690296,True
+PROD-2392,Product Premium Type-2392,Home & Living,5558831,7036982,True
+PROD-2393,Product Premium Type-2393,Home & Living,2061503,2536014,True
+PROD-2394,Product Premium Type-2394,Apparel,4395602,5610780,True
+PROD-2395,Product Premium Type-2395,Home & Living,2705990,3188520,True
+PROD-2396,Product Premium Type-2396,Books,4692592,5573446,True
+PROD-2397,Product Premium Type-2397,Electronics,2387854,3042914,True
+PROD-2398,Product Premium Type-2398,Apparel,7309268,10077531,True
+PROD-2399,Product Premium Type-2399,Apparel,2434409,3457088,True
+PROD-2400,Product Premium Type-2400,Electronics,6107311,8241482,True
+PROD-2401,Product Premium Type-2401,Automotive,5979118,7064721,True
+PROD-2402,Product Premium Type-2402,Electronics,3075999,4157538,True
+PROD-2403,Product Premium Type-2403,Apparel,7423251,9951820,True
+PROD-2404,Product Premium Type-2404,Books,1764122,2455180,True
+PROD-2405,Product Premium Type-2405,Beauty & Health,3076622,4299808,True
+PROD-2406,Product Premium Type-2406,Automotive,2811281,3965201,True
+PROD-2407,Product Premium Type-2407,Automotive,800292,1019763,True
+PROD-2408,Product Premium Type-2408,Electronics,3952352,5372666,False
+PROD-2409,Product Premium Type-2409,Electronics,2358647,2902256,True
+PROD-2410,Product Premium Type-2410,Beauty & Health,3748234,5434192,True
+PROD-2411,Product Premium Type-2411,Apparel,6597829,7934550,True
+PROD-2412,Product Premium Type-2412,Electronics,1935217,2231371,True
+PROD-2413,Product Premium Type-2413,Electronics,1625741,1942179,True
+PROD-2414,Product Premium Type-2414,Electronics,214073,296011,False
+PROD-2415,Product Premium Type-2415,Apparel,384281,493430,True
+PROD-2416,Product Premium Type-2416,Books,7140972,9170793,False
+PROD-2417,Product Premium Type-2417,Apparel,7184668,10320824,True
+PROD-2418,Product Premium Type-2418,Home & Living,3132548,4466670,True
+PROD-2419,Product Premium Type-2419,Electronics,4439011,5519281,True
+PROD-2420,Product Premium Type-2420,Home & Living,2363401,2866137,True
+PROD-2421,Product Premium Type-2421,Home & Living,1110610,1559901,True
+PROD-2422,Product Premium Type-2422,Automotive,4390693,6242712,True
+PROD-2423,Product Premium Type-2423,Beauty & Health,3883884,5097516,True
+PROD-2424,Product Premium Type-2424,Apparel,1084165,1451509,True
+PROD-2425,Product Premium Type-2425,Home & Living,5325101,6534294,True
+PROD-2426,Product Premium Type-2426,Apparel,3958817,5503708,True
+PROD-2427,Product Premium Type-2427,Automotive,3531172,4730487,True
+PROD-2428,Product Premium Type-2428,Books,6957973,9052698,True
+PROD-2429,Product Premium Type-2429,Books,850963,993952,True
+PROD-2430,Product Premium Type-2430,Beauty & Health,601515,857026,True
+PROD-2431,Product Premium Type-2431,Electronics,2387460,3186388,True
+PROD-2432,Product Premium Type-2432,Beauty & Health,4312382,5208526,True
+PROD-2433,Product Premium Type-2433,Electronics,2075053,2763795,True
+PROD-2434,Product Premium Type-2434,Electronics,5046983,6829774,False
+PROD-2435,Product Premium Type-2435,Home & Living,784401,1025785,True
+PROD-2436,Product Premium Type-2436,Automotive,2010681,2745445,True
+PROD-2437,Product Premium Type-2437,Apparel,6279350,8316598,True
+PROD-2438,Product Premium Type-2438,Books,6891343,9884466,False
+PROD-2439,Product Premium Type-2439,Beauty & Health,2586913,3016622,True
+PROD-2440,Product Premium Type-2440,Beauty & Health,1844231,2179648,True
+PROD-2441,Product Premium Type-2441,Home & Living,4092784,4919941,False
+PROD-2442,Product Premium Type-2442,Apparel,5146225,6983691,False
+PROD-2443,Product Premium Type-2443,Books,3360379,4515269,False
+PROD-2444,Product Premium Type-2444,Beauty & Health,1574317,2231779,True
+PROD-2445,Product Premium Type-2445,Home & Living,4287511,5873303,True
+PROD-2446,Product Premium Type-2446,Home & Living,6650655,8662522,True
+PROD-2447,Product Premium Type-2447,Automotive,913698,1322623,True
+PROD-2448,Product Premium Type-2448,Home & Living,3511142,4318116,True
+PROD-2449,Product Premium Type-2449,Beauty & Health,2233578,3126914,True
+PROD-2450,Product Premium Type-2450,Apparel,1584657,2025250,True
+PROD-2451,Product Premium Type-2451,Automotive,2256946,3034735,True
+PROD-2452,Product Premium Type-2452,Home & Living,5963271,8158831,True
+PROD-2453,Product Premium Type-2453,Home & Living,3905323,5233625,True
+PROD-2454,Product Premium Type-2454,Beauty & Health,570726,680392,True
+PROD-2455,Product Premium Type-2455,Automotive,2705259,3470537,True
+PROD-2456,Product Premium Type-2456,Automotive,6360312,8385635,True
+PROD-2457,Product Premium Type-2457,Electronics,467244,656343,True
+PROD-2458,Product Premium Type-2458,Electronics,7424839,9526764,False
+PROD-2459,Product Premium Type-2459,Home & Living,5055613,7207404,True
+PROD-2460,Product Premium Type-2460,Books,515999,661568,True
+PROD-2461,Product Premium Type-2461,Beauty & Health,3214189,4225482,True
+PROD-2462,Product Premium Type-2462,Automotive,4837066,6718131,True
+PROD-2463,Product Premium Type-2463,Books,6225853,8248759,True
+PROD-2464,Product Premium Type-2464,Home & Living,6661736,9580012,True
+PROD-2465,Product Premium Type-2465,Electronics,6007357,8098522,True
+PROD-2466,Product Premium Type-2466,Apparel,432407,565075,True
+PROD-2467,Product Premium Type-2467,Apparel,896158,1036924,True
+PROD-2468,Product Premium Type-2468,Automotive,1328306,1692421,True
+PROD-2469,Product Premium Type-2469,Apparel,5514612,6836875,True
+PROD-2470,Product Premium Type-2470,Home & Living,445602,612449,True
+PROD-2471,Product Premium Type-2471,Beauty & Health,3857809,4677528,True
+PROD-2472,Product Premium Type-2472,Automotive,1652650,2002294,True
+PROD-2473,Product Premium Type-2473,Apparel,6592304,7955959,True
+PROD-2474,Product Premium Type-2474,Electronics,81635,96956,True
+PROD-2475,Product Premium Type-2475,Home & Living,7236083,8996637,True
+PROD-2476,Product Premium Type-2476,Beauty & Health,5620734,7957703,True
+PROD-2477,Product Premium Type-2477,Apparel,2887349,3991698,False
+PROD-2478,Product Premium Type-2478,Electronics,2368136,3245708,True
+PROD-2479,Product Premium Type-2479,Apparel,5593017,7769825,True
+PROD-2480,Product Premium Type-2480,Beauty & Health,5380632,6622618,True
+PROD-2481,Product Premium Type-2481,Books,4447888,6299243,True
+PROD-2482,Product Premium Type-2482,Beauty & Health,3589360,4275613,True
+PROD-2483,Product Premium Type-2483,Books,6449342,8067505,True
+PROD-2484,Product Premium Type-2484,Electronics,5346417,7089479,True
+PROD-2485,Product Premium Type-2485,Electronics,7153146,8446946,True
+PROD-2486,Product Premium Type-2486,Books,1745444,2389581,True
+PROD-2487,Product Premium Type-2487,Electronics,110166,139489,True
+PROD-2488,Product Premium Type-2488,Home & Living,2498006,3460541,True
+PROD-2489,Product Premium Type-2489,Home & Living,3468571,4501750,True
+PROD-2490,Product Premium Type-2490,Automotive,6624935,7978159,True
+PROD-2491,Product Premium Type-2491,Books,4003966,5487149,True
+PROD-2492,Product Premium Type-2492,Home & Living,5083589,6230666,True
+PROD-2493,Product Premium Type-2493,Electronics,3889856,5046088,True
+PROD-2494,Product Premium Type-2494,Electronics,322883,378631,True
+PROD-2495,Product Premium Type-2495,Home & Living,6875529,9181306,True
+PROD-2496,Product Premium Type-2496,Automotive,4382356,5915117,True
+PROD-2497,Product Premium Type-2497,Books,4177567,5278783,True
+PROD-2498,Product Premium Type-2498,Books,781079,1121884,True
+PROD-2499,Product Premium Type-2499,Electronics,3658646,5166925,True
+PROD-2500,Product Premium Type-2500,Books,6139328,8364111,True

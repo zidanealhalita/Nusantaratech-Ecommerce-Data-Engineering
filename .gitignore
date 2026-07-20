@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Database (di-generate ulang oleh ETL, tidak perlu di-commit jika ingin repo ringan)
+# Uncomment baris di bawah jika tidak ingin men-commit database hasil ETL:
+# db/*.db
+
+# Generated report artifacts (opsional, uncomment jika tidak ingin men-commit)
+# reports/output/
